@@ -1,0 +1,21 @@
+[
+  { "name": "McKenzie Coan", "sex": "F", "primarySport": "Para Swimming", "representativeYear": 2016, "representativeEvent": "Freestyle S7 events", "medals": { "gold": 4, "silver": 0, "bronze": 0 } },
+  { "name": "Hannah Aspden", "sex": "F", "primarySport": "Para Swimming", "representativeYear": 2020, "representativeEvent": "Freestyle / Backstroke S9", "medals": { "gold": 0, "silver": 1, "bronze": 1 } },
+  { "name": "Robert Griswold", "sex": "M", "primarySport": "Para Swimming", "representativeYear": 2020, "representativeEvent": "100m Butterfly S8", "medals": { "gold": 1, "silver": 1, "bronze": 0 } },
+  { "name": "Anastasia Pagonis", "sex": "F", "primarySport": "Para Swimming", "representativeYear": 2020, "representativeEvent": "400m Freestyle S11", "medals": { "gold": 1, "silver": 1, "bronze": 0 } },
+  { "name": "Hunter Woodhall", "sex": "M", "primarySport": "Para Athletics", "representativeYear": 2024, "representativeEvent": "Men's 400m T62", "medals": { "gold": 1, "silver": 1, "bronze": 0 } },
+  { "name": "Roderick Townsend", "sex": "M", "primarySport": "Para Athletics", "representativeYear": 2020, "representativeEvent": "High Jump T47", "medals": { "gold": 2, "silver": 0, "bronze": 0 } },
+  { "name": "Noah Malone", "sex": "M", "primarySport": "Para Athletics", "representativeYear": 2020, "representativeEvent": "Men's 100m / 400m T12", "medals": { "gold": 0, "silver": 1, "bronze": 0 } },
+  { "name": "Mikey Brannigan", "sex": "M", "primarySport": "Para Athletics", "representativeYear": 2016, "representativeEvent": "Men's 1500m T20", "medals": { "gold": 1, "silver": 0, "bronze": 0 } },
+  { "name": "Ezra Frech", "sex": "M", "primarySport": "Para Athletics", "representativeYear": 2024, "representativeEvent": "High Jump T63 / 100m T63", "medals": { "gold": 2, "silver": 0, "bronze": 0 } },
+  { "name": "Will Groulx", "sex": "M", "primarySport": "Para Cycling", "representativeYear": 2020, "representativeEvent": "Time trial / Road race H1-3", "medals": { "gold": 1, "silver": 1, "bronze": 1 } },
+  { "name": "Erica Davis", "sex": "F", "primarySport": "Wheelchair Basketball", "representativeYear": 2020, "representativeEvent": "Women's Wheelchair Basketball", "medals": { "gold": 1, "silver": 0, "bronze": 0 } },
+  { "name": "Rose Hollermann", "sex": "F", "primarySport": "Wheelchair Basketball", "representativeYear": 2020, "representativeEvent": "Women's Wheelchair Basketball", "medals": { "gold": 1, "silver": 0, "bronze": 0 } },
+  { "name": "Sarah Adam", "sex": "F", "primarySport": "Wheelchair Rugby", "representativeYear": 2024, "representativeEvent": "Mixed Wheelchair Rugby", "medals": { "gold": 0, "silver": 1, "bronze": 0 } },
+  { "name": "Hailey Danz", "sex": "F", "primarySport": "Para Triathlon", "representativeYear": 2020, "representativeEvent": "Women's PTS2 Triathlon", "medals": { "gold": 0, "silver": 2, "bronze": 0 } },
+  { "name": "Kendall Gretsch", "sex": "F", "primarySport": "Para Triathlon", "representativeYear": 2020, "representativeEvent": "Women's PTWC Triathlon", "medals": { "gold": 1, "silver": 0, "bronze": 0 } },
+  { "name": "Melissa Stockwell", "sex": "F", "primarySport": "Para Triathlon", "representativeYear": 2016, "representativeEvent": "Women's PT2 Triathlon", "medals": { "gold": 0, "silver": 0, "bronze": 1 } },
+  { "name": "Roxanne Trunnell", "sex": "F", "primarySport": "Para Equestrian", "representativeYear": 2020, "representativeEvent": "Individual / Team Dressage Grade I", "medals": { "gold": 2, "silver": 0, "bronze": 1 } },
+  { "name": "Whitney Dosty", "sex": "F", "primarySport": "Sitting Volleyball", "representativeYear": 2020, "representativeEvent": "Women's Sitting Volleyball", "medals": { "gold": 1, "silver": 0, "bronze": 0 } },
+  { "name": "Mary Kate Callahan", "sex": "F", "primarySport": "Para Triathlon", "representativeYear": 2016, "representativeEvent": "Women's PT1 Triathlon", "medals": { "gold": 0, "silver": 0, "bronze": 0 } }
+]

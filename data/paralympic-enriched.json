@@ -1,0 +1,458 @@
+[
+  {
+    "id": "para-enriched-mckenzie-coan",
+    "name": "McKenzie Coan",
+    "sex": "F",
+    "height_cm": 130,
+    "weight_kg": null,
+    "age": 20,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Para Swimming",
+        "event": "Freestyle S7 events",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 4,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is from Team USA profile. No weight data found."
+  },
+  {
+    "id": "para-enriched-hannah-aspden",
+    "name": "Hannah Aspden",
+    "sex": "F",
+    "height_cm": 178,
+    "weight_kg": null,
+    "age": 20,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Swimming",
+        "event": "Freestyle / Backstroke S9",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height is from Team USA. No weight data found. Birth year from Wikipedia, Amplitude, and Ask Oracle."
+  },
+  {
+    "id": "para-enriched-robert-griswold",
+    "name": "Robert Griswold",
+    "sex": "M",
+    "height_cm": 183,
+    "weight_kg": null,
+    "age": 24,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Swimming",
+        "event": "100m Butterfly S8",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height of 183 cm was found on Wikipedia, and 180 cm (5'11\") on Carson-Newman Athletics, which is within 3cm. Weight sources disagreed by more than 3kg."
+  },
+  {
+    "id": "para-enriched-anastasia-pagonis",
+    "name": "Anastasia Pagonis",
+    "sex": "F",
+    "height_cm": 165,
+    "weight_kg": null,
+    "age": 17,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Swimming",
+        "event": "400m Freestyle S11",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height sources consistently reported 5'5\" or 165 cm. Publicly listed weight data was not found. Age is calculated based on her birth year (2004) and the actual year the 2020 Paralympic Games were held (2021), aligning with sources stating she was 17 during the event."
+  },
+  {
+    "id": "para-enriched-hunter-woodhall",
+    "name": "Hunter Woodhall",
+    "sex": "M",
+    "height_cm": 188,
+    "weight_kg": 73,
+    "age": 25,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Athletics",
+        "event": "Men's 400m T62",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is from Team USA profile, weight from Gatorade profile, and birth year is consistent across multiple sources."
+  },
+  {
+    "id": "para-enriched-roderick-townsend",
+    "name": "Roderick Townsend",
+    "sex": "M",
+    "height_cm": 201,
+    "weight_kg": 95,
+    "age": 28,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "High Jump T47",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and birth year are consistent across multiple sources; weight is from Wikipedia."
+  },
+  {
+    "id": "para-enriched-noah-malone",
+    "name": "Noah Malone",
+    "sex": "M",
+    "height_cm": 180,
+    "weight_kg": 72,
+    "age": 19,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "Men's 100m / 400m T12",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Multiple sources, including Wikipedia and Team USA, consistently report Noah Malone's height as 5'11\" (180 cm) and weight as 158 lbs (72 kg), and his birth year as 2001."
+  },
+  {
+    "id": "para-enriched-mikey-brannigan",
+    "name": "Mikey Brannigan",
+    "sex": "M",
+    "height_cm": 180,
+    "weight_kg": 64,
+    "age": 20,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Para Athletics",
+        "event": "Men's 1500m T20",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height from Team USA, weight from NCSA Recruiting Profile, birth year from multiple sources."
+  },
+  {
+    "id": "para-enriched-ezra-frech",
+    "name": "Ezra Frech",
+    "sex": "M",
+    "height_cm": 186,
+    "weight_kg": 68,
+    "age": 19,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Athletics",
+        "event": "High Jump T63 / 100m T63",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Multiple sources agreed on height, weight, and birth year."
+  },
+  {
+    "id": "para-enriched-will-groulx",
+    "name": "Will Groulx",
+    "sex": "M",
+    "height_cm": 191,
+    "weight_kg": null,
+    "age": 46,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Cycling",
+        "event": "Time trial / Road race H1-3",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height is from Team USA profile. No publicly listed weight was found. Birth year from Wikipedia and Military Wiki."
+  },
+  {
+    "id": "para-enriched-erica-davis",
+    "name": "Erica Davis",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Basketball",
+        "event": "Women's Wheelchair Basketball",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No authoritative sources explicitly list the height and weight for Erica Davis as a Team USA Wheelchair Basketball Paralympian for the 2020 Games. Birth year is also not directly confirmed for a wheelchair basketball Paralympian named Erica Davis."
+  },
+  {
+    "id": "para-enriched-rose-hollermann",
+    "name": "Rose Hollermann",
+    "sex": "F",
+    "height_cm": 173,
+    "weight_kg": null,
+    "age": 25,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Basketball",
+        "event": "Women's Wheelchair Basketball",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is consistently reported as 5'8\" (173 cm) across multiple sources. Weight data was not found."
+  },
+  {
+    "id": "para-enriched-sarah-adam",
+    "name": "Sarah Adam",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 33,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Wheelchair Rugby",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data were not found in the consulted sources. Birth year (1990) was used to calculate age at the 2024 Paralympic Games (August 28 - September 8, 2024)."
+  },
+  {
+    "id": "para-enriched-hailey-danz",
+    "name": "Hailey Danz",
+    "sex": "F",
+    "height_cm": 160,
+    "weight_kg": null,
+    "age": 29,
+    "games": "paralympic",
+    "primarySport": "Para Triathlon",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Triathlon",
+        "event": "Women's PTS2 Triathlon",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 2,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and birth year were consistent across multiple sources. Weight data was not found."
+  },
+  {
+    "id": "para-enriched-kendall-gretsch",
+    "name": "Kendall Gretsch",
+    "sex": "F",
+    "height_cm": 152,
+    "weight_kg": 50,
+    "age": 28,
+    "games": "paralympic",
+    "primarySport": "Para Triathlon",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Triathlon",
+        "event": "Women's PTWC Triathlon",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height of 152 cm is consistently stated by Wikipedia and TRI247. Weight of 50 kg is from Wikipedia. Birth year of 1992 is from multiple sources."
+  },
+  {
+    "id": "para-enriched-melissa-stockwell",
+    "name": "Melissa Stockwell",
+    "sex": "F",
+    "height_cm": 165,
+    "weight_kg": 59,
+    "age": 36,
+    "games": "paralympic",
+    "primarySport": "Para Triathlon",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Para Triathlon",
+        "event": "Women's PT2 Triathlon",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight are consistent across multiple sources, and birth year is consistently listed as 1980."
+  },
+  {
+    "id": "para-enriched-roxanne-trunnell",
+    "name": "Roxanne Trunnell",
+    "sex": "F",
+    "height_cm": 175,
+    "weight_kg": null,
+    "age": 35,
+    "games": "paralympic",
+    "primarySport": "Para Equestrian",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Equestrian",
+        "event": "Individual / Team Dressage Grade I",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height is from Team USA. Birth year is consistent across multiple sources. No weight data found."
+  },
+  {
+    "id": "para-enriched-whitney-dosty",
+    "name": "Whitney Dosty",
+    "sex": "F",
+    "height_cm": 191,
+    "weight_kg": 75,
+    "age": 32,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Sitting Volleyball",
+        "event": "Women's Sitting Volleyball",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height sources agreed on 6'3\" (191 cm); weight was only found in one source; birth year is consistently 1988."
+  },
+  {
+    "id": "para-enriched-mary-kate-callahan",
+    "name": "Mary Kate Callahan",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 20,
+    "games": "paralympic",
+    "primarySport": "Para Triathlon",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Para Triathlon",
+        "event": "Women's PT1 Triathlon",
+        "medal": null
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Publicly listed height and weight data were not found across multiple authoritative sources. Her age at the 2016 Paralympic Games is calculated based on her birth year of 1995 and her December birth month."
+  }
+]

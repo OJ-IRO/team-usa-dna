@@ -1,0 +1,157 @@
+@import "tailwindcss";
+
+:root {
+  --background: #03040a;
+  --foreground: #f4f5f9;
+  --surface: rgba(255, 255, 255, 0.04);
+  --surface-strong: rgba(255, 255, 255, 0.08);
+  --border: rgba(255, 255, 255, 0.08);
+  --border-strong: rgba(255, 255, 255, 0.16);
+  --muted: rgba(244, 245, 249, 0.62);
+  --muted-soft: rgba(244, 245, 249, 0.42);
+  --accent-red: #ef3a47;
+  --accent-blue: #4983ff;
+  --accent-gold: #f5b50a;
+  --olympic: #4983ff;
+  --paralympic: #ef3a47;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-surface-strong: var(--surface-strong);
+  --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
+  --color-muted: var(--muted);
+  --color-muted-soft: var(--muted-soft);
+  --color-accent-red: var(--accent-red);
+  --color-accent-blue: var(--accent-blue);
+  --color-accent-gold: var(--accent-gold);
+  --color-olympic: var(--olympic);
+  --color-paralympic: var(--paralympic);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+html,
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), -apple-system, system-ui, sans-serif;
+}
+
+body {
+  background-image:
+    radial-gradient(1200px 600px at 12% -8%, rgba(73, 131, 255, 0.18), transparent 60%),
+    radial-gradient(900px 500px at 110% 10%, rgba(239, 58, 71, 0.16), transparent 60%),
+    radial-gradient(1400px 700px at 50% 110%, rgba(245, 181, 10, 0.08), transparent 60%);
+  background-attachment: fixed;
+  letter-spacing: -0.005em;
+}
+
+::selection {
+  background: rgba(73, 131, 255, 0.35);
+  color: white;
+}
+
+/* Glass card */
+.glass {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  backdrop-filter: blur(18px) saturate(140%);
+  -webkit-backdrop-filter: blur(18px) saturate(140%);
+}
+
+.glass-strong {
+  background: var(--surface-strong);
+  border: 1px solid var(--border-strong);
+  backdrop-filter: blur(22px) saturate(160%);
+  -webkit-backdrop-filter: blur(22px) saturate(160%);
+}
+
+/* Subtle inner highlight for premium look */
+.glass-shine {
+  position: relative;
+}
+.glass-shine::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  pointer-events: none;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.08), transparent 35%);
+}
+
+/* Typography helpers */
+.display {
+  font-feature-settings: "ss01", "cv11";
+  letter-spacing: -0.035em;
+  line-height: 0.95;
+}
+
+/* Scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Better focus rings */
+:focus-visible {
+  outline: 2px solid var(--accent-blue);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+/* Range slider — for sliders in onboarding */
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 6px;
+  border-radius: 999px;
+  background: linear-gradient(to right, var(--olympic), var(--accent-gold), var(--paralympic));
+  outline: none;
+}
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: white;
+  box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.4), 0 8px 20px rgba(0, 0, 0, 0.4);
+  cursor: pointer;
+  transition: transform 0.15s;
+}
+input[type="range"]::-webkit-slider-thumb:hover {
+  transform: scale(1.08);
+}
+input[type="range"]::-moz-range-thumb {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: white;
+  border: none;
+  box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.4), 0 8px 20px rgba(0, 0, 0, 0.4);
+  cursor: pointer;
+}
+
+/* Number / text inputs default styling */
+.field-input {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--foreground);
+  padding: 0.85rem 1rem;
+  border-radius: 12px;
+  width: 100%;
+  font-size: 1rem;
+  transition: all 0.15s;
+}
+.field-input:focus {
+  border-color: var(--accent-blue);
+  background: var(--surface-strong);
+  outline: none;
+}
+.field-input::placeholder {
+  color: var(--muted-soft);
+}

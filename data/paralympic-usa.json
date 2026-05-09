@@ -1,0 +1,333 @@
+[
+  {
+    "id": "para-mcfadden-tatyana",
+    "name": "Tatyana McFadden",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 27,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      { "year": 2012, "sport": "Para Athletics", "event": "Wheelchair 400m / 800m / 1500m / Marathon", "medal": "Gold" },
+      { "year": 2016, "sport": "Para Athletics", "event": "Wheelchair 400m / 800m / 1500m / 5000m / Marathon", "medal": "Gold" },
+      { "year": 2020, "sport": "Para Athletics", "event": "Wheelchair 5000m / Marathon", "medal": "Gold" }
+    ],
+    "medals": { "gold": 8, "silver": 6, "bronze": 3 }
+  },
+  {
+    "id": "para-long-jessica",
+    "name": "Jessica Long",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 24,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      { "year": 2008, "sport": "Para Swimming", "event": "Multiple swimming events", "medal": "Gold" },
+      { "year": 2012, "sport": "Para Swimming", "event": "Multiple swimming events", "medal": "Gold" },
+      { "year": 2016, "sport": "Para Swimming", "event": "Multiple swimming events", "medal": "Gold" },
+      { "year": 2020, "sport": "Para Swimming", "event": "Multiple swimming events", "medal": "Silver" }
+    ],
+    "medals": { "gold": 16, "silver": 8, "bronze": 5 }
+  },
+  {
+    "id": "para-weggemann-mallory",
+    "name": "Mallory Weggemann",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 26,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      { "year": 2012, "sport": "Para Swimming", "event": "50m freestyle / 50m butterfly", "medal": "Gold" },
+      { "year": 2020, "sport": "Para Swimming", "event": "200m IM / 100m backstroke", "medal": "Gold" }
+    ],
+    "medals": { "gold": 3, "silver": 3, "bronze": 1 }
+  },
+  {
+    "id": "para-masters-oksana",
+    "name": "Oksana Masters",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 27,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      { "year": 2012, "sport": "Para Rowing", "event": "Trunk and Arms Mixed Double Sculls", "medal": "Bronze" },
+      { "year": 2016, "sport": "Para Cycling", "event": "Road race / time trial", "medal": "Silver" },
+      { "year": 2020, "sport": "Para Cycling", "event": "Road race / time trial", "medal": "Gold" }
+    ],
+    "medals": { "gold": 2, "silver": 2, "bronze": 1 }
+  },
+  {
+    "id": "para-seely-allysa",
+    "name": "Allysa Seely",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 27,
+    "games": "paralympic",
+    "primarySport": "Para Triathlon",
+    "events": [
+      { "year": 2016, "sport": "Para Triathlon", "event": "Women's PT2 Triathlon", "medal": "Gold" },
+      { "year": 2020, "sport": "Para Triathlon", "event": "Women's PTS2 Triathlon", "medal": "Gold" }
+    ],
+    "medals": { "gold": 2, "silver": 0, "bronze": 0 }
+  },
+  {
+    "id": "para-norman-grace",
+    "name": "Grace Norman",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 18,
+    "games": "paralympic",
+    "primarySport": "Para Triathlon",
+    "events": [
+      { "year": 2016, "sport": "Para Triathlon", "event": "Women's PT4 Triathlon", "medal": "Gold" },
+      { "year": 2016, "sport": "Para Athletics", "event": "Women's 400m T44", "medal": "Bronze" },
+      { "year": 2020, "sport": "Para Triathlon", "event": "Women's PTS5 Triathlon", "medal": "Silver" }
+    ],
+    "medals": { "gold": 1, "silver": 1, "bronze": 1 }
+  },
+  {
+    "id": "para-scaroni-susannah",
+    "name": "Susannah Scaroni",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 30,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      { "year": 2020, "sport": "Para Athletics", "event": "Wheelchair 5000m T54", "medal": "Gold" },
+      { "year": 2020, "sport": "Para Athletics", "event": "Wheelchair Marathon T54", "medal": "Bronze" }
+    ],
+    "medals": { "gold": 1, "silver": 0, "bronze": 1 }
+  },
+  {
+    "id": "para-meyers-becca",
+    "name": "Becca Meyers",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 21,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      { "year": 2016, "sport": "Para Swimming", "event": "Multiple swimming S13/SM13", "medal": "Gold" }
+    ],
+    "medals": { "gold": 3, "silver": 1, "bronze": 1 }
+  },
+  {
+    "id": "para-snyder-brad",
+    "name": "Brad Snyder",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 32,
+    "games": "paralympic",
+    "primarySport": "Para Triathlon",
+    "events": [
+      { "year": 2012, "sport": "Para Swimming", "event": "100m freestyle S11 / 400m freestyle S11", "medal": "Gold" },
+      { "year": 2016, "sport": "Para Swimming", "event": "Multiple swimming S11", "medal": "Gold" },
+      { "year": 2020, "sport": "Para Triathlon", "event": "Men's PTVI Triathlon", "medal": "Gold" }
+    ],
+    "medals": { "gold": 5, "silver": 2, "bronze": 0 }
+  },
+  {
+    "id": "para-brown-david",
+    "name": "David Brown",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 28,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      { "year": 2016, "sport": "Para Athletics", "event": "Men's 100m T11", "medal": "Gold" }
+    ],
+    "medals": { "gold": 1, "silver": 0, "bronze": 0 }
+  },
+  {
+    "id": "para-gillette-lex",
+    "name": "Lex Gillette",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 31,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      { "year": 2008, "sport": "Para Athletics", "event": "Long Jump T11", "medal": "Silver" },
+      { "year": 2012, "sport": "Para Athletics", "event": "Long Jump F11", "medal": "Silver" },
+      { "year": 2016, "sport": "Para Athletics", "event": "Long Jump T11", "medal": "Silver" }
+    ],
+    "medals": { "gold": 0, "silver": 4, "bronze": 0 }
+  },
+  {
+    "id": "para-singleton-jerome",
+    "name": "Jerome Singleton",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 26,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      { "year": 2008, "sport": "Para Athletics", "event": "Men's 4x100m relay T42-46", "medal": "Gold" },
+      { "year": 2012, "sport": "Para Athletics", "event": "Men's 100m T44", "medal": "Silver" }
+    ],
+    "medals": { "gold": 1, "silver": 1, "bronze": 0 }
+  },
+  {
+    "id": "para-romanchuk-daniel",
+    "name": "Daniel Romanchuk",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 22,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      { "year": 2020, "sport": "Para Athletics", "event": "Wheelchair 400m T54", "medal": "Bronze" },
+      { "year": 2020, "sport": "Para Athletics", "event": "Wheelchair 800m T54", "medal": "Bronze" }
+    ],
+    "medals": { "gold": 0, "silver": 0, "bronze": 2 }
+  },
+  {
+    "id": "para-pike-aaron",
+    "name": "Aaron Pike",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 30,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      { "year": 2012, "sport": "Para Athletics", "event": "Wheelchair distance T54", "medal": null },
+      { "year": 2016, "sport": "Para Athletics", "event": "Wheelchair distance T54", "medal": null }
+    ],
+    "medals": { "gold": 0, "silver": 0, "bronze": 0 }
+  },
+  {
+    "id": "para-aoki-chuck",
+    "name": "Chuck Aoki",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 26,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      { "year": 2016, "sport": "Wheelchair Rugby", "event": "Mixed team", "medal": "Bronze" },
+      { "year": 2020, "sport": "Wheelchair Rugby", "event": "Mixed team", "medal": "Silver" }
+    ],
+    "medals": { "gold": 0, "silver": 1, "bronze": 1 }
+  },
+  {
+    "id": "para-serio-steve",
+    "name": "Steve Serio",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 29,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      { "year": 2016, "sport": "Wheelchair Basketball", "event": "Men's team", "medal": "Gold" },
+      { "year": 2020, "sport": "Wheelchair Basketball", "event": "Men's team", "medal": "Bronze" }
+    ],
+    "medals": { "gold": 1, "silver": 0, "bronze": 2 }
+  },
+  {
+    "id": "para-scott-matt",
+    "name": "Matt Scott",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 31,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      { "year": 2016, "sport": "Wheelchair Basketball", "event": "Men's team", "medal": "Gold" }
+    ],
+    "medals": { "gold": 1, "silver": 0, "bronze": 1 }
+  },
+  {
+    "id": "para-blunk-megan",
+    "name": "Megan Blunk",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 25,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      { "year": 2016, "sport": "Wheelchair Basketball", "event": "Women's team", "medal": "Gold" }
+    ],
+    "medals": { "gold": 1, "silver": 0, "bronze": 0 }
+  },
+  {
+    "id": "para-webster-lora",
+    "name": "Lora Webster",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 30,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      { "year": 2016, "sport": "Sitting Volleyball", "event": "Women's team", "medal": "Gold" },
+      { "year": 2020, "sport": "Sitting Volleyball", "event": "Women's team", "medal": "Gold" }
+    ],
+    "medals": { "gold": 2, "silver": 1, "bronze": 0 }
+  },
+  {
+    "id": "para-erickson-heather",
+    "name": "Heather Erickson",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 31,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      { "year": 2012, "sport": "Sitting Volleyball", "event": "Women's team", "medal": "Silver" },
+      { "year": 2016, "sport": "Sitting Volleyball", "event": "Women's team", "medal": "Gold" }
+    ],
+    "medals": { "gold": 1, "silver": 1, "bronze": 0 }
+  },
+  {
+    "id": "para-stutzman-matt",
+    "name": "Matt Stutzman",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 29,
+    "games": "paralympic",
+    "primarySport": "Para Archery",
+    "events": [
+      { "year": 2012, "sport": "Para Archery", "event": "Men's Individual Compound Open", "medal": "Silver" }
+    ],
+    "medals": { "gold": 0, "silver": 1, "bronze": 0 }
+  },
+  {
+    "id": "para-czechowski-lisa",
+    "name": "Lisa Czechowski",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 29,
+    "games": "paralympic",
+    "primarySport": "Goalball",
+    "events": [
+      { "year": 2008, "sport": "Goalball", "event": "Women's team", "medal": "Bronze" }
+    ],
+    "medals": { "gold": 0, "silver": 0, "bronze": 1 }
+  }
+]

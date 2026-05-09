@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "modern-caeleb-dressel",
+    "name": "Caeleb Dressel",
+    "sex": "M",
+    "height_cm": 191,
+    "weight_kg": null,
+    "age": 24,
+    "games": "olympic",
+    "primarySport": "Swimming",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Swimming",
+        "event": "100m freestyle / 50m freestyle / 100m butterfly",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 5,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height sources mostly agreed on 191 cm (6'3\"), while weight sources disagreed by more than 3 kg."
+  },
+  {
+    "id": "modern-katie-ledecky",
+    "name": "Katie Ledecky",
+    "sex": "F",
+    "height_cm": 183,
+    "weight_kg": null,
+    "age": 27,
+    "games": "olympic",
+    "primarySport": "Swimming",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Swimming",
+        "event": "1500m freestyle / 800m freestyle",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 9,
+      "silver": 4,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is consistently reported as 183 cm across multiple sources. Weight data varies by more than 3kg across sources, so it is null. Age is calculated from her birth year (1997) for the year 2024."
+  },
+  {
+    "id": "modern-bobby-finke",
+    "name": "Bobby Finke",
+    "sex": "M",
+    "height_cm": 185,
+    "weight_kg": null,
+    "age": 24,
+    "games": "olympic",
+    "primarySport": "Swimming",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Swimming",
+        "event": "1500m freestyle / 800m freestyle",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 3,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height of 185 cm was consistently reported by Wikipedia, Team USA, and Sportskeeda. Weight data from Wikipedia and Sportskeeda showed a discrepancy of more than 3 kg (78 kg vs 72 kg). Birth year is consistently November 6, 1999, making him 24 for most of 2024, as confirmed by Sportskeeda and Team USA."
+  },
+  {
+    "id": "modern-lilly-king",
+    "name": "Lilly King",
+    "sex": "F",
+    "height_cm": 175,
+    "weight_kg": 70,
+    "age": 23,
+    "games": "olympic",
+    "primarySport": "Swimming",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Swimming",
+        "event": "100m breaststroke",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 2,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height sources (Wikipedia, Olympedia, Team USA, Sportskeeda) agreed within 1 cm. Weight sources (Wikipedia, Olympedia, Sportskeeda) agreed. Birth year (1997) was consistently reported across multiple sources."
+  },
+  {
+    "id": "modern-ryan-murphy",
+    "name": "Ryan Murphy",
+    "sex": "M",
+    "height_cm": 191,
+    "weight_kg": 91,
+    "age": 25,
+    "games": "olympic",
+    "primarySport": "Swimming",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Swimming",
+        "event": "100m / 200m backstroke",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 3,
+      "silver": 1,
+      "bronze": 2
+    },
+    "_enrichmentNotes": "Height from Olympics.com and Team USA, weight from Peak Performance Swim Camp and California Golden Bears Athletics, and birth year from multiple sources including Wikipedia, SwimSwam, and Olympics.com, were consistent."
+  },
+  {
+    "id": "modern-torri-huske",
+    "name": "Torri Huske",
+    "sex": "F",
+    "height_cm": 173,
+    "weight_kg": 53,
+    "age": 22,
+    "games": "olympic",
+    "primarySport": "Swimming",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Swimming",
+        "event": "100m butterfly",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is consistently listed as 5'8\" across multiple sources, converting to 173 cm. Weight is cited as 53 kg by one source. Age is calculated from her birth year (2002) and the Olympic year (2024)."
+  },
+  {
+    "id": "modern-regan-smith",
+    "name": "Regan Smith",
+    "sex": "F",
+    "height_cm": 170,
+    "weight_kg": 56,
+    "age": 22,
+    "games": "olympic",
+    "primarySport": "Swimming",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Swimming",
+        "event": "200m butterfly / 100m backstroke",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 3,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Wikipedia, Sportskeeda, and Team USA agree on height and weight. Birth year is consistently reported as 2002, making her 22 in 2024."
+  },
+  {
+    "id": "modern-kate-douglass",
+    "name": "Kate Douglass",
+    "sex": "F",
+    "height_cm": 178,
+    "weight_kg": 57,
+    "age": 22,
+    "games": "olympic",
+    "primarySport": "Swimming",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Swimming",
+        "event": "200m breaststroke",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 2,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across Wikipedia, NBC Olympics, Olympedia, and Sportskeeda. Birth year is consistent across multiple sources."
+  },
+  {
+    "id": "modern-hunter-armstrong",
+    "name": "Hunter Armstrong",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 23,
+    "games": "olympic",
+    "primarySport": "Swimming",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Swimming",
+        "event": "4x100m freestyle relay / backstroke",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Sources disagreed on height by more than 3cm (6'8\" vs 6'6\"); only one source found for weight."
+  },
+  {
+    "id": "modern-nic-fink",
+    "name": "Nic Fink",
+    "sex": "M",
+    "height_cm": 191,
+    "weight_kg": 88,
+    "age": 31,
+    "games": "olympic",
+    "primarySport": "Swimming",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Swimming",
+        "event": "100m breaststroke / medley relay",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 2,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and birth year are consistent across multiple sources. Weight is from one source with consistent imperial and metric values."
+  },
+  {
+    "id": "modern-sydney-mclaughlin-levrone",
+    "name": "Sydney McLaughlin-Levrone",
+    "sex": "F",
+    "height_cm": 175,
+    "weight_kg": 60,
+    "age": 25,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "400m hurdles",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 3,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height sources agreed on 175 cm. Weight sources varied between 60 kg and 61 kg; 60 kg was chosen as it was mentioned by multiple authoritative sources (Olympedia, Wikidata, and Sportskeeda). Birth year sources consistently stated August 7, 1999."
+  },
+  {
+    "id": "modern-noah-lyles",
+    "name": "Noah Lyles",
+    "sex": "M",
+    "height_cm": 180,
+    "weight_kg": null,
+    "age": 27,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "100m / 200m",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and birth year were consistent across multiple sources; weight sources disagreed by more than 3kg."
+  },
+  {
+    "id": "modern-sha-carri-richardson",
+    "name": "Sha'Carri Richardson",
+    "sex": "F",
+    "height_cm": 155,
+    "weight_kg": null,
+    "age": 24,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "100m / 4x100m relay",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height sources agreed on 155 cm. Weight sources disagreed by >3kg. Birth year is 2000, so age in 2024 is 24."
+  },
+  {
+    "id": "modern-athing-mu",
+    "name": "Athing Mu",
+    "sex": "F",
+    "height_cm": 178,
+    "weight_kg": 56,
+    "age": 18,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Athletics",
+        "event": "800m",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Wikipedia, Team USA, and Celebrities InfoSeeMedia agreed on height. Wikipedia and Athing Mu Facts for Kids agreed on weight."
+  },
+  {
+    "id": "modern-gabby-thomas",
+    "name": "Gabby Thomas",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 28,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "200m / 4x400m relay",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 3,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight sources disagreed by more than 3 units. Birth year is consistently 1996 across multiple authoritative sources."
+  },
+  {
+    "id": "modern-allyson-felix",
+    "name": "Allyson Felix",
+    "sex": "F",
+    "height_cm": 168,
+    "weight_kg": 57,
+    "age": 35,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Athletics",
+        "event": "400m / 4x400m relay",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 7,
+      "silver": 3,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height is consistently reported as 5'6\" or 168 cm across multiple sources including Wikipedia, Team USA, and Sportskeeda. Weight is consistently reported as 125 lbs or 57 kg across Wikipedia, Sportskeeda, and Allyson Felix Facts for Kids. Birth year is consistently reported as 1985 across all consulted sources."
+  },
+  {
+    "id": "modern-quincy-hall",
+    "name": "Quincy Hall",
+    "sex": "M",
+    "height_cm": 187,
+    "weight_kg": null,
+    "age": 26,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "400m",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height of 187 cm was agreed upon by Wikipedia and Olympics Wiki, with NBC Olympics listing 6'1\" (185 cm). Weight data was not found across multiple authoritative sources. Age is calculated based on his birth year (1998) and the 2024 Olympic year, with his birthday falling during the competition period."
+  },
+  {
+    "id": "modern-rai-benjamin",
+    "name": "Rai Benjamin",
+    "sex": "M",
+    "height_cm": 191,
+    "weight_kg": 77,
+    "age": 27,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "400m hurdles / 4x400m relay",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 2,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistently reported across multiple sources (Wikipedia, Scribd, USC Athletics, Sportskeeda, Team USA, Olympedia). Birth year is predominantly 1997, leading to an age of 27 in 2024, with one source (Olympics.com) stating 1996."
+  },
+  {
+    "id": "modern-tara-davis-woodhall",
+    "name": "Tara Davis-Woodhall",
+    "sex": "F",
+    "height_cm": 163,
+    "weight_kg": 54,
+    "age": 25,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Long jump",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Wikipedia, Team USA, NBC Olympics, Grokipedia, Sportskeeda, TheSportsDB.com, Scribd, and Wikidata agreed on 163 cm for height. Wikipedia, Grokipedia, EssentiallySports, Sportskeeda, TheSportsDB.com, and Scribd agreed on 54 kg for weight. All sources agreed on a birth year of 1999, making her 25 in 2024."
+  },
+  {
+    "id": "modern-valarie-allman",
+    "name": "Valarie Allman",
+    "sex": "F",
+    "height_cm": 183,
+    "weight_kg": 70,
+    "age": 29,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Discus throw",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height of 183 cm and weight of 70 kg are consistently reported across multiple sources, and birth year is consistently 1995."
+  },
+  {
+    "id": "modern-grant-holloway",
+    "name": "Grant Holloway",
+    "sex": "M",
+    "height_cm": 188,
+    "weight_kg": 86,
+    "age": 27,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "110m hurdles",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Multiple sources including Wikipedia, Sportskeeda, and NBC Olympics agreed on height, weight, and birth year."
+  },
+  {
+    "id": "modern-ryan-crouser",
+    "name": "Ryan Crouser",
+    "sex": "M",
+    "height_cm": 201,
+    "weight_kg": 145,
+    "age": 32,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Shot put",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 3,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Wikipedia, NBC Olympics, Team USA, Sportskeeda, and World Athletics agreed on height and weight, and all sources agreed on birth year."
+  },
+  {
+    "id": "modern-vashti-cunningham",
+    "name": "Vashti Cunningham",
+    "sex": "F",
+    "height_cm": 186,
+    "weight_kg": 55,
+    "age": 26,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "High jump",
+        "medal": null
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height of 186 cm is cited by Wikipedia, Sportskeeda, and Vashti Cunningham Facts for Kids; weight of 55 kg is cited by Wikipedia, Sportskeeda, Vashti Cunningham Facts for Kids, and Red Bull. Birth year of 1998 is consistently cited across multiple sources."
+  },
+  {
+    "id": "modern-erriyon-knighton",
+    "name": "Erriyon Knighton",
+    "sex": "M",
+    "height_cm": 191,
+    "weight_kg": 77,
+    "age": 20,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "200m",
+        "medal": null
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Wikipedia, The Arcadia Quill, Team USA, and Olympics.com agreed on height; Wikipedia, The Arcadia Quill, and Erriyon Knighton Facts for Kids agreed on weight; all sources agreed on birth year."
+  },
+  {
+    "id": "modern-simone-biles",
+    "name": "Simone Biles",
+    "sex": "F",
+    "height_cm": 142,
+    "weight_kg": 47,
+    "age": 27,
+    "games": "olympic",
+    "primarySport": "Gymnastics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Gymnastics",
+        "event": "All-around / Vault / Floor",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 4,
+      "silver": 2,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Multiple authoritative sources (Wikipedia, Britannica, Essentially Sports, doopermagazine.co.uk, Sportskeeda, Olympics.com, FIG Athlete Profile, Bold&Grit, and MEAWW News) consistently report Simone Biles' height as 142 cm and weight as 47 kg, and her birth year as 1997."
+  },
+  {
+    "id": "modern-sunisa-lee",
+    "name": "Sunisa Lee",
+    "sex": "F",
+    "height_cm": 152,
+    "weight_kg": 50,
+    "age": 21,
+    "games": "olympic",
+    "primarySport": "Gymnastics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Gymnastics",
+        "event": "All-around / Uneven bars",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 3
+    },
+    "_enrichmentNotes": "Multiple sources (Wikipedia, Sportskeeda, Auburn Tigers, Briefly.co.za, Topend Sports, Britannica) agreed on height. Multiple sources (Sportskeeda, Briefly.co.za, Topend Sports) agreed on weight within 3kg. All sources agreed on birth year."
+  },
+  {
+    "id": "modern-jordan-chiles",
+    "name": "Jordan Chiles",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": 57,
+    "age": 23,
+    "games": "olympic",
+    "primarySport": "Gymnastics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Gymnastics",
+        "event": "Team / Floor",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Sources disagreed on height by more than 3cm; weight and age were consistent across multiple sources."
+  },
+  {
+    "id": "modern-jade-carey",
+    "name": "Jade Carey",
+    "sex": "F",
+    "height_cm": 157,
+    "weight_kg": 50,
+    "age": 24,
+    "games": "olympic",
+    "primarySport": "Gymnastics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Gymnastics",
+        "event": "Team / Floor exercise",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Multiple sources agreed on a height of 5'2\" (157 cm) and a weight of 110 lbs (50 kg). All sources agreed on a birth year of 2000, making her 24 in 2024."
+  },
+  {
+    "id": "modern-frederick-richard",
+    "name": "Frederick Richard",
+    "sex": "M",
+    "height_cm": 165,
+    "weight_kg": null,
+    "age": 20,
+    "games": "olympic",
+    "primarySport": "Gymnastics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Gymnastics",
+        "event": "Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height is consistently listed as 165 cm across multiple sources. Weight is not publicly available."
+  },
+  {
+    "id": "modern-lebron-james",
+    "name": "LeBron James",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 40,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Basketball",
+        "event": "Men's basketball",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 3,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Sources disagreed on height by more than 3cm (206 cm vs 201.9 cm) and on weight by more than 3kg (113 kg vs 109.1 kg). Birth year is consistently 1984."
+  },
+  {
+    "id": "modern-stephen-curry",
+    "name": "Stephen Curry",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": 84,
+    "age": 36,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Basketball",
+        "event": "Men's basketball",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height sources disagreed by 3cm (188cm vs 191cm), so height is null. Weight sources agreed on 84kg. Birth year is 1988, making him 36 in 2024."
+  },
+  {
+    "id": "modern-kevin-durant",
+    "name": "Kevin Durant",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": 109,
+    "age": 36,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Basketball",
+        "event": "Men's basketball",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 4,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height sources vary between 208 cm and 211 cm, exceeding the 3 cm disagreement threshold. Weight sources consistently report 109 kg. Age is calculated as 2024 minus birth year 1988."
+  },
+  {
+    "id": "modern-anthony-edwards",
+    "name": "Anthony Edwards",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 23,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Basketball",
+        "event": "Men's basketball",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height sources disagreed by more than 3cm (6'3\", 6'4\", 6'5\"), and weight sources disagreed by more than 3kg (215 lbs, 225 lbs). Birth year is consistently August 5, 2001 across multiple sources."
+  },
+  {
+    "id": "modern-jrue-holiday",
+    "name": "Jrue Holiday",
+    "sex": "M",
+    "height_cm": 193,
+    "weight_kg": null,
+    "age": 34,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Basketball",
+        "event": "Men's basketball",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height of 193 cm is supported by Wikipedia, FOX Sports, and FIBA/Olympics.com, with other sources listing 190.5 cm, a difference within the 3cm threshold. Weight sources (Wikipedia, FOX Sports, USA Basketball) disagreed by more than 3kg."
+  },
+  {
+    "id": "modern-a-ja-wilson",
+    "name": "A'ja Wilson",
+    "sex": "F",
+    "height_cm": 193,
+    "weight_kg": 88,
+    "age": 27,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Basketball",
+        "event": "Women's basketball",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Wikipedia, NBA 2K26, RealGM, FOX Sports, and FIBA Basketball agreed on 193 cm and 88 kg. Olympics.com (July 2024 article) confirmed her age as 27 for the 2024 Olympics."
+  },
+  {
+    "id": "modern-breanna-stewart",
+    "name": "Breanna Stewart",
+    "sex": "F",
+    "height_cm": 193,
+    "weight_kg": 77,
+    "age": 30,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Basketball",
+        "event": "Women's basketball",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 3,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height of 193 cm (6'4\") agreed upon by Wikipedia, USA Basketball, NBA 2K26 Rating, FOX Sports, and Team USA, while FIBA and Shoe Palace Blog listed 191 cm (6'3\"). Weight of 77 kg (170 lbs) agreed upon by Wikipedia, USA Basketball, NBA 2K26 Rating, and FOX Sports. Age calculated as 2024 - 1994."
+  },
+  {
+    "id": "modern-diana-taurasi",
+    "name": "Diana Taurasi",
+    "sex": "F",
+    "height_cm": 183,
+    "weight_kg": 74,
+    "age": 42,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Basketball",
+        "event": "Women's basketball",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 6,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across Wikipedia, Britannica, USA Today Sports, FOX Sports, Bolavip US, and FIBA Basketball. Age is calculated from birth year 1982 for the 2024 Olympic year."
+  },
+  {
+    "id": "modern-helen-maroulis",
+    "name": "Helen Maroulis",
+    "sex": "F",
+    "height_cm": 160,
+    "weight_kg": 57,
+    "age": 32,
+    "games": "olympic",
+    "primarySport": "Wrestling",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Wrestling",
+        "event": "Women's freestyle 57kg",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Multiple sources agree on 5'3\" (160 cm) for height and 57 kg for competition weight, and her birth year of 1991 makes her 32 during the 2024 Olympic Games."
+  },
+  {
+    "id": "modern-sarah-hildebrandt",
+    "name": "Sarah Hildebrandt",
+    "sex": "F",
+    "height_cm": 160,
+    "weight_kg": 50,
+    "age": 31,
+    "games": "olympic",
+    "primarySport": "Wrestling",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Wrestling",
+        "event": "Women's freestyle 50kg",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Wikipedia, Team USA, and USA Wrestling agreed on height and birth year, and competition weight is consistently 50kg."
+  },
+  {
+    "id": "modern-aaron-brooks",
+    "name": "Aaron Brooks",
+    "sex": "M",
+    "height_cm": 183,
+    "weight_kg": 86,
+    "age": 24,
+    "games": "olympic",
+    "primarySport": "Wrestling",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Wrestling",
+        "event": "Men's freestyle 86kg",
+        "medal": null
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Essentially Sports, Wikipedia, Olympics.com, USA Wrestling, WBAL Baltimore News, and Grokipedia agreed on the data."
+  },
+  {
+    "id": "modern-tamyra-mensah-stock",
+    "name": "Tamyra Mensah-Stock",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": 69,
+    "age": 28,
+    "games": "olympic",
+    "primarySport": "Wrestling",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wrestling",
+        "event": "Women's freestyle 68kg",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height sources (Wikipedia, Team USA, Tamyra Mensah-Stock Facts for Kids) disagreed by more than 3cm. Weight sources (Wikipedia, Team USA, Tamyra Mensah-Stock Facts for Kids) agreed within 3kg, with 69kg being the most frequently cited. Birth year was consistently 1992 across multiple sources."
+  },
+  {
+    "id": "modern-carissa-moore",
+    "name": "Carissa Moore",
+    "sex": "F",
+    "height_cm": 170,
+    "weight_kg": null,
+    "age": 28,
+    "games": "olympic",
+    "primarySport": "Surfing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Surfing",
+        "event": "Women's surfing",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height sources agreed on 5'7\" (170 cm); weight sources disagreed by more than 3kg."
+  },
+  {
+    "id": "modern-caroline-marks",
+    "name": "Caroline Marks",
+    "sex": "F",
+    "height_cm": 165,
+    "weight_kg": 58,
+    "age": 22,
+    "games": "olympic",
+    "primarySport": "Surfing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Surfing",
+        "event": "Women's surfing",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Wikipedia, NBC Olympics, Surfer, TripleBlack.com, and Lost Surfboards Australia provided consistent height and birth year. Wikipedia, Surfer, and TripleBlack.com provided consistent weight, with Lost Surfboards Australia providing a slightly different but acceptable weight."
+  },
+  {
+    "id": "modern-brooke-raboutou",
+    "name": "Brooke Raboutou",
+    "sex": "F",
+    "height_cm": 157,
+    "weight_kg": null,
+    "age": 23,
+    "games": "olympic",
+    "primarySport": "Sport Climbing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Sport Climbing",
+        "event": "Women's boulder & lead",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height sources (Wikipedia, Team USA, The Hangboard, Rock Climbing Central) agreed on 157 cm. Weight sources disagreed significantly. Birth year 2001 is consistent across sources."
+  },
+  {
+    "id": "modern-coco-gauff",
+    "name": "Coco Gauff",
+    "sex": "F",
+    "height_cm": 175,
+    "weight_kg": null,
+    "age": 20,
+    "games": "olympic",
+    "primarySport": "Tennis",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Tennis",
+        "event": "Women's tennis",
+        "medal": null
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Multiple sources (Wikipedia, WTA, Roland Garros, Sportskeeda, Bolavip, Wimbledon, Hamariweb, NBC Olympics) agreed on 175 cm for height. Weight sources disagreed by more than 3kg. All sources agreed on birth year 2004, making her 20 in 2024."
+  },
+  {
+    "id": "modern-nelly-korda",
+    "name": "Nelly Korda",
+    "sex": "F",
+    "height_cm": 178,
+    "weight_kg": 60,
+    "age": 22,
+    "games": "olympic",
+    "primarySport": "Golf",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Golf",
+        "event": "Women's golf",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Wikipedia, NBC Olympics, Team USA, Golf Monthly, and Sportskeeda agreed on height. Sportskeeda provided weight. Wikipedia, NBC Olympics, Golf Monthly, and Wikidata agreed on birth date."
+  },
+  {
+    "id": "modern-vincent-hancock",
+    "name": "Vincent Hancock",
+    "sex": "M",
+    "height_cm": 173,
+    "weight_kg": 78,
+    "age": 35,
+    "games": "olympic",
+    "primarySport": "Shooting",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Shooting",
+        "event": "Men's skeet",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 4,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Sportskeeda, Team USA, and Olympedia reported height around 172-173 cm, while ISSF stated 175 cm; Sportskeeda and ISSF agreed on 78 kg for weight, while Olympedia stated 80 kg; all sources agreed on birth year 1989."
+  },
+  {
+    "id": "modern-mikaela-shiffrin",
+    "name": "Mikaela Shiffrin",
+    "sex": "F",
+    "height_cm": 170,
+    "weight_kg": 64,
+    "age": 27,
+    "games": "olympic",
+    "primarySport": "Alpine Skiing",
+    "events": [
+      {
+        "year": 2022,
+        "sport": "Alpine Skiing",
+        "event": "Slalom / Giant slalom",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Multiple sources agreed on height and birth year. Weight of 64kg was cited by two sources, 66kg by one, and 67kg by one."
+  },
+  {
+    "id": "modern-chloe-kim",
+    "name": "Chloe Kim",
+    "sex": "F",
+    "height_cm": 160,
+    "weight_kg": 52,
+    "age": 22,
+    "games": "olympic",
+    "primarySport": "Snowboard",
+    "events": [
+      {
+        "year": 2022,
+        "sport": "Snowboard",
+        "event": "Halfpipe",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Wikipedia, TripleBlack.com, Olympedia, and What They Ride all agreed on height and weight. All sources agreed on birth year."
+  },
+  {
+    "id": "modern-erin-jackson",
+    "name": "Erin Jackson",
+    "sex": "F",
+    "height_cm": 165,
+    "weight_kg": 61,
+    "age": 30,
+    "games": "olympic",
+    "primarySport": "Speed Skating",
+    "events": [
+      {
+        "year": 2022,
+        "sport": "Speed Skating",
+        "event": "Women's 500m",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight were consistently reported as 165 cm and 61 kg across multiple sources, including Olympedia, Olympics Wiki, Data Sports Group, ISU, and NBC Olympics. Birth year was consistently reported as 1992 across Wikipedia, Olympics.com, NBC Olympics, Britannica Kids, and Famous Birthdays."
+  },
+  {
+    "id": "modern-nathan-chen",
+    "name": "Nathan Chen",
+    "sex": "M",
+    "height_cm": 168,
+    "weight_kg": 61,
+    "age": 23,
+    "games": "olympic",
+    "primarySport": "Figure Skating",
+    "events": [
+      {
+        "year": 2022,
+        "sport": "Figure Skating",
+        "event": "Men's singles / Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height of 168 cm is cited by Wikipedia, Team USA, and Olympedia; ISU lists 166 cm and Bllog lists 165 cm. Weight of 61 kg is cited by Olympedia. Age is calculated from birth year 1999 and competition year 2022."
+  },
+  {
+    "id": "modern-lindsey-jacobellis",
+    "name": "Lindsey Jacobellis",
+    "sex": "F",
+    "height_cm": 168,
+    "weight_kg": 64,
+    "age": 37,
+    "games": "olympic",
+    "primarySport": "Snowboard",
+    "events": [
+      {
+        "year": 2022,
+        "sport": "Snowboard",
+        "event": "Snowboard cross",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height of 168 cm and weight of 64 kg were consistently reported by Biyografya and Wikidata. Birth year of 1985 was consistently reported by Wikipedia, Britannica Kids, Simple English Wikipedia, Essentially Sports, and Britannica."
+  },
+  {
+    "id": "modern-jessie-diggins",
+    "name": "Jessie Diggins",
+    "sex": "F",
+    "height_cm": 163,
+    "weight_kg": null,
+    "age": 31,
+    "games": "olympic",
+    "primarySport": "Cross-Country Skiing",
+    "events": [
+      {
+        "year": 2022,
+        "sport": "Cross-Country Skiing",
+        "event": "Sprint / 30km",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height is consistently reported as 163 cm or 5'4\" across multiple sources; weight data is not consistently available."
+  },
+  {
+    "id": "modern-alex-hall",
+    "name": "Alex Hall",
+    "sex": "M",
+    "height_cm": 193,
+    "weight_kg": 82,
+    "age": 24,
+    "games": "olympic",
+    "primarySport": "Freestyle Skiing",
+    "events": [
+      {
+        "year": 2022,
+        "sport": "Freestyle Skiing",
+        "event": "Men's slopestyle",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is consistently reported as 6'4\" or 193 cm across multiple sources including Team USA, Olympics.com, Monster Energy, Grokipedia, and Olympedia. Weight of 82 kg is from Olympedia. Birth year of 1998 is consistently reported by Wikipedia, Olympics.com, Famous Birthdays, and Olympedia."
+  },
+  {
+    "id": "modern-shaun-white",
+    "name": "Shaun White",
+    "sex": "M",
+    "height_cm": 173,
+    "weight_kg": 70,
+    "age": 32,
+    "games": "olympic",
+    "primarySport": "Snowboard",
+    "events": [
+      {
+        "year": 2018,
+        "sport": "Snowboard",
+        "event": "Halfpipe",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 3,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height of 173 cm and weight of 70 kg were consistently reported across multiple authoritative sources, including Wikipedia, Simple English Wikipedia, Cloud 9 Wiki, Pioneer Time, ASA Entertainment, and Shaun White's official website. His birth year of 1986 was also consistently reported."
+  }
+]

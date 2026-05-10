@@ -14,10 +14,16 @@
         "sport": "Swimming",
         "event": "100m freestyle / 50m freestyle / 100m butterfly",
         "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Swimming",
+        "event": "100m freestyle / butterfly",
+        "medal": "Gold"
       }
     ],
     "medals": {
-      "gold": 5,
+      "gold": 6,
       "silver": 1,
       "bronze": 0
     },
@@ -38,10 +44,16 @@
         "sport": "Swimming",
         "event": "1500m freestyle / 800m freestyle",
         "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Swimming",
+        "event": "1500m freestyle",
+        "medal": "Gold"
       }
     ],
     "medals": {
-      "gold": 9,
+      "gold": 10,
       "silver": 4,
       "bronze": 0
     },
@@ -62,10 +74,16 @@
         "sport": "Swimming",
         "event": "1500m freestyle / 800m freestyle",
         "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Swimming",
+        "event": "800m / 1500m freestyle",
+        "medal": "Gold"
       }
     ],
     "medals": {
-      "gold": 3,
+      "gold": 4,
       "silver": 1,
       "bronze": 0
     },
@@ -86,11 +104,17 @@
         "sport": "Swimming",
         "event": "100m breaststroke",
         "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Swimming",
+        "event": "Breaststroke",
+        "medal": "Silver"
       }
     ],
     "medals": {
       "gold": 2,
-      "silver": 2,
+      "silver": 3,
       "bronze": 1
     },
     "_enrichmentNotes": "Height sources (Wikipedia, Olympedia, Team USA, Sportskeeda) agreed within 1 cm. Weight sources (Wikipedia, Olympedia, Sportskeeda) agreed. Birth year (1997) was consistently reported across multiple sources."
@@ -110,11 +134,17 @@
         "sport": "Swimming",
         "event": "100m / 200m backstroke",
         "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Swimming",
+        "event": "Backstroke",
+        "medal": "Silver"
       }
     ],
     "medals": {
       "gold": 3,
-      "silver": 1,
+      "silver": 2,
       "bronze": 2
     },
     "_enrichmentNotes": "Height from Olympics.com and Team USA, weight from Peak Performance Swim Camp and California Golden Bears Athletics, and birth year from multiple sources including Wikipedia, SwimSwam, and Olympics.com, were consistent."
@@ -254,10 +284,16 @@
         "sport": "Athletics",
         "event": "400m hurdles",
         "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Athletics",
+        "event": "400m hurdles",
+        "medal": "Gold"
       }
     ],
     "medals": {
-      "gold": 3,
+      "gold": 4,
       "silver": 1,
       "bronze": 0
     },
@@ -374,10 +410,16 @@
         "sport": "Athletics",
         "event": "400m / 4x400m relay",
         "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Athletics",
+        "event": "4x400m mixed relay / 400m",
+        "medal": "Gold"
       }
     ],
     "medals": {
-      "gold": 7,
+      "gold": 8,
       "silver": 3,
       "bronze": 1
     },
@@ -518,10 +560,16 @@
         "sport": "Athletics",
         "event": "Shot put",
         "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Athletics",
+        "event": "Shot put",
+        "medal": "Gold"
       }
     ],
     "medals": {
-      "gold": 3,
+      "gold": 4,
       "silver": 1,
       "bronze": 0
     },
@@ -590,11 +638,17 @@
         "sport": "Gymnastics",
         "event": "All-around / Vault / Floor",
         "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Gymnastics",
+        "event": "Team / Beam",
+        "medal": "Silver"
       }
     ],
     "medals": {
       "gold": 4,
-      "silver": 2,
+      "silver": 3,
       "bronze": 1
     },
     "_enrichmentNotes": "Multiple authoritative sources (Wikipedia, Britannica, Essentially Sports, doopermagazine.co.uk, Sportskeeda, Olympics.com, FIG Athlete Profile, Bold&Grit, and MEAWW News) consistently report Simone Biles' height as 142 cm and weight as 47 kg, and her birth year as 1997."
@@ -614,10 +668,16 @@
         "sport": "Gymnastics",
         "event": "All-around / Uneven bars",
         "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Gymnastics",
+        "event": "All-around",
+        "medal": "Gold"
       }
     ],
     "medals": {
-      "gold": 1,
+      "gold": 2,
       "silver": 1,
       "bronze": 3
     },
@@ -758,10 +818,16 @@
         "sport": "Basketball",
         "event": "Men's basketball",
         "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Basketball",
+        "event": "Men's basketball",
+        "medal": "Gold"
       }
     ],
     "medals": {
-      "gold": 4,
+      "gold": 5,
       "silver": 0,
       "bronze": 0
     },
@@ -806,10 +872,16 @@
         "sport": "Basketball",
         "event": "Men's basketball",
         "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Basketball",
+        "event": "Men's basketball",
+        "medal": "Gold"
       }
     ],
     "medals": {
-      "gold": 2,
+      "gold": 3,
       "silver": 0,
       "bronze": 0
     },
@@ -902,12 +974,18 @@
         "sport": "Wrestling",
         "event": "Women's freestyle 57kg",
         "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Wrestling",
+        "event": "Women's freestyle 57kg",
+        "medal": "Bronze"
       }
     ],
     "medals": {
       "gold": 1,
       "silver": 0,
-      "bronze": 1
+      "bronze": 2
     },
     "_enrichmentNotes": "Multiple sources agree on 5'3\" (160 cm) for height and 57 kg for competition weight, and her birth year of 1991 makes her 32 during the 2024 Olympic Games."
   },
@@ -1118,10 +1196,16 @@
         "sport": "Shooting",
         "event": "Men's skeet",
         "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Shooting",
+        "event": "Men's skeet",
+        "medal": "Gold"
       }
     ],
     "medals": {
-      "gold": 4,
+      "gold": 5,
       "silver": 0,
       "bronze": 0
     },

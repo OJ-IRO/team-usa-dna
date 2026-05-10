@@ -3,125 +3,265 @@
     "id": "para-mcfadden-tatyana",
     "name": "Tatyana McFadden",
     "sex": "F",
-    "height_cm": null,
-    "weight_kg": null,
+    "height_cm": 160,
+    "weight_kg": 49,
     "age": 27,
     "games": "paralympic",
     "primarySport": "Para Athletics",
     "events": [
-      { "year": 2012, "sport": "Para Athletics", "event": "Wheelchair 400m / 800m / 1500m / Marathon", "medal": "Gold" },
-      { "year": 2016, "sport": "Para Athletics", "event": "Wheelchair 400m / 800m / 1500m / 5000m / Marathon", "medal": "Gold" },
-      { "year": 2020, "sport": "Para Athletics", "event": "Wheelchair 5000m / Marathon", "medal": "Gold" }
+      {
+        "year": 2012,
+        "sport": "Para Athletics",
+        "event": "Wheelchair 400m / 800m / 1500m / Marathon",
+        "medal": "Gold"
+      },
+      {
+        "year": 2016,
+        "sport": "Para Athletics",
+        "event": "Wheelchair 400m / 800m / 1500m / 5000m / Marathon",
+        "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "Wheelchair 5000m / Marathon",
+        "medal": "Gold"
+      }
     ],
-    "medals": { "gold": 8, "silver": 6, "bronze": 3 }
+    "medals": {
+      "gold": 8,
+      "silver": 6,
+      "bronze": 3
+    },
+    "_enrichmentNotes": "deepen: Height and weight are consistently reported across multiple sources. Birth year is consistently reported as 1989, making her 23 in 2012."
   },
   {
     "id": "para-long-jessica",
     "name": "Jessica Long",
     "sex": "F",
-    "height_cm": null,
-    "weight_kg": null,
+    "height_cm": 180,
+    "weight_kg": 59,
     "age": 24,
     "games": "paralympic",
     "primarySport": "Para Swimming",
     "events": [
-      { "year": 2008, "sport": "Para Swimming", "event": "Multiple swimming events", "medal": "Gold" },
-      { "year": 2012, "sport": "Para Swimming", "event": "Multiple swimming events", "medal": "Gold" },
-      { "year": 2016, "sport": "Para Swimming", "event": "Multiple swimming events", "medal": "Gold" },
-      { "year": 2020, "sport": "Para Swimming", "event": "Multiple swimming events", "medal": "Silver" }
+      {
+        "year": 2008,
+        "sport": "Para Swimming",
+        "event": "Multiple swimming events",
+        "medal": "Gold"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Swimming",
+        "event": "Multiple swimming events",
+        "medal": "Gold"
+      },
+      {
+        "year": 2016,
+        "sport": "Para Swimming",
+        "event": "Multiple swimming events",
+        "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Para Swimming",
+        "event": "Multiple swimming events",
+        "medal": "Silver"
+      }
     ],
-    "medals": { "gold": 16, "silver": 8, "bronze": 5 }
+    "medals": {
+      "gold": 16,
+      "silver": 8,
+      "bronze": 5
+    },
+    "_enrichmentNotes": "deepen: Height and weight are consistently reported across multiple sources, with Wikipedia providing both 'with prosthetics' and 'without prosthetics' measurements. Age is calculated from her birth year (1992) and the reference year (2008)."
   },
   {
     "id": "para-weggemann-mallory",
     "name": "Mallory Weggemann",
     "sex": "F",
-    "height_cm": null,
+    "height_cm": 175,
     "weight_kg": null,
     "age": 26,
     "games": "paralympic",
     "primarySport": "Para Swimming",
     "events": [
-      { "year": 2012, "sport": "Para Swimming", "event": "50m freestyle / 50m butterfly", "medal": "Gold" },
-      { "year": 2020, "sport": "Para Swimming", "event": "200m IM / 100m backstroke", "medal": "Gold" }
+      {
+        "year": 2012,
+        "sport": "Para Swimming",
+        "event": "50m freestyle / 50m butterfly",
+        "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Para Swimming",
+        "event": "200m IM / 100m backstroke",
+        "medal": "Gold"
+      }
     ],
-    "medals": { "gold": 3, "silver": 3, "bronze": 1 }
+    "medals": {
+      "gold": 3,
+      "silver": 3,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "deepen: Height is consistently reported as 5'9\" across multiple sources. Birthdate is March 26, 1989, making her 23 in 2012. Weight is not publicly listed."
   },
   {
     "id": "para-masters-oksana",
     "name": "Oksana Masters",
     "sex": "F",
-    "height_cm": null,
-    "weight_kg": null,
+    "height_cm": 173,
+    "weight_kg": 55,
     "age": 27,
     "games": "paralympic",
     "primarySport": "Para Cycling",
     "events": [
-      { "year": 2012, "sport": "Para Rowing", "event": "Trunk and Arms Mixed Double Sculls", "medal": "Bronze" },
-      { "year": 2016, "sport": "Para Cycling", "event": "Road race / time trial", "medal": "Silver" },
-      { "year": 2020, "sport": "Para Cycling", "event": "Road race / time trial", "medal": "Gold" }
+      {
+        "year": 2012,
+        "sport": "Para Rowing",
+        "event": "Trunk and Arms Mixed Double Sculls",
+        "medal": "Bronze"
+      },
+      {
+        "year": 2016,
+        "sport": "Para Cycling",
+        "event": "Road race / time trial",
+        "medal": "Silver"
+      },
+      {
+        "year": 2020,
+        "sport": "Para Cycling",
+        "event": "Road race / time trial",
+        "medal": "Gold"
+      }
     ],
-    "medals": { "gold": 2, "silver": 2, "bronze": 1 }
+    "medals": {
+      "gold": 2,
+      "silver": 2,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "deepen: Height and weight are from Wikipedia, cited as 2012 figures. Birthdate of June 19, 1989, is widely reported, making her 31 in 2020."
   },
   {
     "id": "para-seely-allysa",
     "name": "Allysa Seely",
     "sex": "F",
-    "height_cm": null,
+    "height_cm": 163,
     "weight_kg": null,
     "age": 27,
     "games": "paralympic",
     "primarySport": "Para Triathlon",
     "events": [
-      { "year": 2016, "sport": "Para Triathlon", "event": "Women's PT2 Triathlon", "medal": "Gold" },
-      { "year": 2020, "sport": "Para Triathlon", "event": "Women's PTS2 Triathlon", "medal": "Gold" }
+      {
+        "year": 2016,
+        "sport": "Para Triathlon",
+        "event": "Women's PT2 Triathlon",
+        "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Para Triathlon",
+        "event": "Women's PTS2 Triathlon",
+        "medal": "Gold"
+      }
     ],
-    "medals": { "gold": 2, "silver": 0, "bronze": 0 }
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "deepen: Height is consistently listed as 5'4\" across multiple sources. Birthdate is January 4, 1989, making her 27 in 2016. Weight is not publicly listed."
   },
   {
     "id": "para-norman-grace",
     "name": "Grace Norman",
     "sex": "F",
-    "height_cm": null,
+    "height_cm": 173,
     "weight_kg": null,
     "age": 18,
     "games": "paralympic",
     "primarySport": "Para Triathlon",
     "events": [
-      { "year": 2016, "sport": "Para Triathlon", "event": "Women's PT4 Triathlon", "medal": "Gold" },
-      { "year": 2016, "sport": "Para Athletics", "event": "Women's 400m T44", "medal": "Bronze" },
-      { "year": 2020, "sport": "Para Triathlon", "event": "Women's PTS5 Triathlon", "medal": "Silver" }
+      {
+        "year": 2016,
+        "sport": "Para Triathlon",
+        "event": "Women's PT4 Triathlon",
+        "medal": "Gold"
+      },
+      {
+        "year": 2016,
+        "sport": "Para Athletics",
+        "event": "Women's 400m T44",
+        "medal": "Bronze"
+      },
+      {
+        "year": 2020,
+        "sport": "Para Triathlon",
+        "event": "Women's PTS5 Triathlon",
+        "medal": "Silver"
+      }
     ],
-    "medals": { "gold": 1, "silver": 1, "bronze": 1 }
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "deepen: Height of 5'8\" is consistently reported across multiple sources (USA Triathlon, Team USA, Cedarville University Athletics, Wikipedia France). Birthdate of March 9, 1998, is consistently reported across multiple sources (USA Triathlon, Wikipedia, Cedarville University Athletics). Weight is not publicly listed."
   },
   {
     "id": "para-scaroni-susannah",
     "name": "Susannah Scaroni",
     "sex": "F",
-    "height_cm": null,
+    "height_cm": 165,
     "weight_kg": null,
     "age": 30,
     "games": "paralympic",
     "primarySport": "Para Athletics",
     "events": [
-      { "year": 2020, "sport": "Para Athletics", "event": "Wheelchair 5000m T54", "medal": "Gold" },
-      { "year": 2020, "sport": "Para Athletics", "event": "Wheelchair Marathon T54", "medal": "Bronze" }
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "Wheelchair 5000m T54",
+        "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "Wheelchair Marathon T54",
+        "medal": "Bronze"
+      }
     ],
-    "medals": { "gold": 1, "silver": 0, "bronze": 1 }
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "deepen: Height is consistently listed as 5'5\" across multiple sources. Birthdate is May 16, 1991, making her 29 in 2020. Weight is not publicly listed."
   },
   {
     "id": "para-meyers-becca",
     "name": "Becca Meyers",
     "sex": "F",
-    "height_cm": null,
+    "height_cm": 160,
     "weight_kg": null,
     "age": 21,
     "games": "paralympic",
     "primarySport": "Para Swimming",
     "events": [
-      { "year": 2016, "sport": "Para Swimming", "event": "Multiple swimming S13/SM13", "medal": "Gold" }
+      {
+        "year": 2016,
+        "sport": "Para Swimming",
+        "event": "Multiple swimming S13/SM13",
+        "medal": "Gold"
+      }
     ],
-    "medals": { "gold": 3, "silver": 1, "bronze": 1 }
+    "medals": {
+      "gold": 3,
+      "silver": 1,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "deepen: Height is consistently listed as 5'3\" on Team USA profiles. Born November 20, 1994, making her 21 in 2016. No weight found."
   },
   {
     "id": "para-snyder-brad",
@@ -133,86 +273,180 @@
     "games": "paralympic",
     "primarySport": "Para Triathlon",
     "events": [
-      { "year": 2012, "sport": "Para Swimming", "event": "100m freestyle S11 / 400m freestyle S11", "medal": "Gold" },
-      { "year": 2016, "sport": "Para Swimming", "event": "Multiple swimming S11", "medal": "Gold" },
-      { "year": 2020, "sport": "Para Triathlon", "event": "Men's PTVI Triathlon", "medal": "Gold" }
+      {
+        "year": 2012,
+        "sport": "Para Swimming",
+        "event": "100m freestyle S11 / 400m freestyle S11",
+        "medal": "Gold"
+      },
+      {
+        "year": 2016,
+        "sport": "Para Swimming",
+        "event": "Multiple swimming S11",
+        "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Para Triathlon",
+        "event": "Men's PTVI Triathlon",
+        "medal": "Gold"
+      }
     ],
-    "medals": { "gold": 5, "silver": 2, "bronze": 0 }
+    "medals": {
+      "gold": 5,
+      "silver": 2,
+      "bronze": 0
+    }
   },
   {
     "id": "para-brown-david",
     "name": "David Brown",
     "sex": "M",
-    "height_cm": null,
-    "weight_kg": null,
+    "height_cm": 175,
+    "weight_kg": 76,
     "age": 28,
     "games": "paralympic",
     "primarySport": "Para Athletics",
     "events": [
-      { "year": 2016, "sport": "Para Athletics", "event": "Men's 100m T11", "medal": "Gold" }
+      {
+        "year": 2016,
+        "sport": "Para Athletics",
+        "event": "Men's 100m T11",
+        "medal": "Gold"
+      }
     ],
-    "medals": { "gold": 1, "silver": 0, "bronze": 0 }
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "deepen: Height and weight are consistently reported across multiple sources. Age is calculated from his birth date (October 19, 1992) and the reference year 2016."
   },
   {
     "id": "para-gillette-lex",
     "name": "Lex Gillette",
     "sex": "M",
-    "height_cm": null,
-    "weight_kg": null,
+    "height_cm": 185,
+    "weight_kg": 79,
     "age": 31,
     "games": "paralympic",
     "primarySport": "Para Athletics",
     "events": [
-      { "year": 2008, "sport": "Para Athletics", "event": "Long Jump T11", "medal": "Silver" },
-      { "year": 2012, "sport": "Para Athletics", "event": "Long Jump F11", "medal": "Silver" },
-      { "year": 2016, "sport": "Para Athletics", "event": "Long Jump T11", "medal": "Silver" }
+      {
+        "year": 2008,
+        "sport": "Para Athletics",
+        "event": "Long Jump T11",
+        "medal": "Silver"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Athletics",
+        "event": "Long Jump F11",
+        "medal": "Silver"
+      },
+      {
+        "year": 2016,
+        "sport": "Para Athletics",
+        "event": "Long Jump T11",
+        "medal": "Silver"
+      }
     ],
-    "medals": { "gold": 0, "silver": 4, "bronze": 0 }
+    "medals": {
+      "gold": 0,
+      "silver": 4,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "deepen: Height and weight are from Finnish Wikipedia, which cites a world record jump. Birthdate from multiple sources. Age calculated for 2008."
   },
   {
     "id": "para-singleton-jerome",
     "name": "Jerome Singleton",
     "sex": "M",
-    "height_cm": null,
+    "height_cm": 175,
     "weight_kg": null,
     "age": 26,
     "games": "paralympic",
     "primarySport": "Para Athletics",
     "events": [
-      { "year": 2008, "sport": "Para Athletics", "event": "Men's 4x100m relay T42-46", "medal": "Gold" },
-      { "year": 2012, "sport": "Para Athletics", "event": "Men's 100m T44", "medal": "Silver" }
+      {
+        "year": 2008,
+        "sport": "Para Athletics",
+        "event": "Men's 4x100m relay T42-46",
+        "medal": "Gold"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Athletics",
+        "event": "Men's 100m T44",
+        "medal": "Silver"
+      }
     ],
-    "medals": { "gold": 1, "silver": 1, "bronze": 0 }
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "deepen: Height of 5'9\" is consistently reported across multiple sources. Birthdate of July 7, 1986, is consistently reported across multiple sources. No weight information was found."
   },
   {
     "id": "para-romanchuk-daniel",
     "name": "Daniel Romanchuk",
     "sex": "M",
-    "height_cm": null,
+    "height_cm": 175,
     "weight_kg": null,
     "age": 22,
     "games": "paralympic",
     "primarySport": "Para Athletics",
     "events": [
-      { "year": 2020, "sport": "Para Athletics", "event": "Wheelchair 400m T54", "medal": "Bronze" },
-      { "year": 2020, "sport": "Para Athletics", "event": "Wheelchair 800m T54", "medal": "Bronze" }
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "Wheelchair 400m T54",
+        "medal": "Bronze"
+      },
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "Wheelchair 800m T54",
+        "medal": "Bronze"
+      }
     ],
-    "medals": { "gold": 0, "silver": 0, "bronze": 2 }
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 2
+    },
+    "_enrichmentNotes": "deepen: Height is consistently reported as 5'9\" across multiple sources. Birth date is August 3, 1998, making him 22 in 2020. Weight is not publicly listed."
   },
   {
     "id": "para-pike-aaron",
     "name": "Aaron Pike",
     "sex": "M",
-    "height_cm": null,
+    "height_cm": 190,
     "weight_kg": null,
     "age": 30,
     "games": "paralympic",
     "primarySport": "Para Athletics",
     "events": [
-      { "year": 2012, "sport": "Para Athletics", "event": "Wheelchair distance T54", "medal": null },
-      { "year": 2016, "sport": "Para Athletics", "event": "Wheelchair distance T54", "medal": null }
+      {
+        "year": 2012,
+        "sport": "Para Athletics",
+        "event": "Wheelchair distance T54",
+        "medal": null
+      },
+      {
+        "year": 2016,
+        "sport": "Para Athletics",
+        "event": "Wheelchair distance T54",
+        "medal": null
+      }
     ],
-    "medals": { "gold": 0, "silver": 0, "bronze": 0 }
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "deepen: Height is listed as 6'3\" on Team USA profile. Born May 4, 1986, making him 26 in 2012. No weight found."
   },
   {
     "id": "para-aoki-chuck",
@@ -224,110 +458,209 @@
     "games": "paralympic",
     "primarySport": "Wheelchair Rugby",
     "events": [
-      { "year": 2016, "sport": "Wheelchair Rugby", "event": "Mixed team", "medal": "Bronze" },
-      { "year": 2020, "sport": "Wheelchair Rugby", "event": "Mixed team", "medal": "Silver" }
+      {
+        "year": 2016,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed team",
+        "medal": "Bronze"
+      },
+      {
+        "year": 2020,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed team",
+        "medal": "Silver"
+      }
     ],
-    "medals": { "gold": 0, "silver": 1, "bronze": 1 }
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 1
+    }
   },
   {
     "id": "para-serio-steve",
     "name": "Steve Serio",
     "sex": "M",
-    "height_cm": null,
-    "weight_kg": null,
+    "height_cm": 168,
+    "weight_kg": 82,
     "age": 29,
     "games": "paralympic",
     "primarySport": "Wheelchair Basketball",
     "events": [
-      { "year": 2016, "sport": "Wheelchair Basketball", "event": "Men's team", "medal": "Gold" },
-      { "year": 2020, "sport": "Wheelchair Basketball", "event": "Men's team", "medal": "Bronze" }
+      {
+        "year": 2016,
+        "sport": "Wheelchair Basketball",
+        "event": "Men's team",
+        "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Wheelchair Basketball",
+        "event": "Men's team",
+        "medal": "Bronze"
+      }
     ],
-    "medals": { "gold": 1, "silver": 0, "bronze": 2 }
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 2
+    },
+    "_enrichmentNotes": "deepen: Height and weight are from Wikipedia and Famous Birthdays, both citing 2011. Birth date is consistently listed across multiple sources as September 8, 1987."
   },
   {
     "id": "para-scott-matt",
     "name": "Matt Scott",
     "sex": "M",
-    "height_cm": null,
+    "height_cm": 170,
     "weight_kg": null,
     "age": 31,
     "games": "paralympic",
     "primarySport": "Wheelchair Basketball",
     "events": [
-      { "year": 2016, "sport": "Wheelchair Basketball", "event": "Men's team", "medal": "Gold" }
+      {
+        "year": 2016,
+        "sport": "Wheelchair Basketball",
+        "event": "Men's team",
+        "medal": "Gold"
+      }
     ],
-    "medals": { "gold": 1, "silver": 0, "bronze": 1 }
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "deepen: Height is consistently listed as 5'7\" or 5'8\" (1.73m) across multiple sources. Birthdate of March 27, 1985, allows for age calculation. Weight is not publicly listed."
   },
   {
     "id": "para-blunk-megan",
     "name": "Megan Blunk",
     "sex": "F",
-    "height_cm": null,
-    "weight_kg": null,
+    "height_cm": 160,
+    "weight_kg": 52,
     "age": 25,
     "games": "paralympic",
     "primarySport": "Wheelchair Basketball",
     "events": [
-      { "year": 2016, "sport": "Wheelchair Basketball", "event": "Women's team", "medal": "Gold" }
+      {
+        "year": 2016,
+        "sport": "Wheelchair Basketball",
+        "event": "Women's team",
+        "medal": "Gold"
+      }
     ],
-    "medals": { "gold": 1, "silver": 0, "bronze": 0 }
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "deepen: Height and weight are from Wikipedia. Birth date is from Wikipedia and Team USA, allowing age calculation for 2016."
   },
   {
     "id": "para-webster-lora",
     "name": "Lora Webster",
     "sex": "F",
-    "height_cm": null,
+    "height_cm": 180,
     "weight_kg": null,
     "age": 30,
     "games": "paralympic",
     "primarySport": "Sitting Volleyball",
     "events": [
-      { "year": 2016, "sport": "Sitting Volleyball", "event": "Women's team", "medal": "Gold" },
-      { "year": 2020, "sport": "Sitting Volleyball", "event": "Women's team", "medal": "Gold" }
+      {
+        "year": 2016,
+        "sport": "Sitting Volleyball",
+        "event": "Women's team",
+        "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Sitting Volleyball",
+        "event": "Women's team",
+        "medal": "Gold"
+      }
     ],
-    "medals": { "gold": 2, "silver": 1, "bronze": 0 }
+    "medals": {
+      "gold": 2,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "deepen: Height is consistently listed as 5'11\" (180 cm) across multiple sources. Birthdate is August 26, 1986, making her 29 in 2016. Weight is not publicly listed."
   },
   {
     "id": "para-erickson-heather",
     "name": "Heather Erickson",
     "sex": "F",
-    "height_cm": null,
+    "height_cm": 183,
     "weight_kg": null,
     "age": 31,
     "games": "paralympic",
     "primarySport": "Sitting Volleyball",
     "events": [
-      { "year": 2012, "sport": "Sitting Volleyball", "event": "Women's team", "medal": "Silver" },
-      { "year": 2016, "sport": "Sitting Volleyball", "event": "Women's team", "medal": "Gold" }
+      {
+        "year": 2012,
+        "sport": "Sitting Volleyball",
+        "event": "Women's team",
+        "medal": "Silver"
+      },
+      {
+        "year": 2016,
+        "sport": "Sitting Volleyball",
+        "event": "Women's team",
+        "medal": "Gold"
+      }
     ],
-    "medals": { "gold": 1, "silver": 1, "bronze": 0 }
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "deepen: Height is consistently reported as 6'0\" (183 cm) across multiple sources. Birthdate of May 9, 1993, allows for age calculation in 2016. Weight is not publicly listed."
   },
   {
     "id": "para-stutzman-matt",
     "name": "Matt Stutzman",
     "sex": "M",
-    "height_cm": null,
+    "height_cm": 168,
     "weight_kg": null,
     "age": 29,
     "games": "paralympic",
     "primarySport": "Para Archery",
     "events": [
-      { "year": 2012, "sport": "Para Archery", "event": "Men's Individual Compound Open", "medal": "Silver" }
+      {
+        "year": 2012,
+        "sport": "Para Archery",
+        "event": "Men's Individual Compound Open",
+        "medal": "Silver"
+      }
     ],
-    "medals": { "gold": 0, "silver": 1, "bronze": 0 }
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "deepen: Height is consistently reported as 5'6\" (168 cm). Weight varies across sources and years, so it is null. Birth year is consistently reported as 1982, making him 29 in 2012."
   },
   {
     "id": "para-czechowski-lisa",
     "name": "Lisa Czechowski",
     "sex": "F",
-    "height_cm": null,
+    "height_cm": 165,
     "weight_kg": null,
     "age": 29,
     "games": "paralympic",
     "primarySport": "Goalball",
     "events": [
-      { "year": 2008, "sport": "Goalball", "event": "Women's team", "medal": "Bronze" }
+      {
+        "year": 2008,
+        "sport": "Goalball",
+        "event": "Women's team",
+        "medal": "Bronze"
+      }
     ],
-    "medals": { "gold": 0, "silver": 0, "bronze": 1 }
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "deepen: Lisa Czechowski's height is consistently listed as 5'5\" (165 cm) across multiple sources. Her birthdate is May 29, 1979, making her 29 in 2008. No reliable sources provided weight information."
   }
 ]

@@ -343,12 +343,12 @@ export default function OnboardingPage() {
             >
               {!skipTwitch ? (
                 <TwitchGame
-                  onComplete={(_taps, tps) => update({ tapsPerSecond: tps })}
+                  onComplete={(_taps, tps) => update({ tapsPerSecond: tps, tapsRatedManually: false })}
                 />
               ) : (
                 <ManualTwitchPicker
                   value={profile.tapsPerSecond ?? null}
-                  onChange={(tps) => update({ tapsPerSecond: tps })}
+                  onChange={(tps) => update({ tapsPerSecond: tps, tapsRatedManually: true })}
                 />
               )}
               <div className="mt-4 text-center">
@@ -356,7 +356,7 @@ export default function OnboardingPage() {
                   type="button"
                   onClick={() => {
                     setSkipTwitch((b) => !b);
-                    if (!skipTwitch) update({ tapsPerSecond: null });
+                    if (!skipTwitch) update({ tapsPerSecond: null, tapsRatedManually: false });
                   }}
                   className="text-xs uppercase tracking-[0.18em] text-muted-soft hover:text-foreground transition"
                 >

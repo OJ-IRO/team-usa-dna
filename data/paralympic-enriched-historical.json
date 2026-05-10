@@ -1,0 +1,1004 @@
+[
+  {
+    "id": "para-historical-daniel-mallett",
+    "name": "Daniel Mallett",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 1960,
+        "sport": "Para Athletics",
+        "event": "Javelin C",
+        "medal": "Gold"
+      },
+      {
+        "year": 1960,
+        "sport": "Para Athletics",
+        "event": "Shot Put C",
+        "medal": "Gold"
+      },
+      {
+        "year": 1960,
+        "sport": "Para Athletics",
+        "event": "Club Throw C",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age at peak games are not readily available from historical records."
+  },
+  {
+    "id": "para-historical-ron-stein",
+    "name": "Ron Stein",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": 86,
+    "age": 23,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 1960,
+        "sport": "Para Swimming",
+        "event": "50m Breaststroke complete class 5",
+        "medal": "Gold"
+      },
+      {
+        "year": 1960,
+        "sport": "Para Swimming",
+        "event": "50m Freestyle complete class 5",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age at peak games are not readily available from historical records.; deepen: Ron Stein's birth date is September 27, 1937, making him 23 in 1960. One source mentions his weight as 190 lbs in 1961, which converts to 86 kg. No sources provided his height."
+  },
+  {
+    "id": "para-historical-jack-whitman",
+    "name": "Jack Whitman",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 30,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 1960,
+        "sport": "Para Athletics",
+        "event": "Shot Put A",
+        "medal": "Gold"
+      },
+      {
+        "year": 1960,
+        "sport": "Para Athletics",
+        "event": "Javelin A",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age at peak games are not readily available from historical records.; deepen: Jack Whitman was 30 years old on September 20, 1960, when he won his first Paralympic gold medal."
+  },
+  {
+    "id": "para-historical-rosalie-hixson",
+    "name": "Rosalie Hixson",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 15,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 1960,
+        "sport": "Para Swimming",
+        "event": "50m Breaststroke complete class 4",
+        "medal": "Gold"
+      },
+      {
+        "year": 1960,
+        "sport": "Para Swimming",
+        "event": "50m Freestyle complete class 4",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age at peak games are not readily available from historical records.; deepen: Rosalie Hixson was born on November 19, 1944, making her 15 years old in 1960. No sources found her height or weight."
+  },
+  {
+    "id": "para-historical-arlene-mcallister",
+    "name": "Arlene McAllister",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 1960,
+        "sport": "Para Swimming",
+        "event": "50m Breaststroke complete class 3",
+        "medal": "Gold"
+      },
+      {
+        "year": 1960,
+        "sport": "Para Swimming",
+        "event": "50m Freestyle complete class 3",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age at peak games are not readily available from historical records."
+  },
+  {
+    "id": "para-historical-carol-ann-giesse",
+    "name": "Carol Ann Giesse",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 1960,
+        "sport": "Para Swimming",
+        "event": "50m Breaststroke complete class 2",
+        "medal": "Gold"
+      },
+      {
+        "year": 1960,
+        "sport": "Para Swimming",
+        "event": "50m Freestyle complete class 2",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age at peak games are not readily available from historical records."
+  },
+  {
+    "id": "para-historical-susan-hagel",
+    "name": "Susan Hagel",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 1960,
+        "sport": "Para Swimming",
+        "event": "50m Breaststroke complete class 1",
+        "medal": "Gold"
+      },
+      {
+        "year": 1960,
+        "sport": "Para Swimming",
+        "event": "50m Freestyle complete class 1",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age at peak games are not readily available from historical records."
+  },
+  {
+    "id": "para-historical-jo-ann-webb",
+    "name": "Jo Ann Webb",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 21,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 1960,
+        "sport": "Para Athletics",
+        "event": "Javelin B",
+        "medal": "Gold"
+      },
+      {
+        "year": 1960,
+        "sport": "Para Athletics",
+        "event": "Shot Put B",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age at peak games are not readily available from historical records.; deepen: Jo Ann Webb was born on June 27, 1938, making her 21 in 1960. No publicly listed height or weight was found for her as a Paralympian."
+  },
+  {
+    "id": "para-historical-maren-christensen",
+    "name": "Maren Christensen",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 1964,
+        "sport": "Para Athletics",
+        "event": "Javelin C",
+        "medal": "Gold"
+      },
+      {
+        "year": 1964,
+        "sport": "Para Athletics",
+        "event": "Shot Put C",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age at peak games are not readily available from historical records."
+  },
+  {
+    "id": "para-historical-karen-donaldson",
+    "name": "Karen Donaldson",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 29,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 1976,
+        "sport": "Para Swimming",
+        "event": "25m Backstroke 1A",
+        "medal": "Bronze"
+      },
+      {
+        "year": 1976,
+        "sport": "Para Athletics",
+        "event": "Slalom 1A",
+        "medal": "Bronze"
+      },
+      {
+        "year": 1972,
+        "sport": "Para Swimming",
+        "event": "25m Backstroke 1A",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 5,
+      "silver": 1,
+      "bronze": 3
+    },
+    "_enrichmentNotes": "Medal count and events confirmed across multiple sources. Age at peak games (1976) calculated from birth year."
+  },
+  {
+    "id": "para-historical-edward-owen",
+    "name": "Edward Owen",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 26,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 1972,
+        "sport": "Para Athletics",
+        "event": "Pentathlon 5",
+        "medal": "Silver"
+      },
+      {
+        "year": 1976,
+        "sport": "Para Athletics",
+        "event": "Discus Throw 5",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 9,
+      "silver": 2,
+      "bronze": 2
+    },
+    "_enrichmentNotes": "Medal count and events confirmed. Age at peak games (1972) calculated from birth year."
+  },
+  {
+    "id": "para-historical-sharon-hedrick-n-e-rahn",
+    "name": "Sharon Hedrick (née Rahn)",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 20,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 1976,
+        "sport": "Wheelchair Basketball",
+        "event": "Gold-medal squad",
+        "medal": "Gold"
+      },
+      {
+        "year": 1976,
+        "sport": "Para Athletics",
+        "event": "Slalom 4",
+        "medal": "Gold"
+      },
+      {
+        "year": 1976,
+        "sport": "Para Athletics",
+        "event": "60m 4",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 4,
+      "silver": 3,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Medal count and events confirmed. Age at peak games (1976) calculated from birth year. Note: Some sources list her as Sharon Rahn for 1976."
+  },
+  {
+    "id": "para-historical-trischa-zorn",
+    "name": "Trischa Zorn",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 24,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 1988,
+        "sport": "Para Swimming",
+        "event": "50m Breaststroke",
+        "medal": "Gold"
+      },
+      {
+        "year": 1988,
+        "sport": "Para Swimming",
+        "event": "100m Freestyle",
+        "medal": "Gold"
+      },
+      {
+        "year": 1988,
+        "sport": "Para Swimming",
+        "event": "400m Individual Medley",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 41,
+      "silver": 9,
+      "bronze": 5
+    },
+    "_enrichmentNotes": "Age at peak games is based on her birth year and the year of the 1988 Paralympics. Total medal count is widely reported across multiple sources."
+  },
+  {
+    "id": "para-historical-candace-cable",
+    "name": "Candace Cable",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 34,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 1988,
+        "sport": "Para Athletics",
+        "event": "Marathon",
+        "medal": "Gold"
+      },
+      {
+        "year": 1988,
+        "sport": "Para Athletics",
+        "event": "800m",
+        "medal": "Gold"
+      },
+      {
+        "year": 1980,
+        "sport": "Para Athletics",
+        "event": "200m",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 8,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Total medal count (8 gold, 12 total) is consistent across sources, but specific silver/bronze breakdown for the 1980s is not fully detailed."
+  },
+  {
+    "id": "para-historical-sharon-hedrick",
+    "name": "Sharon Hedrick",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 28,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 1984,
+        "sport": "Para Athletics",
+        "event": "800m Wheelchair (Olympic Demonstration)",
+        "medal": "Gold"
+      },
+      {
+        "year": 1980,
+        "sport": "Para Athletics",
+        "event": "60m",
+        "medal": "Gold"
+      },
+      {
+        "year": 1980,
+        "sport": "Para Athletics",
+        "event": "Wheelchair Basketball",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 5,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Total medal count (10 total, 5 gold) is consistent across sources, but specific silver/bronze breakdown for the 1980s is not fully detailed."
+  },
+  {
+    "id": "para-historical-bart-dodson",
+    "name": "Bart Dodson",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 34,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 1988,
+        "sport": "Para Athletics",
+        "event": "4x100m Relay",
+        "medal": "Gold"
+      },
+      {
+        "year": 1988,
+        "sport": "Para Athletics",
+        "event": "4x200m Relay",
+        "medal": "Gold"
+      },
+      {
+        "year": 1984,
+        "sport": "Para Athletics",
+        "event": "Club Throw",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 13,
+      "silver": 3,
+      "bronze": 4
+    },
+    "_enrichmentNotes": "Total medal count (20 total, 13 gold) is consistent across sources."
+  },
+  {
+    "id": "para-historical-michael-dempsey",
+    "name": "Michael Dempsey",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 23,
+    "games": "paralympic",
+    "primarySport": "Para Table Tennis",
+    "events": [
+      {
+        "year": 1980,
+        "sport": "Para Table Tennis",
+        "event": "Men's Singles 4",
+        "medal": "Gold"
+      },
+      {
+        "year": 1988,
+        "sport": "Para Table Tennis",
+        "event": "Men's Open Singles 1A-4",
+        "medal": "Gold"
+      },
+      {
+        "year": 1980,
+        "sport": "Para Table Tennis",
+        "event": "Men's Teams 4",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 3,
+      "silver": 3,
+      "bronze": 2
+    },
+    "_enrichmentNotes": "Medal count for the 1980s is consistent across sources."
+  },
+  {
+    "id": "para-historical-cindy-castellano",
+    "name": "Cindy Castellano",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Alpine Skiing",
+    "events": [
+      {
+        "year": 1980,
+        "sport": "Para Alpine Skiing",
+        "event": "Giant Slalom 3A",
+        "medal": "Gold"
+      },
+      {
+        "year": 1980,
+        "sport": "Para Alpine Skiing",
+        "event": "Slalom 3A",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Medal count for 1980 is consistent across sources."
+  },
+  {
+    "id": "para-historical-doug-keil",
+    "name": "Doug Keil",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 26,
+    "games": "paralympic",
+    "primarySport": "Para Alpine Skiing",
+    "events": [
+      {
+        "year": 1980,
+        "sport": "Para Alpine Skiing",
+        "event": "Giant Slalom 4",
+        "medal": "Gold"
+      },
+      {
+        "year": 1980,
+        "sport": "Para Alpine Skiing",
+        "event": "Slalom 4",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Medal count for 1980 is consistent across sources.; deepen: Doug Keil was born in 1954 and was 26 years old in 1980. No height or weight information was found."
+  },
+  {
+    "id": "para-historical-bonnie-st-john",
+    "name": "Bonnie St. John",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 19,
+    "games": "paralympic",
+    "primarySport": "Para Alpine Skiing",
+    "events": [
+      {
+        "year": 1984,
+        "sport": "Para Alpine Skiing",
+        "event": "Slalom",
+        "medal": "Bronze"
+      },
+      {
+        "year": 1984,
+        "sport": "Para Alpine Skiing",
+        "event": "Giant Slalom",
+        "medal": "Silver"
+      },
+      {
+        "year": 1984,
+        "sport": "Para Alpine Skiing",
+        "event": "Downhill",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 2
+    },
+    "_enrichmentNotes": "Medal count for 1984 is consistent across sources.; deepen: Bonnie St. John was born on November 7, 1964, making her 19 years old in 1984."
+  },
+  {
+    "id": "para-historical-jean-driscoll",
+    "name": "Jean Driscoll",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": 49,
+    "age": 29,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 1996,
+        "sport": "Para Athletics",
+        "event": "10000m T52-53",
+        "medal": "Gold"
+      },
+      {
+        "year": 1996,
+        "sport": "Para Athletics",
+        "event": "Marathon T52-53",
+        "medal": "Gold"
+      },
+      {
+        "year": 1992,
+        "sport": "Para Athletics",
+        "event": "4x100m Relay",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 5,
+      "silver": 3,
+      "bronze": 4
+    },
+    "_enrichmentNotes": "Age at peak games (1996) calculated from birthdate (Nov 18, 1966). Total medal count from multiple sources.; deepen: Jean Driscoll's weight was reported as 110 pounds in a 1997 article, which converts to 49 kg. Her birth date is consistently listed as November 18, 1966, making her 25 in 1992. Height was not found in any sources."
+  },
+  {
+    "id": "para-historical-tony-volpentest",
+    "name": "Tony Volpentest",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 23,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 1996,
+        "sport": "Para Athletics",
+        "event": "100m T43-44",
+        "medal": "Gold"
+      },
+      {
+        "year": 1996,
+        "sport": "Para Athletics",
+        "event": "200m T43-44",
+        "medal": "Gold"
+      },
+      {
+        "year": 1992,
+        "sport": "Para Athletics",
+        "event": "100m TS2",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 4,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age at peak games (1996) based on birth year (1973) and event year. Total medal count from multiple sources."
+  },
+  {
+    "id": "para-historical-sarah-will",
+    "name": "Sarah Will",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 33,
+    "games": "paralympic",
+    "primarySport": "Para Alpine Skiing",
+    "events": [
+      {
+        "year": 1998,
+        "sport": "Para Alpine Skiing",
+        "event": "Giant Slalom",
+        "medal": "Gold"
+      },
+      {
+        "year": 1998,
+        "sport": "Para Alpine Skiing",
+        "event": "Slalom",
+        "medal": "Gold"
+      },
+      {
+        "year": 1998,
+        "sport": "Para Alpine Skiing",
+        "event": "Super G",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 12,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age at peak games (1998) based on birth year (1965) and event year. Total medal count from multiple sources."
+  },
+  {
+    "id": "para-historical-chris-waddell",
+    "name": "Chris Waddell",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 25,
+    "games": "paralympic",
+    "primarySport": "Para Alpine Skiing",
+    "events": [
+      {
+        "year": 1994,
+        "sport": "Para Alpine Skiing",
+        "event": "Downhill",
+        "medal": "Gold"
+      },
+      {
+        "year": 1994,
+        "sport": "Para Alpine Skiing",
+        "event": "Slalom",
+        "medal": "Gold"
+      },
+      {
+        "year": 1994,
+        "sport": "Para Alpine Skiing",
+        "event": "Super-G",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 7,
+      "silver": 5,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age at peak games (1994) based on birth year (1968) and event year. Total medal count from multiple sources."
+  },
+  {
+    "id": "para-historical-erin-popovich",
+    "name": "Erin Popovich",
+    "sex": "F",
+    "height_cm": 134,
+    "weight_kg": 48,
+    "age": 19,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2004,
+        "sport": "Para Swimming",
+        "event": "Multiple events",
+        "medal": "Gold"
+      },
+      {
+        "year": 2000,
+        "sport": "Para Swimming",
+        "event": "Multiple events",
+        "medal": "Gold"
+      },
+      {
+        "year": 2000,
+        "sport": "Para Swimming",
+        "event": "Multiple events",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 14,
+      "silver": 5,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are from Wikipedia. Age at peak games is calculated based on birthdate and 2004 games. Total medals are from Team USA and Wikipedia. Specific events for 2000 and 2004 are generalized as 'Multiple events' due to the high number of medals."
+  },
+  {
+    "id": "para-historical-jessica-long",
+    "name": "Jessica Long",
+    "sex": "F",
+    "height_cm": 180,
+    "weight_kg": 59,
+    "age": 12,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2004,
+        "sport": "Para Swimming",
+        "event": "100m freestyle S8",
+        "medal": "Gold"
+      },
+      {
+        "year": 2004,
+        "sport": "Para Swimming",
+        "event": "400m freestyle S8",
+        "medal": "Gold"
+      },
+      {
+        "year": 2004,
+        "sport": "Para Swimming",
+        "event": "4x100m freestyle relay 34pts",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 18,
+      "silver": 8,
+      "bronze": 5
+    },
+    "_enrichmentNotes": "Height and weight are with prosthetics. Age at peak games is calculated based on birthdate and 2004 games. Total medals are from Wikipedia and Team USA. Specific events for 2004 are listed."
+  },
+  {
+    "id": "para-historical-rudy-garcia-tolson",
+    "name": "Rudy Garcia-Tolson",
+    "sex": "M",
+    "height_cm": 185,
+    "weight_kg": null,
+    "age": 16,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2004,
+        "sport": "Para Swimming",
+        "event": "200m Individual Medley SM7",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 2,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height is from Team USA. Weight is null. Age at peak games is calculated based on birthdate and 2004 games. Total medals are from Wikipedia and Team USA. Specific event for 2004 is listed."
+  },
+  {
+    "id": "para-historical-kelly-crowley",
+    "name": "Kelly Crowley",
+    "sex": "F",
+    "height_cm": 170,
+    "weight_kg": 66,
+    "age": 28,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2004,
+        "sport": "Para Swimming",
+        "event": "Women's freestyle swimming",
+        "medal": "Gold"
+      },
+      {
+        "year": 2004,
+        "sport": "Para Swimming",
+        "event": "Women's medley relays swimming",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 2,
+      "bronze": 3
+    },
+    "_enrichmentNotes": "Height and weight are from Backstage. Age at peak games is calculated based on birthdate and 2004 games. Total medals are from Wikipedia. Specific events for 2004 are listed."
+  },
+  {
+    "id": "para-historical-marlon-shirley",
+    "name": "Marlon Shirley",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 22,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2000,
+        "sport": "Para Athletics",
+        "event": "100m T44",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age at peak games are null. Medal information is from Wikipedia.; deepen: Marlon Shirley's birth date is April 21, 1978, making him 22 in 2000. No reliable sources provided height or weight."
+  },
+  {
+    "id": "para-historical-tatyana-mcfadden",
+    "name": "Tatyana McFadden",
+    "sex": "F",
+    "height_cm": 160,
+    "weight_kg": 49,
+    "age": 15,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Track and Field",
+    "events": [
+      {
+        "year": 2004,
+        "sport": "Wheelchair Track and Field",
+        "event": "100m T54",
+        "medal": "Silver"
+      },
+      {
+        "year": 2004,
+        "sport": "Wheelchair Track and Field",
+        "event": "200m T54",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 8,
+      "silver": 9,
+      "bronze": 5
+    },
+    "_enrichmentNotes": "Height and weight are from Wikipedia and NYRR. Age at peak games is calculated based on birthdate and 2004 games. Total medals are from Wikipedia and Team USA. Specific events for 2004 are listed."
+  },
+  {
+    "id": "para-historical-april-holmes",
+    "name": "April Holmes",
+    "sex": "F",
+    "height_cm": 173,
+    "weight_kg": 64,
+    "age": 31,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2004,
+        "sport": "Para Athletics",
+        "event": "Long jump F44/46",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 2
+    },
+    "_enrichmentNotes": "Height and weight are from Wikipedia. Age at peak games is calculated based on birthdate and 2004 games. Total medals are from Wikipedia and Team USA. Specific event for 2004 is listed."
+  }
+]

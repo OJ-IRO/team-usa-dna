@@ -165,6 +165,25 @@ export function strengthProfileFromUser(user: UserProfile) {
   };
 }
 
+// For the Time Machine slider: compute the user's best match within each
+// decade. Returns a sparse map keyed by decade (1900, 1910, ..., 2020).
+export function bestPerDecade(
+  user: UserProfile,
+  pool: Cluster[],
+): Record<number, ClusterMatch> {
+  const byDecade = new Map<number, Cluster[]>();
+  for (const c of pool) {
+    if (!byDecade.has(c.decade)) byDecade.set(c.decade, []);
+    byDecade.get(c.decade)!.push(c);
+  }
+  const out: Record<number, ClusterMatch> = {};
+  for (const [decade, clusters] of byDecade) {
+    const ranked = rankClusters(user, clusters, 1);
+    if (ranked.length > 0) out[decade] = ranked[0];
+  }
+  return out;
+}
+
 // Helper: friendly cluster label like "Power Swimmers · 2010s · M"
 export function clusterLabel(c: Cluster): string {
   const sport = profileForSport(c.sport);

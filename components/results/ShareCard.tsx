@@ -32,7 +32,7 @@ export default function ShareCard({
           "radial-gradient(circle at 20% 0%, rgba(73,131,255,0.45), transparent 60%), radial-gradient(circle at 100% 100%, rgba(239,58,71,0.45), transparent 60%), #03040a",
       }}
     >
-      <div className="absolute inset-0 p-10 flex flex-col justify-between">
+      <div className="absolute inset-0 p-10 flex flex-col">
         {/* Top row — brand wordmark + emblem medallion */}
         <div className="flex items-center justify-between gap-4">
           <div className="flex items-center gap-2.5">
@@ -45,20 +45,21 @@ export default function ShareCard({
           <EmblemMedallion url={emblemUrl} phase={emblemPhase} />
         </div>
 
-        {/* Archetype name */}
-        <div>
-          <div className="text-[11px] uppercase tracking-[0.22em] text-white/60 font-mono mb-3">
-            {headline}
+        {/* Archetype name + cohort matches anchored to the bottom with a clear gap between them */}
+        <div className="mt-auto space-y-7">
+          <div>
+            <div className="text-[11px] uppercase tracking-[0.22em] text-white/60 font-mono mb-3">
+              {headline}
+            </div>
+            <div className="display text-[40px] sm:text-[54px] leading-[0.98] font-semibold tracking-tight text-white max-w-xl">
+              <span className="bg-gradient-to-r from-[var(--olympic)] via-[var(--accent-gold)] to-[var(--paralympic)] bg-clip-text text-transparent">
+                {result.archetypeName}
+              </span>
+            </div>
           </div>
-          <div className="display text-[44px] sm:text-[64px] leading-[0.95] font-semibold tracking-tight text-white max-w-xl">
-            <span className="bg-gradient-to-r from-[var(--olympic)] via-[var(--accent-gold)] to-[var(--paralympic)] bg-clip-text text-transparent">
-              {result.archetypeName}
-            </span>
-          </div>
-        </div>
 
-        {/* Cohort matches */}
-        <div className="grid grid-cols-2 gap-6 text-white/85 text-sm">
+          {/* Cohort matches */}
+          <div className="grid grid-cols-2 gap-6 text-white/85 text-sm">
           {top1 && (
             <div>
               <div className="text-[10px] uppercase tracking-[0.2em] text-[var(--olympic)] font-mono mb-1.5">
@@ -85,6 +86,7 @@ export default function ShareCard({
               </div>
             </div>
           )}
+          </div>
         </div>
       </div>
     </div>

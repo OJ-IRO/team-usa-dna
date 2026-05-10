@@ -45,7 +45,7 @@ export default function ClusterCard({
         </div>
       </div>
 
-      <h3 className="display text-2xl font-semibold tracking-tight mb-1.5 leading-tight">
+      <h3 className="display text-2xl font-semibold tracking-tight mb-1.5 leading-tight line-clamp-2 min-h-[4rem]">
         {clusterDisplaySport(c.sport, c.representativeEvents)}
       </h3>
       <div className="text-sm text-muted mb-4 flex flex-wrap gap-x-2 gap-y-0.5">
@@ -68,29 +68,36 @@ export default function ClusterCard({
         <Stat label="Avg age" value={c.avgAge ? `${c.avgAge}` : "—"} sub={null} />
       </div>
 
-      {totalMedals > 0 && (
-        <div className="space-y-1.5 mb-4 text-xs font-mono">
-          {c.medalYears.gold.length > 0 && (
-            <div className="flex gap-2 items-baseline">
-              <span className="px-1.5 py-0.5 rounded bg-[var(--accent-gold)]/15 text-[var(--accent-gold)] tracking-tight">GOLD</span>
-              <span className="text-foreground/85">{c.medalYears.gold.join(", ")}</span>
-            </div>
-          )}
-          {c.medalYears.silver.length > 0 && (
-            <div className="flex gap-2 items-baseline">
-              <span className="px-1.5 py-0.5 rounded bg-white/10 text-white/80 tracking-tight">SILVER</span>
-              <span className="text-foreground/85">{c.medalYears.silver.join(", ")}</span>
-            </div>
-          )}
-          {c.medalYears.bronze.length > 0 && (
-            <div className="flex gap-2 items-baseline">
-              <span className="px-1.5 py-0.5 rounded bg-orange-400/15 text-orange-300 tracking-tight">BRONZE</span>
-              <span className="text-foreground/85">{c.medalYears.bronze.join(", ")}</span>
-            </div>
-          )}
-          <div className="text-[10px] text-muted-soft pt-1">Years this cohort medaled in their primary sport</div>
-        </div>
-      )}
+      {/* Medals block — always rendered so all cards align vertically. */}
+      <div className="space-y-1.5 mb-4 text-xs font-mono min-h-[64px]">
+        {totalMedals > 0 ? (
+          <>
+            {c.medalYears.gold.length > 0 && (
+              <div className="flex gap-2 items-baseline">
+                <span className="px-1.5 py-0.5 rounded bg-[var(--accent-gold)]/15 text-[var(--accent-gold)] tracking-tight">GOLD</span>
+                <span className="text-foreground/85">{c.medalYears.gold.join(", ")}</span>
+              </div>
+            )}
+            {c.medalYears.silver.length > 0 && (
+              <div className="flex gap-2 items-baseline">
+                <span className="px-1.5 py-0.5 rounded bg-white/10 text-white/80 tracking-tight">SILVER</span>
+                <span className="text-foreground/85">{c.medalYears.silver.join(", ")}</span>
+              </div>
+            )}
+            {c.medalYears.bronze.length > 0 && (
+              <div className="flex gap-2 items-baseline">
+                <span className="px-1.5 py-0.5 rounded bg-orange-400/15 text-orange-300 tracking-tight">BRONZE</span>
+                <span className="text-foreground/85">{c.medalYears.bronze.join(", ")}</span>
+              </div>
+            )}
+            <div className="text-[10px] text-muted-soft pt-1">Years this cohort medaled in their primary sport</div>
+          </>
+        ) : (
+          <div className="text-[11px] text-muted-soft uppercase tracking-[0.16em] pt-1">
+            No medals on record for this decade
+          </div>
+        )}
+      </div>
 
       {match.rationale.length > 0 && (
         <ul className="space-y-1.5 text-[13.5px] text-muted">

@@ -37,6 +37,7 @@ yarn-error.log*
 
 # local development scratch
 .crest-sample.png
+.og-sample.png
 
 # env files (can opt-in for committing if needed)
 .env*

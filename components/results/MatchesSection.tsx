@@ -28,15 +28,13 @@ export default function MatchesSection({
         whileInView={{ opacity: 1, y: 0 }}
         viewport={{ once: true }}
         transition={{ duration: 0.5 }}
-        className="flex items-start gap-3"
+        className="space-y-3"
       >
-        <span className="size-2 rounded-full mt-3 shrink-0" style={{ background: accent }} />
-        <div className="flex-1 space-y-3">
-          <div className="text-xs uppercase tracking-[0.18em] font-mono" style={{ color: accent }}>
-            {subtitle}
-          </div>
-          <h3 className="display text-3xl sm:text-4xl font-semibold tracking-tight leading-[1.05]">{title}</h3>
+        <div className="flex items-center gap-2 text-xs uppercase tracking-[0.18em] font-mono" style={{ color: accent }}>
+          <span className="size-2 rounded-full shrink-0" style={{ background: accent }} />
+          <span>{subtitle}</span>
         </div>
+        <h3 className="display text-3xl sm:text-4xl font-semibold tracking-tight leading-[1.05]">{title}</h3>
       </motion.div>
 
       {narrative && (

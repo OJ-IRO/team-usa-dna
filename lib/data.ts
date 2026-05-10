@@ -3,6 +3,7 @@ import historicalOlympic from "@/data/olympic-usa.json";
 import modernOlympic from "@/data/modern-usa.json";
 import paralympicCurated from "@/data/paralympic-usa.json";
 import paralympicEnriched from "@/data/paralympic-enriched.json";
+import paralympicHistorical from "@/data/paralympic-enriched-historical.json";
 import type { Athlete, Cluster, Games, Sex } from "./types";
 
 const MIN_CLUSTER_SIZE = 5;
@@ -16,6 +17,7 @@ const olympicPool = [
 const paralympicPool = [
   ...(paralympicCurated as Athlete[]),
   ...(paralympicEnriched as Athlete[]),
+  ...(paralympicHistorical as Athlete[]),
 ];
 
 function decadeOf(year: number): number {

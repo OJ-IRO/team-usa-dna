@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 import { olympicClusters, paralympicClusters } from "@/lib/data";
-import { rankClusters, strengthProfileFromUser } from "@/lib/matching";
+import { bestPerDecade, rankClusters, strengthProfileFromUser } from "@/lib/matching";
 import { generateArchetype } from "@/lib/gemini";
 import { fallbackNarrative } from "@/lib/fallback";
 import type { ArchetypeResult, UserProfile } from "@/lib/types";
@@ -35,8 +35,13 @@ export async function POST(req: Request) {
       return NextResponse.json({ error: "Invalid profile data" }, { status: 400 });
     }
 
-    const olympicMatches = rankClusters(profile, olympicClusters, 3);
-    const paralympicMatches = rankClusters(profile, paralympicClusters, 3);
+    // Display top 3 in the UI; the agent route also receives the full top-10
+    // through the result so it can recommend specific alternate cohorts when
+    // asked hypothetical questions ("what if I were taller?").
+    const olympicAll = rankClusters(profile, olympicClusters, 10);
+    const paralympicAll = rankClusters(profile, paralympicClusters, 10);
+    const olympicMatches = olympicAll.slice(0, 3);
+    const paralympicMatches = paralympicAll.slice(0, 3);
     const strengthProfile = strengthProfileFromUser(profile);
 
     let narrative;
@@ -64,6 +69,10 @@ export async function POST(req: Request) {
       strengthProfile,
       olympicMatches,
       paralympicMatches,
+      olympicAlternates: olympicAll.slice(3),
+      paralympicAlternates: paralympicAll.slice(3),
+      olympicByDecade: bestPerDecade(profile, olympicClusters),
+      paralympicByDecade: bestPerDecade(profile, paralympicClusters),
       olympicNarrative: narrative.olympicNarrative,
       paralympicNarrative: narrative.paralympicNarrative,
       sportRecommendations: narrative.sportRecommendations,

@@ -13,7 +13,7 @@ const LOADING_MESSAGES = [
   "Sketching the silhouette…",
   "Layering art-deco geometry…",
   "Tuning the palette…",
-  "Forging the medallion…",
+  "Composing the medallion…",
 ];
 
 export default function ShareCardSection({

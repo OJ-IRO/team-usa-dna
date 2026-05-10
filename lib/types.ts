@@ -62,6 +62,10 @@ export type UserProfile = {
   // Measured by the in-app mini-games (optional — null = user skipped or not played).
   reactionTimeMs?: number | null;
   tapsPerSecond?: number | null;
+  // True when user picked the twitch tier from the manual slider instead of
+  // playing the game — used by the Measured Stats card to show "Tier X / 5"
+  // instead of pretending the value was measured.
+  tapsRatedManually?: boolean;
 };
 
 // A cluster of Team USA competitors grouped by games/sport/decade/sex.
@@ -104,6 +108,14 @@ export type ArchetypeResult = {
   };
   olympicMatches: ClusterMatch[];
   paralympicMatches: ClusterMatch[];
+  // Cohorts ranked 4-10 — sent to the agent so it can suggest alternates
+  // when the user asks hypothetical questions; not displayed in the main UI.
+  olympicAlternates?: ClusterMatch[];
+  paralympicAlternates?: ClusterMatch[];
+  // For the Time Machine slider: the user's best match within each decade.
+  // Sparse map — only decades that produced a viable cluster appear.
+  olympicByDecade?: Record<number, ClusterMatch>;
+  paralympicByDecade?: Record<number, ClusterMatch>;
   olympicNarrative: string;
   paralympicNarrative: string;
   sportRecommendations: { sport: string; reason: string }[];

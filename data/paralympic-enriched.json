@@ -52,7 +52,7 @@
     "name": "Robert Griswold",
     "sex": "M",
     "height_cm": 183,
-    "weight_kg": null,
+    "weight_kg": 73,
     "age": 24,
     "games": "paralympic",
     "primarySport": "Para Swimming",
@@ -69,7 +69,7 @@
       "silver": 1,
       "bronze": 0
     },
-    "_enrichmentNotes": "Height of 183 cm was found on Wikipedia, and 180 cm (5'11\") on Carson-Newman Athletics, which is within 3cm. Weight sources disagreed by more than 3kg."
+    "_enrichmentNotes": "Height of 183 cm was found on Wikipedia, and 180 cm (5'11\") on Carson-Newman Athletics, which is within 3cm. Weight sources disagreed by more than 3kg.; deepen: Height and weight are from Wikipedia. Birthdate is from Wikipedia, Carson-Newman Athletics, and Openwaterpedia."
   },
   {
     "id": "para-enriched-anastasia-pagonis",
@@ -243,9 +243,9 @@
     "id": "para-enriched-erica-davis",
     "name": "Erica Davis",
     "sex": "F",
-    "height_cm": null,
+    "height_cm": 191,
     "weight_kg": null,
-    "age": null,
+    "age": 34,
     "games": "paralympic",
     "primarySport": "Wheelchair Basketball",
     "events": [
@@ -261,7 +261,7 @@
       "silver": 0,
       "bronze": 0
     },
-    "_enrichmentNotes": "No authoritative sources explicitly list the height and weight for Erica Davis as a Team USA Wheelchair Basketball Paralympian for the 2020 Games. Birth year is also not directly confirmed for a wheelchair basketball Paralympian named Erica Davis."
+    "_enrichmentNotes": "No authoritative sources explicitly list the height and weight for Erica Davis as a Team USA Wheelchair Basketball Paralympian for the 2020 Games. Birth year is also not directly confirmed for a wheelchair basketball Paralympian named Erica Davis.; deepen: Erica Davis was born on November 27, 1985, making her 34 in 2020. Her height of 6'3\" (191 cm) is listed on Eurobasket and Yale Athletics. No reliable sources for weight were found."
   },
   {
     "id": "para-enriched-rose-hollermann",
@@ -292,7 +292,7 @@
     "name": "Sarah Adam",
     "sex": "F",
     "height_cm": null,
-    "weight_kg": null,
+    "weight_kg": 64,
     "age": 33,
     "games": "paralympic",
     "primarySport": "Wheelchair Rugby",
@@ -309,7 +309,7 @@
       "silver": 1,
       "bronze": 0
     },
-    "_enrichmentNotes": "Height and weight data were not found in the consulted sources. Birth year (1990) was used to calculate age at the 2024 Paralympic Games (August 28 - September 8, 2024)."
+    "_enrichmentNotes": "Height and weight data were not found in the consulted sources. Birth year (1990) was used to calculate age at the 2024 Paralympic Games (August 28 - September 8, 2024).; deepen: Sarah Adam's weight was consistently reported as 140 pounds (63.5 kg) across multiple sources. Her birth year (1990) was found on Wikipedia, allowing for age calculation. Height was not found in any reliable sources."
   },
   {
     "id": "para-enriched-hailey-danz",

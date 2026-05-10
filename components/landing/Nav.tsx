@@ -1,8 +1,31 @@
+"use client";
+
 import Link from "next/link";
+import { useEffect, useRef, useState } from "react";
+import { motion } from "motion/react";
 
 export default function Nav() {
+  const [hidden, setHidden] = useState(false);
+  const lastYRef = useRef(0);
+
+  useEffect(() => {
+    function onScroll() {
+      const y = window.scrollY;
+      const last = lastYRef.current;
+      if (y > 80 && y > last) setHidden(true);
+      else if (y < last) setHidden(false);
+      lastYRef.current = y;
+    }
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => window.removeEventListener("scroll", onScroll);
+  }, []);
+
   return (
-    <header className="fixed top-0 inset-x-0 z-40">
+    <motion.header
+      animate={{ y: hidden ? -100 : 0 }}
+      transition={{ duration: 0.32, ease: [0.16, 1, 0.3, 1] }}
+      className="fixed top-0 inset-x-0 z-40"
+    >
       <div className="mx-auto max-w-6xl px-6 sm:px-8 pt-5">
         <div className="glass rounded-2xl px-4 py-2.5 flex items-center justify-between">
           <Link href="/" className="flex items-center gap-2.5">
@@ -19,6 +42,6 @@ export default function Nav() {
           </nav>
         </div>
       </div>
-    </header>
+    </motion.header>
   );
 }

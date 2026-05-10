@@ -10,30 +10,37 @@ const MODEL = "imagen-4.0-generate-001";
 // Strictly avoid any Olympic / IOC / USOPC / Team USA copyrighted marks,
 // real flags, photoreal faces, and branded equipment. The emblem must be
 // unique to the user — derived from their archetype name + matched sport.
+//
+// HACKATHON RULES: AI-generated emblems must NOT contain the Olympic rings,
+// the Olympic torch/flame, the IOC/USOPC marks, or unauthorized national
+// flags. The Gemini Developer API does not support `negativePrompt` (that's
+// Vertex-only), so the prohibitions are inlined into the positive prompt
+// AND we lead with them before the descriptive section, since image models
+// weight the earlier portion of the prompt more strongly. We also avoid
+// trigger words ("Olympic", "trophy", "medal", "torch") in the *positive*
+// section — those names tend to coax the model toward the very imagery
+// we're trying to exclude even when explicitly told not to use them.
 function buildPositivePrompt(_archetypeName: string, sport: string, _sex: "M" | "F" | undefined) {
   const sportMotif = motifFor(sport);
-  // The archetype name is intentionally NOT passed to the image model — passing
-  // a quoted string ("titled X") prompts Imagen to literally render that text
-  // inside the image, which violates our no-text rule and looks awful.
-  // Variation between users still comes from the per-sport motif + model noise.
   return [
-    `An abstract symmetrical art-deco athletic emblem.`,
-    `A clean shield-or-medallion silhouette centered on a deep navy starfield background.`,
-    `Sport-themed motif of ${sportMotif} composed of clean geometric forms.`,
-    `Color palette: deep navy, burnished gold, crimson red, ivory accents.`,
-    `Premium cinematic emblem, trophy-like, minimalist 2D illustration, high contrast, sharp lines.`,
-    `Subtle radial glow behind the shield.`,
-    `Style references: classic medal engravings, art-deco architecture, abstract heraldry.`,
+    // HARD PROHIBITIONS — first so the model anchors on them.
+    `ABSOLUTE EXCLUSIONS (the image must contain ZERO of the following, no exceptions):`,
+    `1. NO five interlocking circles or rings of any kind. NO ring shapes. NO chain of circles.`,
+    `2. NO torch. NO flame. NO fire. NO burning object. NO holders or hands holding anything aflame.`,
+    `3. NO IOC, USOPC, Team USA, or Olympic Movement marks, logos, or symbols of any kind.`,
+    `4. NO national flags. NO American flag. NO stars-and-stripes pattern. NO flag-like rectangles with stripes.`,
+    `5. NO text, letters, numerals, words, captions, labels, or watermarks. The image must contain ZERO writing of any kind.`,
+    `6. NO human figures, faces, silhouettes, athlete portraits, or photorealistic people.`,
+    `7. NO branded sport equipment, team logos, or registered trademarks.`,
     ``,
-    `STRICTLY EXCLUDE — under no circumstances generate any of the following:`,
-    `- ANY text, letters, numerals, words, captions, labels, watermarks, or written language of any kind. The image must contain ZERO writing.`,
-    `- The Olympic rings (five interlocking rings) or any IOC / USOPC / Team USA emblems or logos`,
-    `- The Olympic torch or flame illustration`,
-    `- Any real flags, including the American flag or stars-and-stripes pattern`,
-    `- Any human figures, faces, silhouettes, or athlete portraits`,
-    `- Any photoreal people or photorealistic athletes`,
-    `- Any branded sport equipment, team logos, or trademarks`,
-    `Output: pure abstract heraldic emblem, geometric and wordless.`,
+    // POSITIVE DESCRIPTION — wordless, geometric, art-deco only.
+    `Generate: an abstract symmetrical art-deco athletic shield-emblem.`,
+    `Centered shield silhouette over a deep navy starfield background with a subtle radial glow.`,
+    `Inside the shield: a sport-themed abstract motif of ${sportMotif}, composed of clean geometric forms only.`,
+    `Color palette: deep navy, burnished gold, crimson red, ivory accents.`,
+    `Style: minimalist 2D heraldic illustration, high contrast, sharp lines, clean geometry.`,
+    `Style references: art-deco architecture, abstract heraldry, geometric medallions.`,
+    `The emblem is purely abstract and wordless — it MUST NOT depict any of the prohibited items above.`,
   ].join(" ");
 }
 
@@ -84,7 +91,7 @@ export async function POST(req: Request) {
         numberOfImages: 1,
         aspectRatio: "1:1",
         // negativePrompt is Vertex-only; for Gemini Developer API we fold the
-        // prohibitions into the positive prompt above.
+        // prohibitions into the positive prompt above (lead-in section).
         personGeneration: "dont_allow" as never,
       },
     });

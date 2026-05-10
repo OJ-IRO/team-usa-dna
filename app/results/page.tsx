@@ -1,20 +1,33 @@
 "use client";
 
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
 import dynamic from "next/dynamic";
 
 import { useOnboardingStore } from "@/lib/store";
 import AnalyzingOverlay from "@/components/results/AnalyzingOverlay";
+import CinematicReveal from "@/components/results/CinematicReveal";
 import ArchetypeHero from "@/components/results/ArchetypeHero";
 import MatchesSection from "@/components/results/MatchesSection";
 import InsightCard from "@/components/results/InsightCard";
 import HometownEcosystem from "@/components/results/HometownEcosystem";
 import ShareCardSection from "@/components/results/ShareCardSection";
 import AskAgent from "@/components/results/AskAgent";
+import TimeMachine from "@/components/results/TimeMachine";
+import CohortDetailModal from "@/components/results/CohortDetailModal";
+import type { ClusterMatch } from "@/lib/types";
 import PrimaryButton from "@/components/ui/PrimaryButton";
 import type { UserProfile } from "@/lib/types";
+
+// Maps the ManualTwitchPicker preset TPS values back to the user's chosen tier.
+function tpsTierLabel(tps: number): number {
+  if (tps >= 9.5) return 5;
+  if (tps >= 7.5) return 4;
+  if (tps >= 6) return 3;
+  if (tps >= 4.5) return 2;
+  return 1;
+}
 
 // three.js bundle is heavy — lazy-load and skip SSR (it touches `window`).
 const ArchetypeConstellation = dynamic(
@@ -34,6 +47,14 @@ const ArchetypeConstellation = dynamic(
 export default function ResultsPage() {
   const router = useRouter();
   const { result, isAnalyzing, error, profile, reset } = useOnboardingStore();
+  const [revealComplete, setRevealComplete] = useState(false);
+  const [modalMatch, setModalMatch] = useState<ClusterMatch | null>(null);
+  const [modalVariant, setModalVariant] = useState<"olympic" | "paralympic">("olympic");
+
+  function openModal(m: ClusterMatch, v: "olympic" | "paralympic") {
+    setModalMatch(m);
+    setModalVariant(v);
+  }
 
   // If user lands here directly without any data, send them home.
   useEffect(() => {
@@ -69,6 +90,14 @@ export default function ResultsPage() {
 
   return (
     <div className="min-h-screen pb-20">
+      {/* Cinematic 6-second reveal that plays once on first arrival with a fresh result. */}
+      {!revealComplete && (
+        <CinematicReveal
+          result={result}
+          firstName={profile.firstName}
+          onComplete={() => setRevealComplete(true)}
+        />
+      )}
       <header className="px-6 sm:px-8 pt-6 pb-4 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2.5">
           <span className="size-6 rounded-lg bg-gradient-to-br from-[var(--olympic)] via-[var(--accent-gold)] to-[var(--paralympic)]" />
@@ -91,30 +120,73 @@ export default function ResultsPage() {
         <ArchetypeConstellation result={result} />
         <ArchetypeHero result={result} firstName={profile.firstName} />
 
-        {(profile.reactionTimeMs != null || profile.tapsPerSecond != null) && (
-          <InsightCard label="Measured stats" title="What we clocked from your mini-games">
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-3">
-              {profile.reactionTimeMs != null && (
-                <div className="rounded-xl bg-white/[0.04] p-5">
-                  <div className="text-xs uppercase tracking-[0.16em] text-muted-soft mb-2">Reaction time</div>
-                  <div className="display text-4xl font-semibold tabular-nums">{profile.reactionTimeMs}<span className="text-base text-muted-soft ml-1.5">ms</span></div>
-                  <div className="text-xs text-muted-soft mt-2">
-                    {profile.reactionTimeMs <= 250 ? "Fast — top range for measured users" : profile.reactionTimeMs <= 330 ? "Solid — central band" : "Deliberate — there's headroom"}
+        <InsightCard label="Measured stats" title="What we clocked from your mini-games">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-3">
+            {/* Reaction tile — shows measured ms when game was played, otherwise the manually-rated tier so the card never feels empty */}
+            <div className="rounded-xl bg-white/[0.04] p-5">
+              <div className="text-xs uppercase tracking-[0.16em] text-muted-soft mb-2">Reaction time</div>
+              {profile.reactionTimeMs != null ? (
+                <>
+                  <div className="display text-4xl font-semibold tabular-nums">
+                    {profile.reactionTimeMs}
+                    <span className="text-base text-muted-soft ml-1.5">ms</span>
                   </div>
-                </div>
-              )}
-              {profile.tapsPerSecond != null && (
-                <div className="rounded-xl bg-white/[0.04] p-5">
-                  <div className="text-xs uppercase tracking-[0.16em] text-muted-soft mb-2">Quick twitch</div>
-                  <div className="display text-4xl font-semibold tabular-nums">{profile.tapsPerSecond.toFixed(1)}<span className="text-base text-muted-soft ml-1.5">taps/s</span></div>
                   <div className="text-xs text-muted-soft mt-2">
-                    {profile.tapsPerSecond >= 8 ? "Elite fast-twitch sustain" : profile.tapsPerSecond >= 6 ? "Above average burst rate" : "Steady, controlled tap"}
+                    {profile.reactionTimeMs <= 250
+                      ? "Fast — top range for measured users"
+                      : profile.reactionTimeMs <= 330
+                      ? "Solid — central band"
+                      : "Deliberate — there's headroom"}
                   </div>
-                </div>
+                </>
+              ) : (
+                <>
+                  <div className="display text-4xl font-semibold tabular-nums">
+                    {profile.reactionSpeed ?? 3}
+                    <span className="text-base text-muted-soft ml-1.5">/ 5</span>
+                  </div>
+                  <div className="text-xs text-muted-soft mt-2">
+                    Self-rated · skipped the timing game
+                  </div>
+                </>
               )}
             </div>
-          </InsightCard>
-        )}
+
+            {/* Twitch tile — same treatment. tapsRatedManually means the user
+                picked a tier slider; we surface the tier rather than the
+                representative TPS so the card can't read as a measured number. */}
+            <div className="rounded-xl bg-white/[0.04] p-5">
+              <div className="text-xs uppercase tracking-[0.16em] text-muted-soft mb-2">Quick twitch</div>
+              {profile.tapsPerSecond != null && !profile.tapsRatedManually ? (
+                <>
+                  <div className="display text-4xl font-semibold tabular-nums">
+                    {profile.tapsPerSecond.toFixed(1)}
+                    <span className="text-base text-muted-soft ml-1.5">taps/s</span>
+                  </div>
+                  <div className="text-xs text-muted-soft mt-2">
+                    {profile.tapsPerSecond >= 8
+                      ? "Elite fast-twitch sustain"
+                      : profile.tapsPerSecond >= 6
+                      ? "Above average burst rate"
+                      : "Steady, controlled tap"}
+                  </div>
+                </>
+              ) : (
+                <>
+                  <div className="display text-4xl font-semibold tabular-nums">
+                    {profile.tapsPerSecond != null
+                      ? tpsTierLabel(profile.tapsPerSecond)
+                      : (profile.reactionSpeed ?? 3)}
+                    <span className="text-base text-muted-soft ml-1.5">/ 5</span>
+                  </div>
+                  <div className="text-xs text-muted-soft mt-2">
+                    Self-rated · skipped the tap test
+                  </div>
+                </>
+              )}
+            </div>
+          </div>
+        </InsightCard>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
           <HometownEcosystem
@@ -153,6 +225,7 @@ export default function ResultsPage() {
           title="Closest Team USA Olympic cohorts"
           narrative={result.olympicNarrative}
           matches={result.olympicMatches}
+          onExpand={(m) => openModal(m, "olympic")}
         />
 
         <MatchesSection
@@ -161,6 +234,12 @@ export default function ResultsPage() {
           title="Closest Team USA Paralympic cohorts"
           narrative={result.paralympicNarrative}
           matches={result.paralympicMatches}
+          onExpand={(m) => openModal(m, "paralympic")}
+        />
+
+        <TimeMachine
+          olympicByDecade={result.olympicByDecade}
+          paralympicByDecade={result.paralympicByDecade}
         />
 
         <AskAgent result={result} profile={profile as UserProfile} />
@@ -171,6 +250,12 @@ export default function ResultsPage() {
           {result.disclaimer}
         </div>
       </main>
+
+      <CohortDetailModal
+        match={modalMatch}
+        variant={modalVariant}
+        onClose={() => setModalMatch(null)}
+      />
     </div>
   );
 }

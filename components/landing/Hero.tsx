@@ -1,7 +1,25 @@
 "use client";
 
+import { useEffect, useState } from "react";
 import { motion } from "motion/react";
 import PrimaryButton from "@/components/ui/PrimaryButton";
+
+function CountUp({ to, duration = 2200 }: { to: number; duration?: number }) {
+  const [n, setN] = useState(0);
+  useEffect(() => {
+    let raf: number;
+    const start = performance.now();
+    const tick = (now: number) => {
+      const t = Math.min(1, (now - start) / duration);
+      const eased = 1 - Math.pow(1 - t, 3);
+      setN(Math.round(to * eased));
+      if (t < 1) raf = requestAnimationFrame(tick);
+    };
+    raf = requestAnimationFrame(tick);
+    return () => cancelAnimationFrame(raf);
+  }, [to, duration]);
+  return <>{n.toLocaleString()}</>;
+}
 
 export default function Hero({
   olympicCount,
@@ -21,10 +39,13 @@ export default function Hero({
           initial={{ opacity: 0, y: 12 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, ease: [0.16, 1, 0.3, 1] }}
-          className="inline-flex items-center gap-2 mb-7 px-3.5 py-1.5 rounded-full glass text-[12.5px] tracking-wide text-muted"
+          className="inline-flex items-center gap-2 mb-7 px-3.5 py-1.5 rounded-full glass text-[12.5px] tracking-wide text-muted font-mono"
         >
           <span className="size-1.5 rounded-full bg-accent-gold animate-pulse" />
-          POWERED BY GEMINI · TEAM USA DNA
+          <span className="tabular-nums">
+            <CountUp to={olympicCount + paralympicCount} />
+          </span>
+          <span className="opacity-70">ATHLETES ANALYZED · POWERED BY GEMINI</span>
         </motion.div>
 
         <motion.h1

@@ -24,7 +24,7 @@ const GEMINI_USES = [
   {
     label: "Build time",
     title: "Grounded data",
-    body: "Modern athlete biometrics (Tokyo, Beijing, Paris) are fetched from public sources by Gemini 2.5 Flash with Google Search grounding — only committed when sources agree.",
+    body: "Modern athlete biometrics (Tokyo 2020, Paris 2024, Milano-Cortina 2026 — and the Paralympic catalog back to Rome 1960) are fetched from public sources by Gemini 2.5 Flash with Google Search grounding, only committed when sources agree.",
   },
   {
     label: "Run time, vision",

@@ -32,9 +32,9 @@ export default function ParityNote() {
               <div className="text-sm uppercase tracking-[0.14em] text-muted-soft mb-1">
                 Olympic
               </div>
-              <div className="text-2xl font-semibold">1896 — 2024</div>
+              <div className="text-2xl font-semibold">1896 — 2026</div>
               <div className="text-xs text-muted-soft mt-3">
-                Summer + Winter, Team USA only. The canonical 120-year dataset (through Rio 2016) plus a Gemini-grounded modern era supplement (Tokyo, Beijing, Paris).
+                Summer + Winter, Team USA only. The canonical 120-year dataset (through Rio 2016) plus Gemini-grounded enrichment for Tokyo 2020, Paris 2024, and Milano-Cortina 2026.
               </div>
             </div>
             <div className="rounded-2xl p-5 border border-[var(--paralympic)]/30 bg-[var(--paralympic)]/[0.06]">
@@ -42,9 +42,9 @@ export default function ParityNote() {
               <div className="text-sm uppercase tracking-[0.14em] text-muted-soft mb-1">
                 Paralympic
               </div>
-              <div className="text-2xl font-semibold">2008 — 2020</div>
+              <div className="text-2xl font-semibold">1960 — 2026</div>
               <div className="text-xs text-muted-soft mt-3">
-                Curated set of Team USA Paralympic medalists across 10+ disciplines.
+                Team USA Paralympic medalists back to Rome 1960, recovered via Gemini grounded search where public data was sparse — through Milano-Cortina 2026.
               </div>
             </div>
           </div>

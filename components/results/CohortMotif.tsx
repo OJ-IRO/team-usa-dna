@@ -1837,41 +1837,119 @@ function SkiJumpingMotif({ accent }: { accent: string }) {
 }
 
 // --- SNOWBOARD (halfpipe) --------------------------------------------------
-// Snow halfpipe — two curved walls. Streak air-walls back and forth with a
-// trick rotation at the lip.
+// Halfpipe seen from a front-3/4 angle showing the U-profile. An actual
+// snowboard (flat plank with two bindings) launches off the lip, spins a
+// 360, and lands back inside the pipe. Snow particle puff at the lip on
+// every air.
 function SnowboardMotif({ accent }: { accent: string }) {
-  const head = useRef<THREE.Mesh>(null);
+  const board = useRef<THREE.Group>(null);
+  const puff = useRef<THREE.Mesh>(null);
+  // Build the U-profile cross-section as an extruded shape so it actually
+  // reads as a halfpipe rather than two flat ramps.
+  const pipeGeom = useMemo(() => {
+    const shape = new THREE.Shape();
+    const w = 2.6;
+    const h = 1.4;
+    const r = 1.0;
+    shape.moveTo(-w, h);
+    shape.lineTo(-w, h - 0.4);
+    shape.lineTo(-r, 0); // left arc start
+    shape.absarc(0, 0, r, Math.PI, 0, true); // half-circle bottom
+    shape.lineTo(w, h - 0.4);
+    shape.lineTo(w, h);
+    shape.lineTo(-w, h);
+    return new THREE.ExtrudeGeometry(shape, { depth: 10, bevelEnabled: false });
+  }, []);
+
   useFrame((state) => {
-    if (!head.current) return;
     const t = state.clock.elapsedTime;
-    const cyc = t * 1.2;
-    // Oscillate between left wall and right wall, with vertical "air" bursts
-    const x = Math.sin(cyc) * 1.6;
-    const y = 0.4 + Math.abs(Math.sin(cyc)) * 1.2;
-    const z = -1.5 + Math.cos(cyc * 0.4) * 0.8;
-    head.current.position.set(x, y, z);
+    const cyc = t % 4;
+    if (board.current) {
+      // 0-1.4s wall transit + air, 1.4-2s land; 2-3.4s other side; 3.4-4 land
+      let x: number, y: number, rotY: number;
+      if (cyc < 1.4) {
+        const u = cyc / 1.4;
+        // Right wall: ride up curve, launch, spin
+        x = -Math.cos(u * Math.PI) * 1.6;
+        y = 0.4 + Math.sin(u * Math.PI) * 1.6 + (u > 0.4 && u < 0.6 ? 0.5 : 0);
+        rotY = u > 0.45 ? (u - 0.45) * Math.PI * 4 : 0;
+      } else if (cyc < 2.0) {
+        const u = (cyc - 1.4) / 0.6;
+        x = 1.6 - u * 0.4;
+        y = 0.6 - u * 0.3;
+        rotY = Math.PI * 1.5;
+      } else if (cyc < 3.4) {
+        const u = (cyc - 2.0) / 1.4;
+        x = Math.cos(u * Math.PI) * 1.6;
+        y = 0.4 + Math.sin(u * Math.PI) * 1.6 + (u > 0.4 && u < 0.6 ? 0.5 : 0);
+        rotY = Math.PI * 1.5 + (u > 0.45 ? (u - 0.45) * Math.PI * 4 : 0);
+      } else {
+        const u = (cyc - 3.4) / 0.6;
+        x = -1.6 + u * 0.4;
+        y = 0.6 - u * 0.3;
+        rotY = 0;
+      }
+      board.current.position.set(x, y, -1);
+      board.current.rotation.y = rotY;
+      board.current.rotation.z = Math.sin(t * 2) * 0.06;
+    }
+    // Snow puff appears briefly when the board crosses the lip
+    if (puff.current) {
+      const phase = cyc < 0.6 || (cyc >= 2.0 && cyc < 2.6) ? Math.max(0, Math.sin((cyc % 2) * Math.PI / 0.6)) : 0;
+      puff.current.scale.setScalar(phase * 0.7 + 0.001);
+      const mat = puff.current.material as THREE.MeshBasicMaterial;
+      mat.opacity = phase * 0.6;
+    }
   });
+
   return (
     <>
-      <PerspectiveCamera makeDefault position={[0, 1.6, 3.6]} fov={55} near={0.1} far={40} />
+      <PerspectiveCamera makeDefault position={[0, 1.4, 4.4]} fov={50} near={0.1} far={40} />
       <fog attach="fog" args={["#0a1626", 5, 14]} />
-      <ambientLight intensity={0.6} />
-      <directionalLight position={[2, 5, 3]} intensity={1.4} color="#ffffff" />
-      <pointLight position={[0, 1, -4]} intensity={1.4} color={accent} />
-      {/* Halfpipe floor */}
-      <mesh rotation={[-Math.PI / 2, 0, 0]} position={[0, 0, -2]}>
-        <planeGeometry args={[2.4, 12]} />
-        <meshStandardMaterial color="#dde6f0" metalness={0.05} roughness={0.95} />
+      <ambientLight intensity={0.65} />
+      <directionalLight position={[2, 5, 3]} intensity={1.6} color="#ffffff" />
+      <pointLight position={[0, 1.2, -3]} intensity={1.4} color={accent} />
+
+      {/* Halfpipe — extruded U-profile into z */}
+      <mesh geometry={pipeGeom} position={[0, 0, -6]}>
+        <meshStandardMaterial color="#dde6f0" metalness={0.05} roughness={0.95} side={THREE.DoubleSide} />
       </mesh>
-      {/* Walls */}
-      {[-1.2, 1.2].map((x) => (
-        <mesh key={x} position={[x, 1, -2]} rotation={[0, 0, x > 0 ? -Math.PI / 3.2 : Math.PI / 3.2]}>
-          <planeGeometry args={[2.4, 12]} />
-          <meshStandardMaterial color="#cfd6e0" metalness={0.05} roughness={0.95} side={THREE.DoubleSide} />
+      {/* Lip stripes (orange) */}
+      {[-2.6, 2.6].map((x) => (
+        <mesh key={x} position={[x, 1.4, -1]}>
+          <boxGeometry args={[0.12, 0.04, 10]} />
+          <meshStandardMaterial color="#ff7a1a" emissive="#ff7a1a" emissiveIntensity={0.6} />
         </mesh>
       ))}
-      <Trail width={1.4} length={3} color={GOLD} attenuation={(t) => t * t} decay={1.6}>
-        <TrailHead ref={head} color={GOLD} size={0.08} />
+
+      {/* The snowboard — flat plank with two bindings */}
+      <group ref={board}>
+        <mesh>
+          <boxGeometry args={[0.18, 0.04, 1.0]} />
+          <meshStandardMaterial color={GOLD} emissive={GOLD} emissiveIntensity={0.6} metalness={0.4} roughness={0.3} />
+        </mesh>
+        {/* Bindings */}
+        <mesh position={[0, 0.04, -0.25]}>
+          <boxGeometry args={[0.14, 0.05, 0.16]} />
+          <meshStandardMaterial color="#1a1f28" metalness={0.6} roughness={0.4} />
+        </mesh>
+        <mesh position={[0, 0.04, 0.25]}>
+          <boxGeometry args={[0.14, 0.05, 0.16]} />
+          <meshStandardMaterial color="#1a1f28" metalness={0.6} roughness={0.4} />
+        </mesh>
+      </group>
+
+      {/* Snow puff at lip */}
+      <mesh ref={puff} position={[0, 1.4, -1]}>
+        <sphereGeometry args={[0.4, 16, 16]} />
+        <meshBasicMaterial color={"#ffffff"} transparent opacity={0} toneMapped={false} />
+      </mesh>
+
+      <Trail width={0.5} length={1.5} color={"#ffffff"} attenuation={(t) => t * t} decay={1.5}>
+        <mesh visible={false}>
+          <sphereGeometry args={[0.001, 4, 4]} />
+          <meshBasicMaterial color={"#ffffff"} />
+        </mesh>
       </Trail>
     </>
   );
@@ -2691,7 +2769,9 @@ function RhythmicGymnasticsMotif({ accent }: { accent: string }) {
 }
 
 // --- SYNCHRONIZED SWIMMING -------------------------------------------------
-// Pool with multiple synchronized streaks tracing a rotational formation.
+// Top-down-ish view of a circular pool patch. Four swimmer-streaks form a
+// rotating petal pattern — they orbit a common center while each does a
+// tight inner loop, suggesting the layered choreography.
 function SyncSwimMotif({ accent }: { accent: string }) {
   const headA = useRef<THREE.Mesh>(null);
   const headB = useRef<THREE.Mesh>(null);
@@ -2699,11 +2779,18 @@ function SyncSwimMotif({ accent }: { accent: string }) {
   const headD = useRef<THREE.Mesh>(null);
   useFrame((state) => {
     const t = state.clock.elapsedTime;
-    const r = 0.9;
-    const cyc = t * 0.7;
+    const orbit = t * 0.45;
+    const inner = t * 1.6;
+    const ringR = 1.2;
+    const innerR = 0.35;
     const set = (mesh: THREE.Mesh | null, phase: number) => {
       if (!mesh) return;
-      mesh.position.set(Math.cos(cyc + phase) * r, 0.05, Math.sin(cyc + phase) * r - 0.5);
+      const cx = Math.cos(orbit + phase) * ringR;
+      const cy = Math.sin(orbit + phase) * ringR;
+      // Add an inner loop centered on each swimmer's orbit position
+      const ix = Math.cos(inner + phase) * innerR;
+      const iy = Math.sin(inner + phase) * innerR;
+      mesh.position.set(cx + ix, 0.06, cy + iy - 0.3);
     };
     set(headA.current, 0);
     set(headB.current, Math.PI / 2);
@@ -2712,25 +2799,31 @@ function SyncSwimMotif({ accent }: { accent: string }) {
   });
   return (
     <>
-      <PerspectiveCamera makeDefault position={[0, 2.0, 3.4]} fov={50} near={0.1} far={40} />
+      <PerspectiveCamera makeDefault position={[0, 1.0, 3.0]} fov={48} near={0.1} far={40} />
       <fog attach="fog" args={["#021a30", 5, 14]} />
-      <ambientLight intensity={0.5} />
+      <ambientLight intensity={0.55} />
       <pointLight position={[0, 3, 2]} intensity={2.4} color="#cfe4ff" />
-      <pointLight position={[0, 1, -3]} intensity={1.4} color={accent} />
-      <mesh rotation={[-Math.PI / 2, 0, 0]} position={[0, 0, -0.5]}>
-        <planeGeometry args={[5, 5]} />
+      <pointLight position={[0, 0.6, -3]} intensity={1.4} color={accent} />
+      {/* Round pool patch — circular framing reads better than a rectangle from this angle */}
+      <mesh rotation={[-Math.PI / 2, 0, 0]} position={[0, 0, -0.3]}>
+        <circleGeometry args={[2.0, 64]} />
         <meshStandardMaterial color="#0a3a6a" metalness={0.7} roughness={0.18} />
       </mesh>
-      <Trail width={0.7} length={1.8} color={GOLD} attenuation={(t) => t * t} decay={1.4}>
+      {/* Pool edge ring */}
+      <mesh rotation={[-Math.PI / 2, 0, 0]} position={[0, 0.005, -0.3]}>
+        <ringGeometry args={[1.95, 2.05, 64]} />
+        <meshBasicMaterial color={accent} side={THREE.DoubleSide} />
+      </mesh>
+      <Trail width={0.6} length={2.6} color={GOLD} attenuation={(t) => t * t} decay={1.4}>
         <TrailHead ref={headA} color={GOLD} size={0.05} />
       </Trail>
-      <Trail width={0.7} length={1.8} color={GOLD} attenuation={(t) => t * t} decay={1.4}>
+      <Trail width={0.6} length={2.6} color={GOLD} attenuation={(t) => t * t} decay={1.4}>
         <TrailHead ref={headB} color={GOLD} size={0.05} />
       </Trail>
-      <Trail width={0.7} length={1.8} color={GOLD} attenuation={(t) => t * t} decay={1.4}>
+      <Trail width={0.6} length={2.6} color={GOLD} attenuation={(t) => t * t} decay={1.4}>
         <TrailHead ref={headC} color={GOLD} size={0.05} />
       </Trail>
-      <Trail width={0.7} length={1.8} color={GOLD} attenuation={(t) => t * t} decay={1.4}>
+      <Trail width={0.6} length={2.6} color={GOLD} attenuation={(t) => t * t} decay={1.4}>
         <TrailHead ref={headD} color={GOLD} size={0.05} />
       </Trail>
     </>

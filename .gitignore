@@ -39,6 +39,9 @@ yarn-error.log*
 .crest-sample.png
 .og-sample.png
 
+# internal-only preview gallery (deployed but kept out of the public repo)
+/app/preview/
+
 # env files (can opt-in for committing if needed)
 .env*
 !.env.example

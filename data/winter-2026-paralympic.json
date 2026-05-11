@@ -1,0 +1,698 @@
+[
+  {
+    "id": "win26-para-patrick-halgren",
+    "name": "Patrick Halgren",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 34,
+    "games": "paralympic",
+    "primarySport": "Para Alpine Skiing",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Alpine Skiing",
+        "event": "Super-G Standing",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Birth year 1992 from USOPC. Height and weight not consistently available across sources."
+  },
+  {
+    "id": "win26-para-andrew-kurka",
+    "name": "Andrew Kurka",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Alpine Skiing",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Alpine Skiing",
+        "event": "Super-G Sitting",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Birth year, height, and weight not consistently available across sources."
+  },
+  {
+    "id": "win26-para-jake-adicoff",
+    "name": "Jake Adicoff",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 31,
+    "games": "paralympic",
+    "primarySport": "Para Nordic Skiing",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Nordic Skiing",
+        "event": "Mixed Team 4x2.5km Relay",
+        "medal": "Gold"
+      },
+      {
+        "year": 2026,
+        "sport": "Para Nordic Skiing",
+        "event": "Cross-Country Sprint Classic Visually Impaired",
+        "medal": "Gold"
+      },
+      {
+        "year": 2026,
+        "sport": "Para Nordic Skiing",
+        "event": "Cross-Country 10km Classic Visually Impaired",
+        "medal": "Gold"
+      },
+      {
+        "year": 2026,
+        "sport": "Para Nordic Skiing",
+        "event": "Cross-Country 20km Interval Start Free Visually Impaired",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 4,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Birth year 1995 from USOPC. Height and weight not consistently available across authoritative sources."
+  },
+  {
+    "id": "win26-para-sydney-peterson",
+    "name": "Sydney Peterson",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 24,
+    "games": "paralympic",
+    "primarySport": "Para Nordic Skiing",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Nordic Skiing",
+        "event": "Mixed Team 4x2.5km Relay",
+        "medal": "Gold"
+      },
+      {
+        "year": 2026,
+        "sport": "Para Nordic Skiing",
+        "event": "Cross-Country 20km Interval Start Standing",
+        "medal": "Gold"
+      },
+      {
+        "year": 2026,
+        "sport": "Para Nordic Skiing",
+        "event": "Cross-Country Sprint Standing",
+        "medal": "Gold"
+      },
+      {
+        "year": 2026,
+        "sport": "Para Nordic Skiing",
+        "event": "Cross-Country 10km Standing",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 3,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Birth year 2002 from USOPC. Height and weight not consistently available across authoritative sources."
+  },
+  {
+    "id": "win26-para-josh-sweeney",
+    "name": "Josh Sweeney",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 39,
+    "games": "paralympic",
+    "primarySport": "Para Nordic Skiing",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Nordic Skiing",
+        "event": "Mixed Team 4x2.5km Relay",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Birth year 1987 from USOPC. Height and weight not consistently available across authoritative sources."
+  },
+  {
+    "id": "win26-para-joshua-sweeney",
+    "name": "Joshua Sweeney",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Cross-Country Skiing",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Cross-Country Skiing",
+        "event": "Mixed 4x2.5km Relay",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Birth year not consistently available across authoritative sources to calculate age. Height and weight not consistently available across authoritative sources."
+  },
+  {
+    "id": "win26-para-kate-delson",
+    "name": "Kate Delson",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 21,
+    "games": "paralympic",
+    "primarySport": "Para Snowboard",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Snowboard",
+        "event": "Snowboard Cross SB-LL2",
+        "medal": "Silver"
+      },
+      {
+        "year": 2026,
+        "sport": "Para Snowboard",
+        "event": "Banked Slalom SB-LL2",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age calculated from birth year (2005). Medals and events corroborated across multiple sources."
+  },
+  {
+    "id": "win26-para-noah-elliott",
+    "name": "Noah Elliott",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 29,
+    "games": "paralympic",
+    "primarySport": "Para Snowboard",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Snowboard",
+        "event": "Snowboard Cross SB-LL1",
+        "medal": "Silver"
+      },
+      {
+        "year": 2026,
+        "sport": "Para Snowboard",
+        "event": "Banked Slalom SB-LL1",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age calculated from birth year (1997). Medals and events corroborated across multiple sources."
+  },
+  {
+    "id": "win26-para-brenna-huckaby",
+    "name": "Brenna Huckaby",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Snowboard",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Snowboard",
+        "event": "Banked Slalom SB-LL2",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Medal and event corroborated across multiple sources."
+  },
+  {
+    "id": "win26-para-mike-schultz",
+    "name": "Mike Schultz",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 45,
+    "games": "paralympic",
+    "primarySport": "Para Snowboard",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Snowboard",
+        "event": "Banked Slalom SB-LL1",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age calculated from birth year (1981). Medals and events corroborated across multiple sources."
+  },
+  {
+    "id": "win26-para-kayden-beasley",
+    "name": "Kayden Beasley",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 19,
+    "games": "paralympic",
+    "primarySport": "Para Ice Hockey",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Ice Hockey",
+        "event": "Para Ice Hockey",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age from USOPC"
+  },
+  {
+    "id": "win26-para-brett-bolton",
+    "name": "Brett Bolton",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 20,
+    "games": "paralympic",
+    "primarySport": "Para Ice Hockey",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Ice Hockey",
+        "event": "Para Ice Hockey",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age from USOPC"
+  },
+  {
+    "id": "win26-para-liam-cunningham",
+    "name": "Liam Cunningham",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Ice Hockey",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Ice Hockey",
+        "event": "Para Ice Hockey",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Debut Paralympian"
+  },
+  {
+    "id": "win26-para-travis-dodson",
+    "name": "Travis Dodson",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Ice Hockey",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Ice Hockey",
+        "event": "Para Ice Hockey",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Three-time Paralympian"
+  },
+  {
+    "id": "win26-para-david-eustace",
+    "name": "David Eustace",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Ice Hockey",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Ice Hockey",
+        "event": "Para Ice Hockey",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Two-time Paralympian"
+  },
+  {
+    "id": "win26-para-declan-farmer",
+    "name": "Declan Farmer",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Ice Hockey",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Ice Hockey",
+        "event": "Para Ice Hockey",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Four-time Paralympian, MVP and top scorer of 2025 Worlds"
+  },
+  {
+    "id": "win26-para-noah-grove",
+    "name": "Noah Grove",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Ice Hockey",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Ice Hockey",
+        "event": "Para Ice Hockey",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Three-time Paralympian"
+  },
+  {
+    "id": "win26-para-malik-jones",
+    "name": "Malik Jones",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Ice Hockey",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Ice Hockey",
+        "event": "Para Ice Hockey",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Two-time Paralympian"
+  },
+  {
+    "id": "win26-para-griffin-lamarre",
+    "name": "Griffin LaMarre",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Ice Hockey",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Ice Hockey",
+        "event": "Para Ice Hockey",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Two-time Paralympian"
+  },
+  {
+    "id": "win26-para-jen-lee",
+    "name": "Jen Lee",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Ice Hockey",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Ice Hockey",
+        "event": "Para Ice Hockey",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Four-time Paralympian"
+  },
+  {
+    "id": "win26-para-kevin-mckee",
+    "name": "Kevin McKee",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Ice Hockey",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Ice Hockey",
+        "event": "Para Ice Hockey",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Named to final roster"
+  },
+  {
+    "id": "win26-para-josh-misiewicz",
+    "name": "Josh Misiewicz",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Ice Hockey",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Ice Hockey",
+        "event": "Para Ice Hockey",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Three-time Paralympian"
+  },
+  {
+    "id": "win26-para-evan-nichols",
+    "name": "Evan Nichols",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Ice Hockey",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Ice Hockey",
+        "event": "Para Ice Hockey",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Two-time Paralympian"
+  },
+  {
+    "id": "win26-para-josh-pauls",
+    "name": "Josh Pauls",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Ice Hockey",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Ice Hockey",
+        "event": "Para Ice Hockey",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Five-time Paralympian and captain"
+  },
+  {
+    "id": "win26-para-brody-roybal",
+    "name": "Brody Roybal",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Ice Hockey",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Ice Hockey",
+        "event": "Para Ice Hockey",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Four-time Paralympian"
+  },
+  {
+    "id": "win26-para-landon-uthke",
+    "name": "Landon Uthke",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Ice Hockey",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Ice Hockey",
+        "event": "Para Ice Hockey",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Debut Paralympian"
+  },
+  {
+    "id": "win26-para-jack-wallace",
+    "name": "Jack Wallace",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Ice Hockey",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Para Ice Hockey",
+        "event": "Para Ice Hockey",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Three-time Paralympian, scored a hat-trick in the gold medal game"
+  }
+]

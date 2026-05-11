@@ -1,9 +1,13 @@
 import "server-only";
 import historicalOlympic from "@/data/olympic-usa.json";
 import modernOlympic from "@/data/modern-usa.json";
+import modernOlympicExtended from "@/data/modern-usa-extended.json";
+import winter2026Olympic from "@/data/winter-2026-olympic.json";
 import paralympicCurated from "@/data/paralympic-usa.json";
 import paralympicEnriched from "@/data/paralympic-enriched.json";
 import paralympicHistorical from "@/data/paralympic-enriched-historical.json";
+import paralympicModernExtended from "@/data/paralympic-modern-extended.json";
+import winter2026Paralympic from "@/data/winter-2026-paralympic.json";
 import type { Athlete, Cluster, Games, Sex } from "./types";
 
 const MIN_CLUSTER_SIZE = 5;
@@ -13,11 +17,15 @@ const REP_EVENTS_CAP = 4;
 const olympicPool = [
   ...(historicalOlympic as Athlete[]),
   ...(modernOlympic as Athlete[]),
+  ...(modernOlympicExtended as Athlete[]),
+  ...(winter2026Olympic as Athlete[]),
 ];
 const paralympicPool = [
   ...(paralympicCurated as Athlete[]),
   ...(paralympicEnriched as Athlete[]),
   ...(paralympicHistorical as Athlete[]),
+  ...(paralympicModernExtended as Athlete[]),
+  ...(winter2026Paralympic as Athlete[]),
 ];
 
 function decadeOf(year: number): number {

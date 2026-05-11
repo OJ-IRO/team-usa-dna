@@ -1,0 +1,788 @@
+[
+  {
+    "id": "win26-oly-breezy-johnson",
+    "name": "Breezy Johnson",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 30,
+    "games": "olympic",
+    "primarySport": "Alpine Skiing",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Alpine Skiing",
+        "event": "Downhill",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight information not consistently available across sources."
+  },
+  {
+    "id": "win26-oly-ryan-cochran-siegle",
+    "name": "Ryan Cochran-Siegle",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 33,
+    "games": "olympic",
+    "primarySport": "Alpine Skiing",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Alpine Skiing",
+        "event": "Super-G",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight information not consistently available across sources."
+  },
+  {
+    "id": "win26-oly-paula-moltzan",
+    "name": "Paula Moltzan",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 31,
+    "games": "olympic",
+    "primarySport": "Alpine Skiing",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Alpine Skiing",
+        "event": "Women's Team Combined",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight information not consistently available across sources."
+  },
+  {
+    "id": "win26-oly-elana-meyers-taylor",
+    "name": "Elana Meyers Taylor",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 41,
+    "games": "olympic",
+    "primarySport": "Bobsleigh",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Bobsleigh",
+        "event": "Women's Monobob",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age at year is corroborated by multiple sources. Height and weight information was not consistently available across authoritative sources."
+  },
+  {
+    "id": "win26-oly-kaillie-humphries",
+    "name": "Kaillie Humphries",
+    "sex": "F",
+    "height_cm": 170,
+    "weight_kg": null,
+    "age": 40,
+    "games": "olympic",
+    "primarySport": "Bobsleigh",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Bobsleigh",
+        "event": "Women's Monobob",
+        "medal": "Bronze"
+      },
+      {
+        "year": 2026,
+        "sport": "Bobsleigh",
+        "event": "Two-Woman Bobsleigh",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 2
+    },
+    "_enrichmentNotes": "Age at year and height are corroborated by multiple sources. Weight information was not consistently available across authoritative sources."
+  },
+  {
+    "id": "win26-oly-jasmine-jones",
+    "name": "Jasmine Jones",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Bobsleigh",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Bobsleigh",
+        "event": "Two-Woman Bobsleigh",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and age at year information was not consistently available across authoritative sources."
+  },
+  {
+    "id": "win26-oly-ben-ogden",
+    "name": "Ben Ogden",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 25,
+    "games": "olympic",
+    "primarySport": "Cross Country Skiing",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Cross Country Skiing",
+        "event": "Men's Sprint Classic",
+        "medal": "Silver"
+      },
+      {
+        "year": 2026,
+        "sport": "Cross Country Skiing",
+        "event": "Men's Team Sprint Free",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 2,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are null due to insufficient information. Age is derived from birth year and 2026. Medal events are corroborated by multiple sources."
+  },
+  {
+    "id": "win26-oly-gus-schumacher",
+    "name": "Gus Schumacher",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Cross Country Skiing",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Cross Country Skiing",
+        "event": "Men's Team Sprint Free",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age are null due to insufficient information. Medal events are corroborated by multiple sources."
+  },
+  {
+    "id": "win26-oly-cory-thiesse",
+    "name": "Cory Thiesse",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 31,
+    "games": "olympic",
+    "primarySport": "Curling",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Curling",
+        "event": "Mixed Doubles",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age corroborated by multiple sources. Height and weight not found."
+  },
+  {
+    "id": "win26-oly-korey-dropkin",
+    "name": "Korey Dropkin",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Curling",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Curling",
+        "event": "Mixed Doubles",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age not found."
+  },
+  {
+    "id": "win26-oly-ilia-malinin",
+    "name": "Ilia Malinin",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 21,
+    "games": "olympic",
+    "primarySport": "Figure Skating",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Figure Skating",
+        "event": "Team Event",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age at year is based on information from a single source."
+  },
+  {
+    "id": "win26-oly-alysa-liu",
+    "name": "Alysa Liu",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Figure Skating",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Figure Skating",
+        "event": "Team Event",
+        "medal": "Gold"
+      },
+      {
+        "year": 2026,
+        "sport": "Figure Skating",
+        "event": "Women's Singles",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height or weight information found."
+  },
+  {
+    "id": "win26-oly-amber-glenn",
+    "name": "Amber Glenn",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Figure Skating",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Figure Skating",
+        "event": "Team Event",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or age information found."
+  },
+  {
+    "id": "win26-oly-ellie-kam",
+    "name": "Ellie Kam",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Figure Skating",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Figure Skating",
+        "event": "Team Event",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or age information found."
+  },
+  {
+    "id": "win26-oly-danny-o-shea",
+    "name": "Danny O'Shea",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Figure Skating",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Figure Skating",
+        "event": "Team Event",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or age information found."
+  },
+  {
+    "id": "win26-oly-madison-chock",
+    "name": "Madison Chock",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Figure Skating",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Figure Skating",
+        "event": "Team Event",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or age information found."
+  },
+  {
+    "id": "win26-oly-alex-ferreira",
+    "name": "Alex Ferreira",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 31,
+    "games": "olympic",
+    "primarySport": "Freestyle Skiing",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Freestyle Skiing",
+        "event": "Men's Freeski Halfpipe",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age at year is based on birth year 1995. Height and weight information was not consistently available across sources."
+  },
+  {
+    "id": "win26-oly-liz-lemley",
+    "name": "Liz Lemley",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 20,
+    "games": "olympic",
+    "primarySport": "Freestyle Skiing",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Freestyle Skiing",
+        "event": "Women's Moguls",
+        "medal": "Gold"
+      },
+      {
+        "year": 2026,
+        "sport": "Freestyle Skiing",
+        "event": "Women's Dual Moguls",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age at year is based on birth year 2006. Height and weight information was not consistently available across sources."
+  },
+  {
+    "id": "win26-oly-kaila-kuhn",
+    "name": "Kaila Kuhn",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 22,
+    "games": "olympic",
+    "primarySport": "Freestyle Skiing",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Freestyle Skiing",
+        "event": "Mixed Team Aerials",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age at year is based on birth year 2004. Height and weight information was not consistently available across sources."
+  },
+  {
+    "id": "win26-oly-connor-curran",
+    "name": "Connor Curran",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 21,
+    "games": "olympic",
+    "primarySport": "Freestyle Skiing",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Freestyle Skiing",
+        "event": "Mixed Team Aerials",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age at year is based on birth year 2005. Height and weight information was not consistently available across sources."
+  },
+  {
+    "id": "win26-oly-chris-lillis",
+    "name": "Chris Lillis",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 27,
+    "games": "olympic",
+    "primarySport": "Freestyle Skiing",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Freestyle Skiing",
+        "event": "Mixed Team Aerials",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age at year is based on birth year 1999. Height and weight information was not consistently available across sources."
+  },
+  {
+    "id": "win26-oly-jaelin-kauf",
+    "name": "Jaelin Kauf",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 30,
+    "games": "olympic",
+    "primarySport": "Freestyle Skiing",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Freestyle Skiing",
+        "event": "Women's Moguls",
+        "medal": "Silver"
+      },
+      {
+        "year": 2026,
+        "sport": "Freestyle Skiing",
+        "event": "Women's Dual Moguls",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 2,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age at year is based on birth year 1996. Height and weight information was not consistently available across sources."
+  },
+  {
+    "id": "win26-oly-mac-forehand",
+    "name": "Mac Forehand",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 24,
+    "games": "olympic",
+    "primarySport": "Freestyle Skiing",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Freestyle Skiing",
+        "event": "Men's Freeski Big Air",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age at year is based on birth year 2002. Height and weight information was not consistently available across sources."
+  },
+  {
+    "id": "win26-oly-ashley-farquharson",
+    "name": "Ashley Farquharson",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 27,
+    "games": "olympic",
+    "primarySport": "Luge",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Luge",
+        "event": "Women's Singles",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight information varied by more than 3cm/kg across sources, so null was returned for those fields. Age is calculated from birth year and 2026."
+  },
+  {
+    "id": "win26-oly-corinne-stoddard",
+    "name": "Corinne Stoddard",
+    "sex": "F",
+    "height_cm": 168,
+    "weight_kg": null,
+    "age": 24,
+    "games": "olympic",
+    "primarySport": "Short Track Speed Skating",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Short Track Speed Skating",
+        "event": "Women's 1500m",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height from US Speedskating. Weight is null due to lack of consistent information across sources."
+  },
+  {
+    "id": "win26-oly-jake-canter",
+    "name": "Jake Canter",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Snowboarding",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Snowboarding",
+        "event": "Men's Slopestyle",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Medal corroborated by multiple sources. Birth year, height, and weight not consistently available."
+  },
+  {
+    "id": "win26-oly-jordan-stolz",
+    "name": "Jordan Stolz",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 21,
+    "games": "olympic",
+    "primarySport": "Speed Skating",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Speed Skating",
+        "event": "Men's 1000m",
+        "medal": "Gold"
+      },
+      {
+        "year": 2026,
+        "sport": "Speed Skating",
+        "event": "Men's 500m",
+        "medal": "Gold"
+      },
+      {
+        "year": 2026,
+        "sport": "Speed Skating",
+        "event": "Men's 1500m",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age is corroborated. Height and weight are null as they were not consistently available across sources."
+  },
+  {
+    "id": "win26-oly-mia-manganello",
+    "name": "Mia Manganello",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Speed Skating",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Speed Skating",
+        "event": "Women's Mass Start",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and age are null as they were not consistently available across sources."
+  },
+  {
+    "id": "win26-oly-ethan-cepuran",
+    "name": "Ethan Cepuran",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Speed Skating",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Speed Skating",
+        "event": "Men's Team Pursuit",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age are null as they were not consistently available across sources."
+  },
+  {
+    "id": "win26-oly-casey-dawson",
+    "name": "Casey Dawson",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Speed Skating",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Speed Skating",
+        "event": "Men's Team Pursuit",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age are null as they were not consistently available across sources."
+  },
+  {
+    "id": "win26-oly-emery-lehman",
+    "name": "Emery Lehman",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Speed Skating",
+    "events": [
+      {
+        "year": 2026,
+        "sport": "Speed Skating",
+        "event": "Men's Team Pursuit",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age are null as they were not consistently available across sources."
+  }
+]

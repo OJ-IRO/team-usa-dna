@@ -1,0 +1,7604 @@
+[
+  {
+    "id": "modern-ext-zach-apple",
+    "name": "Zach Apple",
+    "sex": "M",
+    "height_cm": 201,
+    "weight_kg": 99,
+    "age": 23,
+    "games": "olympic",
+    "primarySport": "Swimming",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Swimming",
+        "event": "4x100m Freestyle Relay",
+        "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Swimming",
+        "event": "4x100m Medley Relay",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year 1997 and competition year 2020."
+  },
+  {
+    "id": "modern-ext-chase-kalisz",
+    "name": "Chase Kalisz",
+    "sex": "M",
+    "height_cm": 193,
+    "weight_kg": 86,
+    "age": 26,
+    "games": "olympic",
+    "primarySport": "Swimming",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Swimming",
+        "event": "400m Individual Medley",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year 1994 and competition year 2020."
+  },
+  {
+    "id": "modern-ext-erica-sullivan",
+    "name": "Erica Sullivan",
+    "sex": "F",
+    "height_cm": 170,
+    "weight_kg": 48,
+    "age": 20,
+    "games": "olympic",
+    "primarySport": "Swimming",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Swimming",
+        "event": "1500m Freestyle",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year 2000 and competition year 2020."
+  },
+  {
+    "id": "modern-ext-andrew-capobianco",
+    "name": "Andrew Capobianco",
+    "sex": "M",
+    "height_cm": 175,
+    "weight_kg": 75,
+    "age": 21,
+    "games": "olympic",
+    "primarySport": "Diving",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Diving",
+        "event": "Men's Synchronized 3m Springboard",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-michael-hixon",
+    "name": "Michael Hixon",
+    "sex": "M",
+    "height_cm": 173,
+    "weight_kg": 68,
+    "age": 26,
+    "games": "olympic",
+    "primarySport": "Diving",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Diving",
+        "event": "Men's Synchronized 3m Springboard",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-krysta-palmer",
+    "name": "Krysta Palmer",
+    "sex": "F",
+    "height_cm": 168,
+    "weight_kg": null,
+    "age": 28,
+    "games": "olympic",
+    "primarySport": "Diving",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Diving",
+        "event": "Women's 3m Springboard",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height is consistent across sources. Weight data not found."
+  },
+  {
+    "id": "modern-ext-delaney-schnell",
+    "name": "Delaney Schnell",
+    "sex": "F",
+    "height_cm": 157,
+    "weight_kg": null,
+    "age": 22,
+    "games": "olympic",
+    "primarySport": "Diving",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Diving",
+        "event": "Women's Synchronized 10m Platform",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is consistent across sources. Weight data not found. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-stephania-haralabidis",
+    "name": "Stephania Haralabidis",
+    "sex": "F",
+    "height_cm": 180,
+    "weight_kg": null,
+    "age": 25,
+    "games": "olympic",
+    "primarySport": "Water Polo",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Water Polo",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Weight data is not available across sources. Height and birth year are consistent."
+  },
+  {
+    "id": "modern-ext-paige-hauschild",
+    "name": "Paige Hauschild",
+    "sex": "F",
+    "height_cm": 180,
+    "weight_kg": 79,
+    "age": 21,
+    "games": "olympic",
+    "primarySport": "Water Polo",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Water Polo",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-amanda-longan",
+    "name": "Amanda Longan",
+    "sex": "F",
+    "height_cm": 185,
+    "weight_kg": null,
+    "age": 23,
+    "games": "olympic",
+    "primarySport": "Water Polo",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Water Polo",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Weight data is not available across sources. Height and birth year are consistent."
+  },
+  {
+    "id": "modern-ext-maddie-musselman",
+    "name": "Maddie Musselman",
+    "sex": "F",
+    "height_cm": 173,
+    "weight_kg": 64,
+    "age": 22,
+    "games": "olympic",
+    "primarySport": "Water Polo",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Water Polo",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-jamie-neushul",
+    "name": "Jamie Neushul",
+    "sex": "F",
+    "height_cm": 168,
+    "weight_kg": 59,
+    "age": 25,
+    "games": "olympic",
+    "primarySport": "Water Polo",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Water Polo",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-maggie-steffens",
+    "name": "Maggie Steffens",
+    "sex": "F",
+    "height_cm": 173,
+    "weight_kg": 74,
+    "age": 27,
+    "games": "olympic",
+    "primarySport": "Water Polo",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Water Polo",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-alys-williams",
+    "name": "Alys Williams",
+    "sex": "F",
+    "height_cm": 180,
+    "weight_kg": 73,
+    "age": 27,
+    "games": "olympic",
+    "primarySport": "Water Polo",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Water Polo",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-michelle-sechser",
+    "name": "Michelle Sechser",
+    "sex": "F",
+    "height_cm": 165,
+    "weight_kg": 57,
+    "age": 34,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Rowing",
+        "event": "Lightweight Double Sculls Women",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-molly-reckford",
+    "name": "Molly Reckford",
+    "sex": "F",
+    "height_cm": 175,
+    "weight_kg": 57,
+    "age": 27,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Rowing",
+        "event": "Lightweight Double Sculls Women",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-nevin-harrison",
+    "name": "Nevin Harrison",
+    "sex": "F",
+    "height_cm": 175,
+    "weight_kg": 73,
+    "age": 18,
+    "games": "olympic",
+    "primarySport": "Canoeing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Canoeing",
+        "event": "C-1 200m Women",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent across sources."
+  },
+  {
+    "id": "modern-ext-jagger-eaton",
+    "name": "Jagger Eaton",
+    "sex": "M",
+    "height_cm": 175,
+    "weight_kg": 68,
+    "age": 19,
+    "games": "olympic",
+    "primarySport": "Skateboarding",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Skateboarding",
+        "event": "Men's Street",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year (2001) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-cory-juneau",
+    "name": "Cory Juneau",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 21,
+    "games": "olympic",
+    "primarySport": "Skateboarding",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Skateboarding",
+        "event": "Men's Park",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data not found. Age calculated from birth year (1999) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-nathaniel-coleman",
+    "name": "Nathaniel Coleman",
+    "sex": "M",
+    "height_cm": 180,
+    "weight_kg": 74,
+    "age": 23,
+    "games": "olympic",
+    "primarySport": "Sport Climbing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Sport Climbing",
+        "event": "Men's Combined",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year (1997) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-ariel-atkins",
+    "name": "Ariel Atkins",
+    "sex": "F",
+    "height_cm": 178,
+    "weight_kg": 76,
+    "age": 24,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-tina-charles",
+    "name": "Tina Charles",
+    "sex": "F",
+    "height_cm": 193,
+    "weight_kg": 87,
+    "age": 31,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-napheesa-collier",
+    "name": "Napheesa Collier",
+    "sex": "F",
+    "height_cm": 185,
+    "weight_kg": 82,
+    "age": 24,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-jerami-grant",
+    "name": "Jerami Grant",
+    "sex": "M",
+    "height_cm": 201,
+    "weight_kg": 97,
+    "age": 26,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-chelsea-gray",
+    "name": "Chelsea Gray",
+    "sex": "F",
+    "height_cm": 180,
+    "weight_kg": 77,
+    "age": 28,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-draymond-green",
+    "name": "Draymond Green",
+    "sex": "M",
+    "height_cm": 198,
+    "weight_kg": 104,
+    "age": 30,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-zach-lavine",
+    "name": "Zach LaVine",
+    "sex": "M",
+    "height_cm": 196,
+    "weight_kg": 91,
+    "age": 25,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-javale-mcgee",
+    "name": "JaVale McGee",
+    "sex": "M",
+    "height_cm": 213,
+    "weight_kg": 122,
+    "age": 32,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-justine-wong-orantes",
+    "name": "Justine Wong-Orantes",
+    "sex": "F",
+    "height_cm": 168,
+    "weight_kg": 66,
+    "age": 25,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent across sources."
+  },
+  {
+    "id": "modern-ext-chiaka-ogbogu",
+    "name": "Chiaka Ogbogu",
+    "sex": "F",
+    "height_cm": 188,
+    "weight_kg": 73,
+    "age": 25,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent across sources."
+  },
+  {
+    "id": "modern-ext-haleigh-washington",
+    "name": "Haleigh Washington",
+    "sex": "F",
+    "height_cm": 190,
+    "weight_kg": 82,
+    "age": 25,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent across sources."
+  },
+  {
+    "id": "modern-ext-micha-hancock",
+    "name": "Micha Hancock",
+    "sex": "F",
+    "height_cm": 180,
+    "weight_kg": 75,
+    "age": 28,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources (converted to cm and kg). Birth year is consistent across sources."
+  },
+  {
+    "id": "modern-ext-jordyn-poulter",
+    "name": "Jordyn Poulter",
+    "sex": "F",
+    "height_cm": 188,
+    "weight_kg": 83,
+    "age": 23,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources (converted to cm and kg). Birth year is consistent across sources."
+  },
+  {
+    "id": "modern-ext-sarah-wilhite-parsons",
+    "name": "Sarah Wilhite Parsons",
+    "sex": "F",
+    "height_cm": 188,
+    "weight_kg": 75,
+    "age": 25,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent across sources."
+  },
+  {
+    "id": "modern-ext-annie-drews",
+    "name": "Annie Drews",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year information were not consistently available across multiple authoritative sources, or were not found."
+  },
+  {
+    "id": "modern-ext-michelle-bartsch-hackley",
+    "name": "Michelle Bartsch-Hackley",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year information were not consistently available across multiple authoritative sources, or were not found."
+  },
+  {
+    "id": "modern-ext-kimberly-hill",
+    "name": "Kimberly Hill",
+    "sex": "F",
+    "height_cm": 193,
+    "weight_kg": 72,
+    "age": 31,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent across sources."
+  },
+  {
+    "id": "modern-ext-foluke-akinradewo-gunderson",
+    "name": "Foluke Akinradewo Gunderson",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year information were not consistently available across multiple authoritative sources, or were not found."
+  },
+  {
+    "id": "modern-ext-jordan-larson",
+    "name": "Jordan Larson",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year information were not consistently available across multiple authoritative sources, or were not found."
+  },
+  {
+    "id": "modern-ext-jordan-thompson",
+    "name": "Jordan Thompson",
+    "sex": "F",
+    "height_cm": 193,
+    "weight_kg": 70,
+    "age": 23,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent across sources."
+  },
+  {
+    "id": "modern-ext-matt-anderson",
+    "name": "Matt Anderson",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year information were not consistently available across multiple authoritative sources, or were not found."
+  },
+  {
+    "id": "modern-ext-kyle-ensing",
+    "name": "Kyle Ensing",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year information were not consistently available across multiple authoritative sources, or were not found."
+  },
+  {
+    "id": "modern-ext-t-j-defalco",
+    "name": "T.J. DeFalco",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year information were not consistently available across multiple authoritative sources, or were not found."
+  },
+  {
+    "id": "modern-ext-micah-christenson",
+    "name": "Micah Christenson",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year information were not consistently available across multiple authoritative sources, or were not found."
+  },
+  {
+    "id": "modern-ext-maxwell-holt",
+    "name": "Maxwell Holt",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year information were not consistently available across multiple authoritative sources, or were not found."
+  },
+  {
+    "id": "modern-ext-thomas-jaeschke",
+    "name": "Thomas Jaeschke",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year information were not consistently available across multiple authoritative sources, or were not found."
+  },
+  {
+    "id": "modern-ext-garrett-muagututia",
+    "name": "Garrett Muagututia",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year information were not consistently available across multiple authoritative sources, or were not found."
+  },
+  {
+    "id": "modern-ext-david-smith",
+    "name": "David Smith",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year information were not consistently available across multiple authoritative sources, or were not found."
+  },
+  {
+    "id": "modern-ext-erik-shoji",
+    "name": "Erik Shoji",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year information were not consistently available across multiple authoritative sources, or were not found."
+  },
+  {
+    "id": "modern-ext-mitch-stahl",
+    "name": "Mitch Stahl",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year information were not consistently available across multiple authoritative sources, or were not found."
+  },
+  {
+    "id": "modern-ext-ben-patch",
+    "name": "Ben Patch",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year information were not consistently available across multiple authoritative sources, or were not found."
+  },
+  {
+    "id": "modern-ext-brenden-sander",
+    "name": "Brenden Sander",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year information were not consistently available across multiple authoritative sources, or were not found."
+  },
+  {
+    "id": "modern-ext-josh-tuaniga",
+    "name": "Josh Tuaniga",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year information were not consistently available across multiple authoritative sources, or were not found."
+  },
+  {
+    "id": "modern-ext-taylor-averill",
+    "name": "Taylor Averill",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year information were not consistently available across multiple authoritative sources, or were not found."
+  },
+  {
+    "id": "modern-ext-dustin-watten",
+    "name": "Dustin Watten",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year information were not consistently available across multiple authoritative sources, or were not found."
+  },
+  {
+    "id": "modern-ext-kyle-russell",
+    "name": "Kyle Russell",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year information were not consistently available across multiple authoritative sources, or were not found."
+  },
+  {
+    "id": "modern-ext-april-ross",
+    "name": "April Ross",
+    "sex": "F",
+    "height_cm": 185,
+    "weight_kg": 76,
+    "age": 38,
+    "games": "olympic",
+    "primarySport": "Beach Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Beach Volleyball",
+        "event": "Women's Beach Volleyball",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year (1982) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-alix-klineman",
+    "name": "Alix Klineman",
+    "sex": "F",
+    "height_cm": 196,
+    "weight_kg": 79,
+    "age": 30,
+    "games": "olympic",
+    "primarySport": "Beach Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Beach Volleyball",
+        "event": "Women's Beach Volleyball",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year (1989) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-gabby-stone",
+    "name": "Gabby Stone",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Water Polo",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Water Polo",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year information were not consistently available across sources."
+  },
+  {
+    "id": "modern-ext-charlotte-buck",
+    "name": "Charlotte Buck",
+    "sex": "F",
+    "height_cm": 183,
+    "weight_kg": 82,
+    "age": 25,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Rowing",
+        "event": "Women's Eight",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year (1995) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-gia-doonan",
+    "name": "Gia Doonan",
+    "sex": "F",
+    "height_cm": 183,
+    "weight_kg": 78,
+    "age": 26,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Rowing",
+        "event": "Women's Eight",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year (1994) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-brooke-mooney",
+    "name": "Brooke Mooney",
+    "sex": "F",
+    "height_cm": 191,
+    "weight_kg": null,
+    "age": 24,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Rowing",
+        "event": "Women's Eight",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height is consistent across sources. No weight data found. Age calculated from birth year (1996) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-olivia-coffey",
+    "name": "Olivia Coffey",
+    "sex": "F",
+    "height_cm": 185,
+    "weight_kg": 77,
+    "age": 31,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Rowing",
+        "event": "Women's Eight",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year (1989) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-sophia-vitas",
+    "name": "Sophia Vitas",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Rowing",
+        "event": "Women's Eight",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height or weight data found. No birth year found."
+  },
+  {
+    "id": "modern-ext-jessica-thoennes",
+    "name": "Jessica Thoennes",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Rowing",
+        "event": "Women's Eight",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height or weight data found. No birth year found."
+  },
+  {
+    "id": "modern-ext-katelin-guregian",
+    "name": "Katelin Guregian",
+    "sex": "F",
+    "height_cm": 163,
+    "weight_kg": 50,
+    "age": 33,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Rowing",
+        "event": "Women's Eight",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year (1987) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-kristina-wagner",
+    "name": "Kristina Wagner",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Rowing",
+        "event": "Women's Double Sculls",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height or weight data found. No birth year found."
+  },
+  {
+    "id": "modern-ext-genevieve-hacker",
+    "name": "Genevieve Hacker",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Rowing",
+        "event": "Women's Double Sculls",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height or weight data found. No birth year found."
+  },
+  {
+    "id": "modern-ext-alison-rusher",
+    "name": "Alison Rusher",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Rowing",
+        "event": "Women's Quadruple Sculls",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height or weight data found. No birth year found."
+  },
+  {
+    "id": "modern-ext-cicely-madden",
+    "name": "Cicely Madden",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Rowing",
+        "event": "Women's Quadruple Sculls",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height or weight data found. No birth year found."
+  },
+  {
+    "id": "modern-ext-kara-kohler",
+    "name": "Kara Kohler",
+    "sex": "F",
+    "height_cm": 188,
+    "weight_kg": 82,
+    "age": 29,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Rowing",
+        "event": "Women's Single Sculls",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year (1991) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-jayson-tatum",
+    "name": "Jayson Tatum",
+    "sex": "M",
+    "height_cm": 203,
+    "weight_kg": 95,
+    "age": 22,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-devin-booker",
+    "name": "Devin Booker",
+    "sex": "M",
+    "height_cm": 196,
+    "weight_kg": 93,
+    "age": 24,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-damian-lillard",
+    "name": "Damian Lillard",
+    "sex": "M",
+    "height_cm": 188,
+    "weight_kg": 88,
+    "age": 30,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-khris-middleton",
+    "name": "Khris Middleton",
+    "sex": "M",
+    "height_cm": 201,
+    "weight_kg": 101,
+    "age": 29,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-keldon-johnson",
+    "name": "Keldon Johnson",
+    "sex": "M",
+    "height_cm": 196,
+    "weight_kg": 100,
+    "age": 21,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-bam-adebayo",
+    "name": "Bam Adebayo",
+    "sex": "M",
+    "height_cm": 206,
+    "weight_kg": 116,
+    "age": 23,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-sue-bird",
+    "name": "Sue Bird",
+    "sex": "F",
+    "height_cm": 175,
+    "weight_kg": 68,
+    "age": 40,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-brittney-griner",
+    "name": "Brittney Griner",
+    "sex": "F",
+    "height_cm": 206,
+    "weight_kg": 93,
+    "age": 30,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-sylvia-fowles",
+    "name": "Sylvia Fowles",
+    "sex": "F",
+    "height_cm": 198,
+    "weight_kg": 96,
+    "age": 35,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-jewell-loyd",
+    "name": "Jewell Loyd",
+    "sex": "F",
+    "height_cm": 178,
+    "weight_kg": 67,
+    "age": 27,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-skylar-diggins-smith",
+    "name": "Skylar Diggins-Smith",
+    "sex": "F",
+    "height_cm": 175,
+    "weight_kg": 66,
+    "age": 30,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-foluke-akinradewo",
+    "name": "Foluke Akinradewo",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Volleyball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year data were not consistently available across sources."
+  },
+  {
+    "id": "modern-ext-bethanie-mattek-sands",
+    "name": "Bethanie Mattek-Sands",
+    "sex": "F",
+    "height_cm": 168,
+    "weight_kg": 66,
+    "age": 35,
+    "games": "olympic",
+    "primarySport": "Tennis",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Tennis",
+        "event": "Mixed Doubles",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight consistently reported across sources. Birth year consistently reported."
+  },
+  {
+    "id": "modern-ext-adrianna-franch",
+    "name": "Adrianna Franch",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 30,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Football",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age calculated from birth year (1990). Height and weight data not consistently available across sources."
+  },
+  {
+    "id": "modern-ext-alyssa-naeher",
+    "name": "Alyssa Naeher",
+    "sex": "F",
+    "height_cm": 175,
+    "weight_kg": 69,
+    "age": 32,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Football",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age calculated from birth year (1988). Height and weight data consistently available."
+  },
+  {
+    "id": "modern-ext-abby-dahlkemper",
+    "name": "Abby Dahlkemper",
+    "sex": "F",
+    "height_cm": 170,
+    "weight_kg": 64,
+    "age": 27,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Football",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age calculated from birth year (1993). Height and weight data consistently available."
+  },
+  {
+    "id": "modern-ext-tierna-davidson",
+    "name": "Tierna Davidson",
+    "sex": "F",
+    "height_cm": 173,
+    "weight_kg": 66,
+    "age": 22,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Football",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age calculated from birth year (1998). Height and weight data consistently available."
+  },
+  {
+    "id": "modern-ext-crystal-dunn",
+    "name": "Crystal Dunn",
+    "sex": "F",
+    "height_cm": 157,
+    "weight_kg": 59,
+    "age": 28,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Football",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age calculated from birth year (1992). Height and weight data consistently available."
+  },
+  {
+    "id": "modern-ext-kelley-o-hara",
+    "name": "Kelley O'Hara",
+    "sex": "F",
+    "height_cm": 160,
+    "weight_kg": 59,
+    "age": 32,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Football",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age calculated from birth year (1988). Height and weight data consistently available."
+  },
+  {
+    "id": "modern-ext-becky-sauerbrunn",
+    "name": "Becky Sauerbrunn",
+    "sex": "F",
+    "height_cm": 170,
+    "weight_kg": 66,
+    "age": 35,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Football",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age calculated from birth year (1985). Height and weight data consistently available."
+  },
+  {
+    "id": "modern-ext-emily-sonnett",
+    "name": "Emily Sonnett",
+    "sex": "F",
+    "height_cm": 170,
+    "weight_kg": 61,
+    "age": 27,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Football",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age calculated from birth year (1993). Height and weight data consistently available."
+  },
+  {
+    "id": "modern-ext-casey-krueger",
+    "name": "Casey Krueger",
+    "sex": "F",
+    "height_cm": 163,
+    "weight_kg": 59,
+    "age": 30,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Football",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age calculated from birth year (1990). Height and weight data consistently available."
+  },
+  {
+    "id": "modern-ext-julie-ertz",
+    "name": "Julie Ertz",
+    "sex": "F",
+    "height_cm": 170,
+    "weight_kg": 64,
+    "age": 28,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Football",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age calculated from birth year (1992). Height and weight data consistently available."
+  },
+  {
+    "id": "modern-ext-lindsey-horan",
+    "name": "Lindsey Horan",
+    "sex": "F",
+    "height_cm": 175,
+    "weight_kg": 73,
+    "age": 26,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Football",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age calculated from birth year (1994). Height and weight data consistently available."
+  },
+  {
+    "id": "modern-ext-rose-lavelle",
+    "name": "Rose Lavelle",
+    "sex": "F",
+    "height_cm": 163,
+    "weight_kg": 59,
+    "age": 25,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Football",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age calculated from birth year (1995). Height and weight data consistently available."
+  },
+  {
+    "id": "modern-ext-kristie-mewis",
+    "name": "Kristie Mewis",
+    "sex": "F",
+    "height_cm": 173,
+    "weight_kg": 61,
+    "age": 29,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Football",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age calculated from birth year (1991). Height and weight data consistently available."
+  },
+  {
+    "id": "modern-ext-samantha-mewis",
+    "name": "Samantha Mewis",
+    "sex": "F",
+    "height_cm": 183,
+    "weight_kg": 73,
+    "age": 28,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Football",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age calculated from birth year (1992). Height and weight data consistently available."
+  },
+  {
+    "id": "modern-ext-catarina-macario",
+    "name": "Catarina Macario",
+    "sex": "F",
+    "height_cm": 168,
+    "weight_kg": 61,
+    "age": 21,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Football",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age calculated from birth year (1999). Height and weight data consistently available."
+  },
+  {
+    "id": "modern-ext-tobin-heath",
+    "name": "Tobin Heath",
+    "sex": "F",
+    "height_cm": 168,
+    "weight_kg": 60,
+    "age": 32,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Football",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age calculated from birth year (1988). Height and weight data consistently available."
+  },
+  {
+    "id": "modern-ext-carli-lloyd",
+    "name": "Carli Lloyd",
+    "sex": "F",
+    "height_cm": 173,
+    "weight_kg": 69,
+    "age": 38,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Football",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age calculated from birth year (1982). Height and weight data consistently available."
+  },
+  {
+    "id": "modern-ext-alex-morgan",
+    "name": "Alex Morgan",
+    "sex": "F",
+    "height_cm": 173,
+    "weight_kg": 62,
+    "age": 31,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Football",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age calculated from birth year (1989). Height and weight data consistently available."
+  },
+  {
+    "id": "modern-ext-christen-press",
+    "name": "Christen Press",
+    "sex": "F",
+    "height_cm": 173,
+    "weight_kg": 63,
+    "age": 31,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Football",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age calculated from birth year (1988). Height and weight data consistently available."
+  },
+  {
+    "id": "modern-ext-megan-rapinoe",
+    "name": "Megan Rapinoe",
+    "sex": "F",
+    "height_cm": 168,
+    "weight_kg": 60,
+    "age": 35,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Football",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age calculated from birth year (1985). Height and weight data consistently available."
+  },
+  {
+    "id": "modern-ext-jane-campbell",
+    "name": "Jane Campbell",
+    "sex": "F",
+    "height_cm": 175,
+    "weight_kg": 68,
+    "age": 25,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Football",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age calculated from birth year (1995). Height and weight data consistently available."
+  },
+  {
+    "id": "modern-ext-nick-allen",
+    "name": "Nick Allen",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 22,
+    "games": "olympic",
+    "primarySport": "Baseball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Baseball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height or weight data found from authoritative sources. Birth year 1999."
+  },
+  {
+    "id": "modern-ext-eddy-alvarez",
+    "name": "Eddy Alvarez",
+    "sex": "M",
+    "height_cm": 175,
+    "weight_kg": 73,
+    "age": 30,
+    "games": "olympic",
+    "primarySport": "Baseball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Baseball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data consistently reported as 5'9\" and 160 lbs. Birth year 1990."
+  },
+  {
+    "id": "modern-ext-tyler-austin",
+    "name": "Tyler Austin",
+    "sex": "M",
+    "height_cm": 193,
+    "weight_kg": 102,
+    "age": 29,
+    "games": "olympic",
+    "primarySport": "Baseball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Baseball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data consistently reported as 6'4\" and 225 lbs. Birth year 1991."
+  },
+  {
+    "id": "modern-ext-shane-baz",
+    "name": "Shane Baz",
+    "sex": "M",
+    "height_cm": 191,
+    "weight_kg": 95,
+    "age": 21,
+    "games": "olympic",
+    "primarySport": "Baseball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Baseball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data consistently reported as 6'3\" and 210 lbs. Birth year 1999."
+  },
+  {
+    "id": "modern-ext-anthony-carter",
+    "name": "Anthony Carter",
+    "sex": "M",
+    "height_cm": 185,
+    "weight_kg": 95,
+    "age": 34,
+    "games": "olympic",
+    "primarySport": "Baseball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Baseball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data consistently reported as 6'1\" and 210 lbs. Birth year 1986."
+  },
+  {
+    "id": "modern-ext-triston-casas",
+    "name": "Triston Casas",
+    "sex": "M",
+    "height_cm": 193,
+    "weight_kg": 110,
+    "age": 20,
+    "games": "olympic",
+    "primarySport": "Baseball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Baseball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data consistently reported as 6'4\" and 244-245 lbs. Birth year 2000."
+  },
+  {
+    "id": "modern-ext-brandon-dickson",
+    "name": "Brandon Dickson",
+    "sex": "M",
+    "height_cm": 193,
+    "weight_kg": 100,
+    "age": 36,
+    "games": "olympic",
+    "primarySport": "Baseball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Baseball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data consistently reported as 6'4\" and 220 lbs. Birth year 1984."
+  },
+  {
+    "id": "modern-ext-tim-federowicz",
+    "name": "Tim Federowicz",
+    "sex": "M",
+    "height_cm": 185,
+    "weight_kg": 95,
+    "age": 33,
+    "games": "olympic",
+    "primarySport": "Baseball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Baseball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data consistently reported as 6'1\" and 210 lbs. Birth year 1987."
+  },
+  {
+    "id": "modern-ext-eric-filia",
+    "name": "Eric Filia",
+    "sex": "M",
+    "height_cm": 183,
+    "weight_kg": 95,
+    "age": 30,
+    "games": "olympic",
+    "primarySport": "Baseball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Baseball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data consistently reported as 6'0\" and 210 lbs. Birth year 1990."
+  },
+  {
+    "id": "modern-ext-todd-frazier",
+    "name": "Todd Frazier",
+    "sex": "M",
+    "height_cm": 185,
+    "weight_kg": 98,
+    "age": 34,
+    "games": "olympic",
+    "primarySport": "Baseball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Baseball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data consistently reported as 6'1\" and 215-218 lbs. Birth year 1986."
+  },
+  {
+    "id": "modern-ext-anthony-gose",
+    "name": "Anthony Gose",
+    "sex": "M",
+    "height_cm": 183,
+    "weight_kg": 91,
+    "age": 30,
+    "games": "olympic",
+    "primarySport": "Baseball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Baseball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data consistently reported as 6'0\" and 200 lbs. Birth year 1990."
+  },
+  {
+    "id": "modern-ext-edwin-jackson",
+    "name": "Edwin Jackson",
+    "sex": "M",
+    "height_cm": 185,
+    "weight_kg": 95,
+    "age": 37,
+    "games": "olympic",
+    "primarySport": "Baseball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Baseball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data consistently reported as 6'1\" and 210 lbs. Birth year 1983."
+  },
+  {
+    "id": "modern-ext-scott-kazmir",
+    "name": "Scott Kazmir",
+    "sex": "M",
+    "height_cm": 183,
+    "weight_kg": 84,
+    "age": 36,
+    "games": "olympic",
+    "primarySport": "Baseball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Baseball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data consistently reported as 6'0\" and 185 lbs. Birth year 1984."
+  },
+  {
+    "id": "modern-ext-patrick-kivlehan",
+    "name": "Patrick Kivlehan",
+    "sex": "M",
+    "height_cm": 188,
+    "weight_kg": 98,
+    "age": 30,
+    "games": "olympic",
+    "primarySport": "Baseball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Baseball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data consistently reported as 6'2\" and 215 lbs. Birth year 1990."
+  },
+  {
+    "id": "modern-ext-mark-kolozsvary",
+    "name": "Mark Kolozsvary",
+    "sex": "M",
+    "height_cm": 173,
+    "weight_kg": 82,
+    "age": 25,
+    "games": "olympic",
+    "primarySport": "Baseball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Baseball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data consistently reported as 5'7\"-5'8\" and 180-185 lbs. Birth year 1995."
+  },
+  {
+    "id": "modern-ext-jack-lopez",
+    "name": "Jack Lopez",
+    "sex": "M",
+    "height_cm": 178,
+    "weight_kg": 73,
+    "age": 28,
+    "games": "olympic",
+    "primarySport": "Baseball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Baseball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data consistently reported as 5'10\" and 160 lbs. Birth year 1992."
+  },
+  {
+    "id": "modern-ext-nick-martinez",
+    "name": "Nick Martinez",
+    "sex": "M",
+    "height_cm": 185,
+    "weight_kg": 91,
+    "age": 30,
+    "games": "olympic",
+    "primarySport": "Baseball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Baseball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data consistently reported as 6'1\" and 200 lbs. Birth year 1990."
+  },
+  {
+    "id": "modern-ext-scott-mcgough",
+    "name": "Scott McGough",
+    "sex": "M",
+    "height_cm": 191,
+    "weight_kg": 98,
+    "age": 30,
+    "games": "olympic",
+    "primarySport": "Baseball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Baseball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data consistently reported as 6'3\" and 215 lbs. Birth year 1989."
+  },
+  {
+    "id": "modern-ext-david-robertson",
+    "name": "David Robertson",
+    "sex": "M",
+    "height_cm": 180,
+    "weight_kg": 95,
+    "age": 35,
+    "games": "olympic",
+    "primarySport": "Baseball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Baseball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data consistently reported as 5'11\" and 210 lbs. Birth year 1985."
+  },
+  {
+    "id": "modern-ext-joe-ryan",
+    "name": "Joe Ryan",
+    "sex": "M",
+    "height_cm": 193,
+    "weight_kg": 100,
+    "age": 24,
+    "games": "olympic",
+    "primarySport": "Baseball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Baseball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data consistently reported as 6'4\" and 220 lbs. Birth year 1996."
+  },
+  {
+    "id": "modern-ext-ryder-ryan",
+    "name": "Ryder Ryan",
+    "sex": "M",
+    "height_cm": 185,
+    "weight_kg": 95,
+    "age": 25,
+    "games": "olympic",
+    "primarySport": "Baseball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Baseball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data consistently reported as 6'1\" and 210 lbs. Birth year 1995."
+  },
+  {
+    "id": "modern-ext-bubba-starling",
+    "name": "Bubba Starling",
+    "sex": "M",
+    "height_cm": 191,
+    "weight_kg": 104,
+    "age": 28,
+    "games": "olympic",
+    "primarySport": "Baseball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Baseball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data consistently reported as 6'3\" and 230 lbs. Birth year 1992."
+  },
+  {
+    "id": "modern-ext-jonathan-stiever",
+    "name": "Jonathan Stiever",
+    "sex": "M",
+    "height_cm": 188,
+    "weight_kg": 95,
+    "age": 23,
+    "games": "olympic",
+    "primarySport": "Baseball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Baseball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data consistently reported as 6'2\" and 210-215 lbs. Birth year 1997."
+  },
+  {
+    "id": "modern-ext-jamie-westbrook",
+    "name": "Jamie Westbrook",
+    "sex": "M",
+    "height_cm": 170,
+    "weight_kg": 88,
+    "age": 25,
+    "games": "olympic",
+    "primarySport": "Baseball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Baseball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data reported as 5'7\" and 193 lbs by multiple sources, but one source reports 5'10\" and 180 lbs. Birth year 1995."
+  },
+  {
+    "id": "modern-ext-simeon-woods-richardson",
+    "name": "Simeon Woods Richardson",
+    "sex": "M",
+    "height_cm": 191,
+    "weight_kg": 95,
+    "age": 20,
+    "games": "olympic",
+    "primarySport": "Baseball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Baseball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data reported as 6'3\" and 210 lbs by multiple sources, but one source reports 6'4\" and 227 lbs. Birth year 2000."
+  },
+  {
+    "id": "modern-ext-monica-abbott",
+    "name": "Monica Abbott",
+    "sex": "F",
+    "height_cm": 191,
+    "weight_kg": 88,
+    "age": 35,
+    "games": "olympic",
+    "primarySport": "Softball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Softball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight from Olympedia. Age calculated from birth year (1985) and competition year (2020). [16]"
+  },
+  {
+    "id": "modern-ext-ali-aguilar",
+    "name": "Ali Aguilar",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Softball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Softball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No reliable height, weight, or birth year data found."
+  },
+  {
+    "id": "modern-ext-valerie-arioto",
+    "name": "Valerie Arioto",
+    "sex": "F",
+    "height_cm": 170,
+    "weight_kg": null,
+    "age": 31,
+    "games": "olympic",
+    "primarySport": "Softball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Softball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height from Olympedia. Age calculated from birth year (1989) and competition year (2020). No reliable weight data found. [26, 38]"
+  },
+  {
+    "id": "modern-ext-ally-carda",
+    "name": "Ally Carda",
+    "sex": "F",
+    "height_cm": 173,
+    "weight_kg": null,
+    "age": 27,
+    "games": "olympic",
+    "primarySport": "Softball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Softball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height from Olympedia. Age calculated from birth year (1993) and competition year (2020). No reliable weight data found. [27, 36]"
+  },
+  {
+    "id": "modern-ext-amanda-chidester",
+    "name": "Amanda Chidester",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Softball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Softball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No reliable height, weight, or birth year data found."
+  },
+  {
+    "id": "modern-ext-taylor-edwards",
+    "name": "Taylor Edwards",
+    "sex": "F",
+    "height_cm": 170,
+    "weight_kg": null,
+    "age": 23,
+    "games": "olympic",
+    "primarySport": "Softball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Softball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height from Team USA. Age calculated from birth year (1996) and competition year (2020). No reliable weight data found. [19, 22]"
+  },
+  {
+    "id": "modern-ext-hannah-flippen",
+    "name": "Hannah Flippen",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Softball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Softball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No reliable height, weight, or birth year data found."
+  },
+  {
+    "id": "modern-ext-rachel-garcia",
+    "name": "Rachel Garcia",
+    "sex": "F",
+    "height_cm": 168,
+    "weight_kg": null,
+    "age": 23,
+    "games": "olympic",
+    "primarySport": "Softball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Softball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height from Team USA. Age calculated from birth year (1997) and competition year (2020). No reliable weight data found. [12, 24, 28, 46, 51]"
+  },
+  {
+    "id": "modern-ext-haylie-mccleney",
+    "name": "Haylie McCleney",
+    "sex": "F",
+    "height_cm": 163,
+    "weight_kg": null,
+    "age": 26,
+    "games": "olympic",
+    "primarySport": "Softball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Softball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height from Team USA and myKhel. Age calculated from birth year (1994) and competition year (2020). No reliable weight data found. [10, 20, 29, 39]"
+  },
+  {
+    "id": "modern-ext-michelle-moultrie",
+    "name": "Michelle Moultrie",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Softball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Softball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No reliable height, weight, or birth year data found."
+  },
+  {
+    "id": "modern-ext-dejah-mulipola",
+    "name": "Dejah Mulipola",
+    "sex": "F",
+    "height_cm": 173,
+    "weight_kg": null,
+    "age": 22,
+    "games": "olympic",
+    "primarySport": "Softball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Softball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height from Team USA and University of Arizona Athletics. Age calculated from birth year (1998) and competition year (2020). No reliable weight data found. [7, 13, 18, 35]"
+  },
+  {
+    "id": "modern-ext-aubree-munro",
+    "name": "Aubree Munro",
+    "sex": "F",
+    "height_cm": 178,
+    "weight_kg": null,
+    "age": 27,
+    "games": "olympic",
+    "primarySport": "Softball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Softball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height from Olympedia. Age calculated from birth year (1993) and competition year (2020). No reliable weight data found. [14, 17, 34, 47, 50]"
+  },
+  {
+    "id": "modern-ext-bubba-nickles",
+    "name": "Bubba Nickles",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Softball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Softball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No reliable height, weight, or birth year data found."
+  },
+  {
+    "id": "modern-ext-cat-osterman",
+    "name": "Cat Osterman",
+    "sex": "F",
+    "height_cm": 188,
+    "weight_kg": 79,
+    "age": 37,
+    "games": "olympic",
+    "primarySport": "Softball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Softball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight from Olympedia. Age calculated from birth year (1983) and competition year (2020). [3, 5, 21, 43, 45]"
+  },
+  {
+    "id": "modern-ext-janie-reed",
+    "name": "Janie Reed",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Softball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Softball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No reliable height, weight, or birth year data found."
+  },
+  {
+    "id": "modern-ext-delaney-spaulding",
+    "name": "Delaney Spaulding",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Softball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Softball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No reliable height, weight, or birth year data found."
+  },
+  {
+    "id": "modern-ext-kelsey-stewart",
+    "name": "Kelsey Stewart",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Softball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Softball",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No reliable height, weight, or birth year data found."
+  },
+  {
+    "id": "modern-ext-keyshawn-davis",
+    "name": "Keyshawn Davis",
+    "sex": "M",
+    "height_cm": 175,
+    "weight_kg": 61,
+    "age": 21,
+    "games": "olympic",
+    "primarySport": "Boxing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Boxing",
+        "event": "Men's Lightweight",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year (1999) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-duke-ragan",
+    "name": "Duke Ragan",
+    "sex": "M",
+    "height_cm": 165,
+    "weight_kg": null,
+    "age": 23,
+    "games": "olympic",
+    "primarySport": "Boxing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Boxing",
+        "event": "Men's Featherweight",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is consistent across sources. Weight is not consistently available across sources. Age calculated from birth year (1997) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-richard-torrez-jr",
+    "name": "Richard Torrez Jr.",
+    "sex": "M",
+    "height_cm": 188,
+    "weight_kg": null,
+    "age": 21,
+    "games": "olympic",
+    "primarySport": "Boxing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Boxing",
+        "event": "Men's Super Heavyweight",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is consistent across sources. Weight is not consistently available across sources. Age calculated from birth year (1999) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-oshae-jones",
+    "name": "Oshae Jones",
+    "sex": "F",
+    "height_cm": 173,
+    "weight_kg": 70,
+    "age": 22,
+    "games": "olympic",
+    "primarySport": "Boxing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Boxing",
+        "event": "Women's Welterweight",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year (1998) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-david-taylor",
+    "name": "David Taylor",
+    "sex": "M",
+    "height_cm": 183,
+    "weight_kg": 86,
+    "age": 30,
+    "games": "olympic",
+    "primarySport": "Wrestling",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wrestling",
+        "event": "Men's 86kg Freestyle",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "All sources agree on height, weight, and birth year."
+  },
+  {
+    "id": "modern-ext-gable-steveson",
+    "name": "Gable Steveson",
+    "sex": "M",
+    "height_cm": 185,
+    "weight_kg": 120,
+    "age": 20,
+    "games": "olympic",
+    "primarySport": "Wrestling",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wrestling",
+        "event": "Men's 125kg Freestyle",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "All sources agree on height, weight, and birth year."
+  },
+  {
+    "id": "modern-ext-adeline-gray",
+    "name": "Adeline Gray",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": 76,
+    "age": 29,
+    "games": "olympic",
+    "primarySport": "Wrestling",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wrestling",
+        "event": "Women's 76kg Freestyle",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is null due to sources disagreeing by more than 3 cm. All sources agree on weight and birth year."
+  },
+  {
+    "id": "modern-ext-kyle-snyder",
+    "name": "Kyle Snyder",
+    "sex": "M",
+    "height_cm": 180,
+    "weight_kg": 97,
+    "age": 25,
+    "games": "olympic",
+    "primarySport": "Wrestling",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wrestling",
+        "event": "Men's 97kg Freestyle",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "All sources agree on height, weight, and birth year."
+  },
+  {
+    "id": "modern-ext-kyle-dake",
+    "name": "Kyle Dake",
+    "sex": "M",
+    "height_cm": 178,
+    "weight_kg": 74,
+    "age": 29,
+    "games": "olympic",
+    "primarySport": "Wrestling",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wrestling",
+        "event": "Men's 74kg Freestyle",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "All sources agree on height, weight, and birth year."
+  },
+  {
+    "id": "modern-ext-thomas-gilman",
+    "name": "Thomas Gilman",
+    "sex": "M",
+    "height_cm": 168,
+    "weight_kg": 57,
+    "age": 26,
+    "games": "olympic",
+    "primarySport": "Wrestling",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wrestling",
+        "event": "Men's 57kg Freestyle",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "All sources agree on height, weight, and birth year."
+  },
+  {
+    "id": "modern-ext-anastasija-zolotic",
+    "name": "Anastasija Zolotic",
+    "sex": "F",
+    "height_cm": 180,
+    "weight_kg": 57,
+    "age": 18,
+    "games": "olympic",
+    "primarySport": "Taekwondo",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Taekwondo",
+        "event": "Women's 57 kg",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent. Age calculated as 2020 - 2002 = 18."
+  },
+  {
+    "id": "modern-ext-ariel-torres",
+    "name": "Ariel Torres",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 23,
+    "games": "olympic",
+    "primarySport": "Karate",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Karate",
+        "event": "Men's Kata",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data were not consistently available across sources. Birth year was consistently reported as 1997."
+  },
+  {
+    "id": "modern-ext-alexander-massialas",
+    "name": "Alexander Massialas",
+    "sex": "M",
+    "height_cm": 188,
+    "weight_kg": 84,
+    "age": 26,
+    "games": "olympic",
+    "primarySport": "Fencing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Fencing",
+        "event": "Team Foil Men",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height from multiple sources. Weight from multiple sources. Age calculated from birth year."
+  },
+  {
+    "id": "modern-ext-gerek-meinhardt",
+    "name": "Gerek Meinhardt",
+    "sex": "M",
+    "height_cm": 183,
+    "weight_kg": 77,
+    "age": 30,
+    "games": "olympic",
+    "primarySport": "Fencing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Fencing",
+        "event": "Team Foil Men",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height from multiple sources. Weight from multiple sources. Olympedia lists weight as 80kg, but Wikipedia and Sportskeeda list 77kg, and Team USA lists 170lb (77kg). Using 77kg. Age calculated from birth year."
+  },
+  {
+    "id": "modern-ext-nick-itkin",
+    "name": "Nick Itkin",
+    "sex": "M",
+    "height_cm": 188,
+    "weight_kg": 71,
+    "age": 21,
+    "games": "olympic",
+    "primarySport": "Fencing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Fencing",
+        "event": "Team Foil Men",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height from multiple sources. Weight from multiple sources. Age calculated from birth year."
+  },
+  {
+    "id": "modern-ext-race-imboden",
+    "name": "Race Imboden",
+    "sex": "M",
+    "height_cm": 185,
+    "weight_kg": 70,
+    "age": 27,
+    "games": "olympic",
+    "primarySport": "Fencing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Fencing",
+        "event": "Team Foil Men",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height from multiple sources. Wikipedia lists 1.89m (189cm), FamousFix and Team USA list 6'1\" (185cm). Using 185cm. Weight from multiple sources. Wikipedia lists 172lb (78kg), FamousFix lists 155lb (70kg). Using 70kg. Age calculated from birth year."
+  },
+  {
+    "id": "modern-ext-katherine-nye",
+    "name": "Katherine Nye",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 21,
+    "games": "olympic",
+    "primarySport": "Weightlifting",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Weightlifting",
+        "event": "76 kg",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are null due to conflicting information across sources. Age calculated from birth year (1999) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-sarah-robles",
+    "name": "Sarah Robles",
+    "sex": "F",
+    "height_cm": 179,
+    "weight_kg": 140,
+    "age": 32,
+    "games": "olympic",
+    "primarySport": "Weightlifting",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Weightlifting",
+        "event": "+87 kg",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year (1988) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-suni-lee",
+    "name": "Suni Lee",
+    "sex": "F",
+    "height_cm": 152,
+    "weight_kg": null,
+    "age": 17,
+    "games": "olympic",
+    "primarySport": "Artistic Gymnastics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Artistic Gymnastics",
+        "event": "Individual All-Around",
+        "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Artistic Gymnastics",
+        "event": "Team All-Around",
+        "medal": "Silver"
+      },
+      {
+        "year": 2020,
+        "sport": "Artistic Gymnastics",
+        "event": "Uneven Bars",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height is consistent across sources. Weight data was not consistently available across multiple authoritative sources. Age calculated from birth year (2003) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-mykayla-skinner",
+    "name": "MyKayla Skinner",
+    "sex": "F",
+    "height_cm": 152,
+    "weight_kg": 52,
+    "age": 23,
+    "games": "olympic",
+    "primarySport": "Artistic Gymnastics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Artistic Gymnastics",
+        "event": "Vault",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year (1996) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-grace-mccallum",
+    "name": "Grace McCallum",
+    "sex": "F",
+    "height_cm": 157,
+    "weight_kg": null,
+    "age": 17,
+    "games": "olympic",
+    "primarySport": "Artistic Gymnastics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Artistic Gymnastics",
+        "event": "Team All-Around",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is consistent across sources. Weight data was not consistently available across multiple authoritative sources. Age calculated from birth year (2002) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-brody-malone",
+    "name": "Brody Malone",
+    "sex": "M",
+    "height_cm": 168,
+    "weight_kg": 70,
+    "age": 20,
+    "games": "olympic",
+    "primarySport": "Artistic Gymnastics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Artistic Gymnastics",
+        "event": "Horizontal Bar",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year (2000) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-laura-kraut",
+    "name": "Laura Kraut",
+    "sex": "F",
+    "height_cm": 168,
+    "weight_kg": 58,
+    "age": 55,
+    "games": "olympic",
+    "primarySport": "Equestrianism",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Equestrianism",
+        "event": "Team Jumping",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year are consistent across sources. Age calculated from birth year (1965) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-jessica-springsteen",
+    "name": "Jessica Springsteen",
+    "sex": "F",
+    "height_cm": 168,
+    "weight_kg": 50,
+    "age": 29,
+    "games": "olympic",
+    "primarySport": "Equestrianism",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Equestrianism",
+        "event": "Team Jumping",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year are consistent across sources. Age calculated from birth year (1991) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-sabine-schut-kery",
+    "name": "Sabine Schut-Kery",
+    "sex": "F",
+    "height_cm": 173,
+    "weight_kg": null,
+    "age": 52,
+    "games": "olympic",
+    "primarySport": "Equestrianism",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Equestrianism",
+        "event": "Team Dressage",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and birth year are consistent across sources. Weight data is not available across multiple sources. Age calculated from birth year (1968) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-katie-zaferes",
+    "name": "Katie Zaferes",
+    "sex": "F",
+    "height_cm": 173,
+    "weight_kg": 59,
+    "age": 31,
+    "games": "olympic",
+    "primarySport": "Triathlon",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Triathlon",
+        "event": "Individual",
+        "medal": "Bronze"
+      },
+      {
+        "year": 2020,
+        "sport": "Triathlon",
+        "event": "Mixed Relay",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight from multiple sources. Birth year consistent across sources."
+  },
+  {
+    "id": "modern-ext-kevin-mcdowell",
+    "name": "Kevin McDowell",
+    "sex": "M",
+    "height_cm": 183,
+    "weight_kg": 66,
+    "age": 28,
+    "games": "olympic",
+    "primarySport": "Triathlon",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Triathlon",
+        "event": "Mixed Relay",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight from multiple sources. Birth year consistent across sources. Excluded baseball player Kevin McDowell to avoid confusion."
+  },
+  {
+    "id": "modern-ext-taylor-knibb",
+    "name": "Taylor Knibb",
+    "sex": "F",
+    "height_cm": 165,
+    "weight_kg": null,
+    "age": 22,
+    "games": "olympic",
+    "primarySport": "Triathlon",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Triathlon",
+        "event": "Mixed Relay",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height from multiple sources. Weight data not consistently available. Birth year consistent across sources."
+  },
+  {
+    "id": "modern-ext-chlo-dygert",
+    "name": "Chloé Dygert",
+    "sex": "F",
+    "height_cm": 175,
+    "weight_kg": 67,
+    "age": 23,
+    "games": "olympic",
+    "primarySport": "Cycling",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Cycling",
+        "event": "Team Pursuit",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent. Medals and events are consistent."
+  },
+  {
+    "id": "modern-ext-megan-jastrab",
+    "name": "Megan Jastrab",
+    "sex": "F",
+    "height_cm": 173,
+    "weight_kg": null,
+    "age": 18,
+    "games": "olympic",
+    "primarySport": "Cycling",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Cycling",
+        "event": "Team Pursuit",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height is consistent across sources. Weight is null due to conflicting information (0 kg vs no data). Birth year is consistent. Medals and events are consistent."
+  },
+  {
+    "id": "modern-ext-lily-williams",
+    "name": "Lily Williams",
+    "sex": "F",
+    "height_cm": 170,
+    "weight_kg": 66,
+    "age": 26,
+    "games": "olympic",
+    "primarySport": "Cycling",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Cycling",
+        "event": "Team Pursuit",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent. Medals and events are consistent."
+  },
+  {
+    "id": "modern-ext-emma-white",
+    "name": "Emma White",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 23,
+    "games": "olympic",
+    "primarySport": "Cycling",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Cycling",
+        "event": "Team Pursuit",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight are null due to lack of consistent data for the cyclist Emma White. Birth year is consistent. Medals and events are consistent."
+  },
+  {
+    "id": "modern-ext-amber-english",
+    "name": "Amber English",
+    "sex": "F",
+    "height_cm": 163,
+    "weight_kg": 61,
+    "age": 31,
+    "games": "olympic",
+    "primarySport": "Shooting",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Shooting",
+        "event": "Women's Skeet",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year (1989) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-kayle-browning",
+    "name": "Kayle Browning",
+    "sex": "F",
+    "height_cm": 168,
+    "weight_kg": 61,
+    "age": 28,
+    "games": "olympic",
+    "primarySport": "Shooting",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Shooting",
+        "event": "Women's Trap",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year (1992) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-madelynn-bernau",
+    "name": "Madelynn Bernau",
+    "sex": "F",
+    "height_cm": 168,
+    "weight_kg": null,
+    "age": 22,
+    "games": "olympic",
+    "primarySport": "Shooting",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Shooting",
+        "event": "Mixed Trap Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height is consistent across sources. Weight data not found. Age calculated from birth year (1998) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-brian-burrows",
+    "name": "Brian Burrows",
+    "sex": "M",
+    "height_cm": 180,
+    "weight_kg": 88,
+    "age": 32,
+    "games": "olympic",
+    "primarySport": "Shooting",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Shooting",
+        "event": "Mixed Trap Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year (1988) and competition year (2020)."
+  },
+  {
+    "id": "modern-ext-xander-schauffele",
+    "name": "Xander Schauffele",
+    "sex": "M",
+    "height_cm": 178,
+    "weight_kg": 79,
+    "age": 27,
+    "games": "olympic",
+    "primarySport": "Golf",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Golf",
+        "event": "Men's Individual",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent across sources."
+  },
+  {
+    "id": "modern-ext-cole-hocker",
+    "name": "Cole Hocker",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Men's 1500m",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found across authoritative sources."
+  },
+  {
+    "id": "modern-ext-masai-russell",
+    "name": "Masai Russell",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Women's 100m Hurdles",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found across authoritative sources."
+  },
+  {
+    "id": "modern-ext-melissa-jefferson",
+    "name": "Melissa Jefferson",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Women's 4x100m Relay",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found across authoritative sources."
+  },
+  {
+    "id": "modern-ext-twanisha-terry",
+    "name": "Twanisha Terry",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Women's 4x100m Relay",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found across authoritative sources."
+  },
+  {
+    "id": "modern-ext-kenneth-bednarek",
+    "name": "Kenneth Bednarek",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Men's 200m",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found across authoritative sources."
+  },
+  {
+    "id": "modern-ext-kenneth-rooks",
+    "name": "Kenneth Rooks",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Men's 3000m Steeplechase",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found across authoritative sources."
+  },
+  {
+    "id": "modern-ext-daniel-roberts",
+    "name": "Daniel Roberts",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Men's 110m Hurdles",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found across authoritative sources."
+  },
+  {
+    "id": "modern-ext-anna-cockrell",
+    "name": "Anna Cockrell",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Women's 400m Hurdles",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found across authoritative sources."
+  },
+  {
+    "id": "modern-ext-shelby-mcewen",
+    "name": "Shelby McEwen",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Men's High Jump",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found across authoritative sources."
+  },
+  {
+    "id": "modern-ext-joe-kovacs",
+    "name": "Joe Kovacs",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Men's Shot Put",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found across authoritative sources."
+  },
+  {
+    "id": "modern-ext-fred-kerley",
+    "name": "Fred Kerley",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Men's 100m",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found across authoritative sources."
+  },
+  {
+    "id": "modern-ext-yared-nuguse",
+    "name": "Yared Nuguse",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Men's 1500m",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found across authoritative sources."
+  },
+  {
+    "id": "modern-ext-grant-fisher",
+    "name": "Grant Fisher",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Men's 5000m",
+        "medal": "Bronze"
+      },
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Men's 10,000m",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 2
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found across authoritative sources."
+  },
+  {
+    "id": "modern-ext-jasmine-moore",
+    "name": "Jasmine Moore",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Women's Long Jump",
+        "medal": "Bronze"
+      },
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Women's Triple Jump",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 2
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found across authoritative sources."
+  },
+  {
+    "id": "modern-ext-christopher-bailey",
+    "name": "Christopher Bailey",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Men's 4x400m Relay",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found across authoritative sources."
+  },
+  {
+    "id": "modern-ext-vernon-norwood",
+    "name": "Vernon Norwood",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Men's 4x400m Relay",
+        "medal": "Gold"
+      },
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Mixed 4x400m Relay",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found across authoritative sources."
+  },
+  {
+    "id": "modern-ext-bryce-deadmon",
+    "name": "Bryce Deadmon",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Men's 4x400m Relay",
+        "medal": "Gold"
+      },
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Mixed 4x400m Relay",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found across authoritative sources."
+  },
+  {
+    "id": "modern-ext-shamier-little",
+    "name": "Shamier Little",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Women's 4x400m Relay",
+        "medal": "Gold"
+      },
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Mixed 4x400m Relay",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found across authoritative sources."
+  },
+  {
+    "id": "modern-ext-alexis-holmes",
+    "name": "Alexis Holmes",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Women's 4x400m Relay",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found across authoritative sources."
+  },
+  {
+    "id": "modern-ext-kaylyn-brown",
+    "name": "Kaylyn Brown",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Athletics",
+        "event": "Mixed 4x400m Relay",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found across authoritative sources."
+  },
+  {
+    "id": "modern-ext-chris-guiliano",
+    "name": "Chris Guiliano",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 21,
+    "games": "olympic",
+    "primarySport": "Swimming",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Swimming",
+        "event": "Men's 4x100m Freestyle Relay",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not found. Birth year found."
+  },
+  {
+    "id": "modern-ext-jack-alexy",
+    "name": "Jack Alexy",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 21,
+    "games": "olympic",
+    "primarySport": "Swimming",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Swimming",
+        "event": "Men's 4x100m Freestyle Relay",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not found. Birth year found."
+  },
+  {
+    "id": "modern-ext-gretchen-walsh",
+    "name": "Gretchen Walsh",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 21,
+    "games": "olympic",
+    "primarySport": "Swimming",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Swimming",
+        "event": "Women's 100m Butterfly",
+        "medal": "Silver"
+      },
+      {
+        "year": 2024,
+        "sport": "Swimming",
+        "event": "Women's 4x100m Medley Relay",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not found. Birth year found."
+  },
+  {
+    "id": "modern-ext-katie-grimes",
+    "name": "Katie Grimes",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 18,
+    "games": "olympic",
+    "primarySport": "Swimming",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Swimming",
+        "event": "Women's 400m Individual Medley",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not found. Birth year found."
+  },
+  {
+    "id": "modern-ext-luke-hobson",
+    "name": "Luke Hobson",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 20,
+    "games": "olympic",
+    "primarySport": "Swimming",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Swimming",
+        "event": "Men's 200m Freestyle",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not found. Birth year found."
+  },
+  {
+    "id": "modern-ext-paige-madden",
+    "name": "Paige Madden",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 25,
+    "games": "olympic",
+    "primarySport": "Swimming",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Swimming",
+        "event": "Women's 800m Freestyle",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data not found. Birth year found."
+  },
+  {
+    "id": "modern-ext-katharine-berkoff",
+    "name": "Katharine Berkoff",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 23,
+    "games": "olympic",
+    "primarySport": "Swimming",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Swimming",
+        "event": "Women's 100m Backstroke",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data not found. Birth year found."
+  },
+  {
+    "id": "modern-ext-carson-foster",
+    "name": "Carson Foster",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 22,
+    "games": "olympic",
+    "primarySport": "Swimming",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Swimming",
+        "event": "Men's 400m Individual Medley",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data not found. Birth year found."
+  },
+  {
+    "id": "modern-ext-emma-weyant",
+    "name": "Emma Weyant",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 22,
+    "games": "olympic",
+    "primarySport": "Swimming",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Swimming",
+        "event": "Women's 400m Individual Medley",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data not found. Birth year found."
+  },
+  {
+    "id": "modern-ext-sarah-bacon",
+    "name": "Sarah Bacon",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Diving",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Diving",
+        "event": "Women's Synchronized 3m Springboard",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found across sources."
+  },
+  {
+    "id": "modern-ext-kassidy-cook",
+    "name": "Kassidy Cook",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Diving",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Diving",
+        "event": "Women's Synchronized 3m Springboard",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found across sources."
+  },
+  {
+    "id": "modern-ext-adrian-weinberg",
+    "name": "Adrian Weinberg",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 22,
+    "games": "olympic",
+    "primarySport": "Water Polo",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Water Polo",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Birth year 2002. Height and weight data not consistently available across sources."
+  },
+  {
+    "id": "modern-ext-johnny-hooper",
+    "name": "Johnny Hooper",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Water Polo",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Water Polo",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year data not consistently available across sources."
+  },
+  {
+    "id": "modern-ext-marko-vavic",
+    "name": "Marko Vavic",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Water Polo",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Water Polo",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year data not consistently available across sources."
+  },
+  {
+    "id": "modern-ext-hannes-daube",
+    "name": "Hannes Daube",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Water Polo",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Water Polo",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year data not consistently available across sources."
+  },
+  {
+    "id": "modern-ext-ben-hallock",
+    "name": "Ben Hallock",
+    "sex": "M",
+    "height_cm": 201,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Water Polo",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Water Polo",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height is consistently reported as 6'7\" (201cm). Weight and birth year data not consistently available across sources."
+  },
+  {
+    "id": "modern-ext-dylan-woodhead",
+    "name": "Dylan Woodhead",
+    "sex": "M",
+    "height_cm": 201,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Water Polo",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Water Polo",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height is consistently reported as 6'7\" (201cm). Weight and birth year data not consistently available across sources."
+  },
+  {
+    "id": "modern-ext-chase-dodd",
+    "name": "Chase Dodd",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Water Polo",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Water Polo",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year data not consistently available across sources."
+  },
+  {
+    "id": "modern-ext-ryder-dodd",
+    "name": "Ryder Dodd",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 18,
+    "games": "olympic",
+    "primarySport": "Water Polo",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Water Polo",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Birth year 2006. Height and weight data not consistently available across sources."
+  },
+  {
+    "id": "modern-ext-max-irving",
+    "name": "Max Irving",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Water Polo",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Water Polo",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year data not consistently available across sources."
+  },
+  {
+    "id": "modern-ext-drew-holland",
+    "name": "Drew Holland",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Water Polo",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Water Polo",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year data not consistently available across sources."
+  },
+  {
+    "id": "modern-ext-liam-corrigan",
+    "name": "Liam Corrigan",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Rowing",
+        "event": "Men's Four",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found across sources."
+  },
+  {
+    "id": "modern-ext-michael-grady",
+    "name": "Michael Grady",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Rowing",
+        "event": "Men's Four",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found across sources."
+  },
+  {
+    "id": "modern-ext-justin-best",
+    "name": "Justin Best",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Rowing",
+        "event": "Men's Four",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found across sources."
+  },
+  {
+    "id": "modern-ext-nick-mead",
+    "name": "Nick Mead",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Rowing",
+        "event": "Men's Four",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found across sources."
+  },
+  {
+    "id": "modern-ext-rielly-milne",
+    "name": "Rielly Milne",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Rowing",
+        "event": "Men's Eight",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found across sources."
+  },
+  {
+    "id": "modern-ext-pieter-quinton",
+    "name": "Pieter Quinton",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Rowing",
+        "event": "Men's Eight",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found across sources."
+  },
+  {
+    "id": "modern-ext-evan-olson",
+    "name": "Evan Olson",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Rowing",
+        "event": "Men's Eight",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found across sources."
+  },
+  {
+    "id": "modern-ext-peter-chatain",
+    "name": "Peter Chatain",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Rowing",
+        "event": "Men's Eight",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found across sources."
+  },
+  {
+    "id": "modern-ext-chris-carlson",
+    "name": "Chris Carlson",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Rowing",
+        "event": "Men's Eight",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found across sources."
+  },
+  {
+    "id": "modern-ext-clark-dean",
+    "name": "Clark Dean",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Rowing",
+        "event": "Men's Eight",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found across sources."
+  },
+  {
+    "id": "modern-ext-christian-tabash",
+    "name": "Christian Tabash",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Rowing",
+        "event": "Men's Eight",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found across sources."
+  },
+  {
+    "id": "modern-ext-nick-rusher",
+    "name": "Nick Rusher",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Rowing",
+        "event": "Men's Eight",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found across sources."
+  },
+  {
+    "id": "modern-ext-henry-hollingsworth",
+    "name": "Henry Hollingsworth",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rowing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Rowing",
+        "event": "Men's Eight",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found across sources."
+  },
+  {
+    "id": "modern-ext-ian-barrows",
+    "name": "Ian Barrows",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Sailing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Sailing",
+        "event": "Men's Skiff (49er)",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and age are null due to no data in sources."
+  },
+  {
+    "id": "modern-ext-hans-henken",
+    "name": "Hans Henken",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Sailing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Sailing",
+        "event": "Men's Skiff (49er)",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and age are null due to no data in sources."
+  },
+  {
+    "id": "modern-ext-evy-leibfarth",
+    "name": "Evy Leibfarth",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 22,
+    "games": "olympic",
+    "primarySport": "Canoeing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Canoeing",
+        "event": "Women's Canoe Slalom C-1",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data not found. Age at year 2024 is based on birth year and competition year."
+  },
+  {
+    "id": "modern-ext-tom-schaar",
+    "name": "Tom Schaar",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Skateboarding",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Skateboarding",
+        "event": "Men's Park",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data are not available from authoritative sources."
+  },
+  {
+    "id": "modern-ext-nyjah-huston",
+    "name": "Nyjah Huston",
+    "sex": "M",
+    "height_cm": 178,
+    "weight_kg": 75,
+    "age": 29,
+    "games": "olympic",
+    "primarySport": "Skateboarding",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Skateboarding",
+        "event": "Men's Street",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and age are consistent across sources."
+  },
+  {
+    "id": "modern-ext-sam-watson",
+    "name": "Sam Watson",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 18,
+    "games": "olympic",
+    "primarySport": "Sport Climbing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Sport Climbing",
+        "event": "Men's Speed",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age is based on birth year (2006) and competition year (2024). Height and weight data not found across sources."
+  },
+  {
+    "id": "modern-ext-victor-montalvo",
+    "name": "Victor Montalvo",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 30,
+    "games": "olympic",
+    "primarySport": "Breaking",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Breaking",
+        "event": "B-Boys",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data not found across sources. Age is consistent across sources."
+  },
+  {
+    "id": "modern-ext-joel-embiid",
+    "name": "Joel Embiid",
+    "sex": "M",
+    "height_cm": 213,
+    "weight_kg": 127,
+    "age": 30,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight from multiple sources, birth year consistent."
+  },
+  {
+    "id": "modern-ext-anthony-davis",
+    "name": "Anthony Davis",
+    "sex": "M",
+    "height_cm": 208,
+    "weight_kg": 115,
+    "age": 31,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight from multiple sources, birth year consistent."
+  },
+  {
+    "id": "modern-ext-tyrese-haliburton",
+    "name": "Tyrese Haliburton",
+    "sex": "M",
+    "height_cm": 196,
+    "weight_kg": 84,
+    "age": 24,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight from multiple sources, birth year consistent."
+  },
+  {
+    "id": "modern-ext-derrick-white",
+    "name": "Derrick White",
+    "sex": "M",
+    "height_cm": 193,
+    "weight_kg": 88,
+    "age": 30,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight from multiple sources, birth year consistent."
+  },
+  {
+    "id": "modern-ext-kahleah-copper",
+    "name": "Kahleah Copper",
+    "sex": "F",
+    "height_cm": 185,
+    "weight_kg": 74,
+    "age": 30,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight from multiple sources, birth year consistent."
+  },
+  {
+    "id": "modern-ext-sabrina-ionescu",
+    "name": "Sabrina Ionescu",
+    "sex": "F",
+    "height_cm": 180,
+    "weight_kg": 68,
+    "age": 26,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight from multiple sources, birth year consistent."
+  },
+  {
+    "id": "modern-ext-kelsey-plum",
+    "name": "Kelsey Plum",
+    "sex": "F",
+    "height_cm": 173,
+    "weight_kg": 66,
+    "age": 30,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight from multiple sources, birth year consistent."
+  },
+  {
+    "id": "modern-ext-alyssa-thomas",
+    "name": "Alyssa Thomas",
+    "sex": "F",
+    "height_cm": 188,
+    "weight_kg": 92,
+    "age": 32,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight from multiple sources, birth year consistent."
+  },
+  {
+    "id": "modern-ext-jackie-young",
+    "name": "Jackie Young",
+    "sex": "F",
+    "height_cm": 183,
+    "weight_kg": 74,
+    "age": 26,
+    "games": "olympic",
+    "primarySport": "Basketball",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Basketball",
+        "event": "Team gold-medal squad",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight from multiple sources, birth year consistent."
+  },
+  {
+    "id": "modern-ext-taylor-fritz",
+    "name": "Taylor Fritz",
+    "sex": "M",
+    "height_cm": 196,
+    "weight_kg": 86,
+    "age": 27,
+    "games": "olympic",
+    "primarySport": "Tennis",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Tennis",
+        "event": "Men's Doubles",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight are consistent across multiple sources. Age calculated from birth year 1997."
+  },
+  {
+    "id": "modern-ext-tommy-paul",
+    "name": "Tommy Paul",
+    "sex": "M",
+    "height_cm": 185,
+    "weight_kg": 82,
+    "age": 27,
+    "games": "olympic",
+    "primarySport": "Tennis",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Tennis",
+        "event": "Men's Doubles",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight are consistent across multiple sources. Age calculated from birth year 1997."
+  },
+  {
+    "id": "modern-ext-austin-krajicek",
+    "name": "Austin Krajicek",
+    "sex": "M",
+    "height_cm": 188,
+    "weight_kg": 79,
+    "age": 34,
+    "games": "olympic",
+    "primarySport": "Tennis",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Tennis",
+        "event": "Men's Doubles",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across multiple sources. Age calculated from birth year 1990."
+  },
+  {
+    "id": "modern-ext-korbin-albert",
+    "name": "Korbin Albert",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 20,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Football",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height or weight data found. Birth year found."
+  },
+  {
+    "id": "modern-ext-sam-coffey",
+    "name": "Sam Coffey",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 25,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Football",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height or weight data found. Birth year found."
+  },
+  {
+    "id": "modern-ext-emily-fox",
+    "name": "Emily Fox",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 26,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Football",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height or weight data found. Birth year found."
+  },
+  {
+    "id": "modern-ext-naomi-girma",
+    "name": "Naomi Girma",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 24,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Football",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height or weight data found. Birth year found."
+  },
+  {
+    "id": "modern-ext-casey-murphy",
+    "name": "Casey Murphy",
+    "sex": "F",
+    "height_cm": 185,
+    "weight_kg": null,
+    "age": 28,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Football",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height found, no weight data found. Birth year found."
+  },
+  {
+    "id": "modern-ext-jenna-nighswonger",
+    "name": "Jenna Nighswonger",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 23,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Football",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height or weight data found. Birth year found."
+  },
+  {
+    "id": "modern-ext-trinity-rodman",
+    "name": "Trinity Rodman",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 22,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Football",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height or weight data found. Birth year found."
+  },
+  {
+    "id": "modern-ext-jaedyn-shaw",
+    "name": "Jaedyn Shaw",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 19,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Football",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height or weight data found. Birth year found."
+  },
+  {
+    "id": "modern-ext-sophia-smith",
+    "name": "Sophia Smith",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 24,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Football",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height or weight data found. Birth year found."
+  },
+  {
+    "id": "modern-ext-mallory-swanson",
+    "name": "Mallory Swanson",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 26,
+    "games": "olympic",
+    "primarySport": "Football",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Football",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height or weight data found. Birth year found."
+  },
+  {
+    "id": "modern-ext-alena-olsen",
+    "name": "Alena Olsen",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rugby Sevens",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Rugby Sevens",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found from authoritative sources."
+  },
+  {
+    "id": "modern-ext-alev-kelter",
+    "name": "Alev Kelter",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rugby Sevens",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Rugby Sevens",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found from authoritative sources."
+  },
+  {
+    "id": "modern-ext-ariana-ramsey",
+    "name": "Ariana Ramsey",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rugby Sevens",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Rugby Sevens",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found from authoritative sources."
+  },
+  {
+    "id": "modern-ext-ilona-maher",
+    "name": "Ilona Maher",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rugby Sevens",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Rugby Sevens",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found from authoritative sources."
+  },
+  {
+    "id": "modern-ext-kayla-canett",
+    "name": "Kayla Canett",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rugby Sevens",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Rugby Sevens",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found from authoritative sources."
+  },
+  {
+    "id": "modern-ext-kristi-kirshe",
+    "name": "Kristi Kirshe",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rugby Sevens",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Rugby Sevens",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found from authoritative sources."
+  },
+  {
+    "id": "modern-ext-naya-tapper",
+    "name": "Naya Tapper",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rugby Sevens",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Rugby Sevens",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found from authoritative sources."
+  },
+  {
+    "id": "modern-ext-sammy-sullivan",
+    "name": "Sammy Sullivan",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rugby Sevens",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Rugby Sevens",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found from authoritative sources."
+  },
+  {
+    "id": "modern-ext-sarah-levy",
+    "name": "Sarah Levy",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rugby Sevens",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Rugby Sevens",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found from authoritative sources."
+  },
+  {
+    "id": "modern-ext-spiff-sedrick",
+    "name": "Spiff Sedrick",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rugby Sevens",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Rugby Sevens",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found from authoritative sources."
+  },
+  {
+    "id": "modern-ext-stephanie-rovetti",
+    "name": "Stephanie Rovetti",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Rugby Sevens",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Rugby Sevens",
+        "event": "Team bronze-medal squad",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found from authoritative sources."
+  },
+  {
+    "id": "modern-ext-omari-jones",
+    "name": "Omari Jones",
+    "sex": "M",
+    "height_cm": 178,
+    "weight_kg": null,
+    "age": 25,
+    "games": "olympic",
+    "primarySport": "Boxing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Boxing",
+        "event": "Men's 71kg",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and age are consistent across sources. Weight data was not consistently available across sources."
+  },
+  {
+    "id": "modern-ext-amit-elor",
+    "name": "Amit Elor",
+    "sex": "F",
+    "height_cm": 170,
+    "weight_kg": 68,
+    "age": 20,
+    "games": "olympic",
+    "primarySport": "Wrestling",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Wrestling",
+        "event": "Women's freestyle 68 kg",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year (2004) and competition year (2024). Event and medal confirmed by multiple sources."
+  },
+  {
+    "id": "modern-ext-spencer-lee",
+    "name": "Spencer Lee",
+    "sex": "M",
+    "height_cm": 160,
+    "weight_kg": 57,
+    "age": 26,
+    "games": "olympic",
+    "primarySport": "Wrestling",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Wrestling",
+        "event": "Men's freestyle 57 kg",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year (1998) and competition year (2024). Event and medal confirmed by multiple sources."
+  },
+  {
+    "id": "modern-ext-kennedy-blades",
+    "name": "Kennedy Blades",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Wrestling",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Wrestling",
+        "event": "Women's 76kg",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age are null due to insufficient data across sources. Event and medal confirmed by multiple sources."
+  },
+  {
+    "id": "modern-ext-kristina-teachout",
+    "name": "Kristina Teachout",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 18,
+    "games": "olympic",
+    "primarySport": "Taekwondo",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Taekwondo",
+        "event": "Women's 67kg",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data not found. Age is consistent across sources."
+  },
+  {
+    "id": "modern-ext-lauren-scruggs",
+    "name": "Lauren Scruggs",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Fencing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Fencing",
+        "event": "Women's Individual Foil",
+        "medal": "Silver"
+      },
+      {
+        "year": 2024,
+        "sport": "Fencing",
+        "event": "Women's Team Foil",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year are not available from authoritative sources."
+  },
+  {
+    "id": "modern-ext-jacqueline-dubrovich",
+    "name": "Jacqueline Dubrovich",
+    "sex": "F",
+    "height_cm": 175,
+    "weight_kg": 68,
+    "age": 30,
+    "games": "olympic",
+    "primarySport": "Fencing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Fencing",
+        "event": "Women's Team Foil",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-maia-weintraub",
+    "name": "Maia Weintraub",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 22,
+    "games": "olympic",
+    "primarySport": "Fencing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Fencing",
+        "event": "Women's Team Foil",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are not available from authoritative sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-olivia-reeves",
+    "name": "Olivia Reeves",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": 71,
+    "age": 21,
+    "games": "olympic",
+    "primarySport": "Weightlifting",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Weightlifting",
+        "event": "Women's 71kg",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age and weight found. Height data not found."
+  },
+  {
+    "id": "modern-ext-hampton-morris",
+    "name": "Hampton Morris",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": 61,
+    "age": 20,
+    "games": "olympic",
+    "primarySport": "Weightlifting",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Weightlifting",
+        "event": "Men's 61kg",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age and weight found. Height data not found."
+  },
+  {
+    "id": "modern-ext-hezly-rivera",
+    "name": "Hezly Rivera",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Artistic Gymnastics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Artistic Gymnastics",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found."
+  },
+  {
+    "id": "modern-ext-stephen-nedoroscik",
+    "name": "Stephen Nedoroscik",
+    "sex": "M",
+    "height_cm": 165,
+    "weight_kg": null,
+    "age": 26,
+    "games": "olympic",
+    "primarySport": "Artistic Gymnastics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Artistic Gymnastics",
+        "event": "Men's Team",
+        "medal": "Bronze"
+      },
+      {
+        "year": 2024,
+        "sport": "Artistic Gymnastics",
+        "event": "Men's Pommel Horse",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 2
+    },
+    "_enrichmentNotes": "Height and age are consistent across sources. Weight data not found."
+  },
+  {
+    "id": "modern-ext-asher-hong",
+    "name": "Asher Hong",
+    "sex": "M",
+    "height_cm": 155,
+    "weight_kg": null,
+    "age": 20,
+    "games": "olympic",
+    "primarySport": "Artistic Gymnastics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Artistic Gymnastics",
+        "event": "Men's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and age are consistent across sources. Weight data not found."
+  },
+  {
+    "id": "modern-ext-paul-juda",
+    "name": "Paul Juda",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Artistic Gymnastics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Artistic Gymnastics",
+        "event": "Men's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found."
+  },
+  {
+    "id": "modern-ext-fred-richard",
+    "name": "Fred Richard",
+    "sex": "M",
+    "height_cm": 165,
+    "weight_kg": null,
+    "age": 20,
+    "games": "olympic",
+    "primarySport": "Artistic Gymnastics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Artistic Gymnastics",
+        "event": "Men's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and age are consistent across sources. Weight data not found."
+  },
+  {
+    "id": "modern-ext-yul-moldauer",
+    "name": "Yul Moldauer",
+    "sex": "M",
+    "height_cm": 160,
+    "weight_kg": null,
+    "age": 28,
+    "games": "olympic",
+    "primarySport": "Artistic Gymnastics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Artistic Gymnastics",
+        "event": "Men's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and age are consistent across sources. Weight data not found."
+  },
+  {
+    "id": "modern-ext-jaime-czarkowski",
+    "name": "Jaime Czarkowski",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 22,
+    "games": "olympic",
+    "primarySport": "Artistic Swimming",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Artistic Swimming",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not available across multiple sources. Age from Team USA website."
+  },
+  {
+    "id": "modern-ext-megumi-field",
+    "name": "Megumi Field",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 20,
+    "games": "olympic",
+    "primarySport": "Artistic Swimming",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Artistic Swimming",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not available across multiple sources. Age from Team USA website."
+  },
+  {
+    "id": "modern-ext-keana-hunter",
+    "name": "Keana Hunter",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 22,
+    "games": "olympic",
+    "primarySport": "Artistic Swimming",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Artistic Swimming",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not available across multiple sources. Age from Team USA website."
+  },
+  {
+    "id": "modern-ext-audrey-kwon",
+    "name": "Audrey Kwon",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 19,
+    "games": "olympic",
+    "primarySport": "Artistic Swimming",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Artistic Swimming",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not available across multiple sources. Age from Team USA website."
+  },
+  {
+    "id": "modern-ext-jacklyn-luu",
+    "name": "Jacklyn Luu",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Artistic Swimming",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Artistic Swimming",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not available across multiple sources."
+  },
+  {
+    "id": "modern-ext-daniella-ramirez",
+    "name": "Daniella Ramirez",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Artistic Swimming",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Artistic Swimming",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not available across multiple sources."
+  },
+  {
+    "id": "modern-ext-ruby-remati",
+    "name": "Ruby Remati",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Artistic Swimming",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Artistic Swimming",
+        "event": "Team silver-medal squad",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not available across multiple sources."
+  },
+  {
+    "id": "modern-ext-karl-cook",
+    "name": "Karl Cook",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 33,
+    "games": "olympic",
+    "primarySport": "Equestrianism",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Equestrianism",
+        "event": "Team Jumping",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age calculated from competition year (2024) and birth year (1985). Height and weight data not consistently available across sources."
+  },
+  {
+    "id": "modern-ext-seth-rider",
+    "name": "Seth Rider",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 27,
+    "games": "olympic",
+    "primarySport": "Triathlon",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Triathlon",
+        "event": "Mixed Relay",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not found across authoritative sources. Age at year is based on birth year from one source."
+  },
+  {
+    "id": "modern-ext-taylor-spivey",
+    "name": "Taylor Spivey",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 33,
+    "games": "olympic",
+    "primarySport": "Triathlon",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Triathlon",
+        "event": "Mixed Relay",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not found across authoritative sources. Age at year is based on birth year from one source."
+  },
+  {
+    "id": "modern-ext-morgan-pearson",
+    "name": "Morgan Pearson",
+    "sex": "M",
+    "height_cm": 180,
+    "weight_kg": null,
+    "age": 32,
+    "games": "olympic",
+    "primarySport": "Triathlon",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Triathlon",
+        "event": "Mixed Relay",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Weight data not found across authoritative sources. Height and age at year are based on birth year from one source."
+  },
+  {
+    "id": "modern-ext-kristen-faulkner",
+    "name": "Kristen Faulkner",
+    "sex": "F",
+    "height_cm": 168,
+    "weight_kg": 62,
+    "age": 32,
+    "games": "olympic",
+    "primarySport": "Cycling",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Cycling",
+        "event": "Women's Road Race",
+        "medal": "Gold"
+      },
+      {
+        "year": 2024,
+        "sport": "Cycling",
+        "event": "Women's Team Pursuit",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-haley-batten",
+    "name": "Haley Batten",
+    "sex": "F",
+    "height_cm": 173,
+    "weight_kg": 65,
+    "age": 26,
+    "games": "olympic",
+    "primarySport": "Cycling",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Cycling",
+        "event": "Women's Cross Country",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "modern-ext-brady-ellison",
+    "name": "Brady Ellison",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Archery",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Archery",
+        "event": "Men's Individual",
+        "medal": "Silver"
+      },
+      {
+        "year": 2024,
+        "sport": "Archery",
+        "event": "Mixed Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and age are null due to no data found."
+  },
+  {
+    "id": "modern-ext-casey-kaufhold",
+    "name": "Casey Kaufhold",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Archery",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Archery",
+        "event": "Mixed Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and age are null due to no data found."
+  },
+  {
+    "id": "modern-ext-sagen-maddalena",
+    "name": "Sagen Maddalena",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Shooting",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Shooting",
+        "event": "Women's 50m Smallbore Rifle",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found across sources."
+  },
+  {
+    "id": "modern-ext-conner-prince",
+    "name": "Conner Prince",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Shooting",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Shooting",
+        "event": "Men's Skeet",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found across sources."
+  },
+  {
+    "id": "modern-ext-austen-smith",
+    "name": "Austen Smith",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Shooting",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Shooting",
+        "event": "Women's Skeet",
+        "medal": "Bronze"
+      },
+      {
+        "year": 2024,
+        "sport": "Shooting",
+        "event": "Mixed Team Skeet",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found across sources."
+  },
+  {
+    "id": "modern-ext-scottie-scheffler",
+    "name": "Scottie Scheffler",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "olympic",
+    "primarySport": "Golf",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Golf",
+        "event": "Men's Individual Stroke Play",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data were not consistently available across authoritative sources."
+  }
+]

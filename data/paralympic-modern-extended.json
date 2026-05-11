@@ -1,0 +1,6752 @@
+[
+  {
+    "id": "para-modern-ext-amanda-everlove",
+    "name": "Amanda Everlove",
+    "sex": "F",
+    "height_cm": 163,
+    "weight_kg": 61,
+    "age": 18,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Swimming",
+        "event": "50m Freestyle S8",
+        "medal": "Silver"
+      },
+      {
+        "year": 2008,
+        "sport": "Para Swimming",
+        "event": "100m Butterfly S8",
+        "medal": "Silver"
+      },
+      {
+        "year": 2008,
+        "sport": "Para Swimming",
+        "event": "200m Individual Medley SM8",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 3,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight corroborated between Wikipedia, Team USA, and Alchetron. Birth year corroborated between Wikipedia and Team USA."
+  },
+  {
+    "id": "para-modern-ext-elizabeth-stone",
+    "name": "Elizabeth Stone",
+    "sex": "F",
+    "height_cm": 163,
+    "weight_kg": 57,
+    "age": 18,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Swimming",
+        "event": "100m Backstroke S9",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight corroborated between Wikipedia. Birth year corroborated between Wikipedia and Team USA."
+  },
+  {
+    "id": "para-modern-ext-michael-prout",
+    "name": "Michael Prout",
+    "sex": "M",
+    "height_cm": 163,
+    "weight_kg": null,
+    "age": 22,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Swimming",
+        "event": "4x100m Freestyle Relay 34pts",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height corroborated between Wikipedia and UMass Athletics. Weight data not found. Birth year corroborated between Wikipedia and UMass Athletics."
+  },
+  {
+    "id": "para-modern-ext-ashley-owens",
+    "name": "Ashley Owens",
+    "sex": "F",
+    "height_cm": 157,
+    "weight_kg": null,
+    "age": 19,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Swimming",
+        "event": "4x100m Freestyle Relay 34pts",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height corroborated between StarNow and Wikipedia. Weight data not found. Birth year corroborated by Wikipedia."
+  },
+  {
+    "id": "para-modern-ext-travis-mohr",
+    "name": "Travis Mohr",
+    "sex": "M",
+    "height_cm": 130,
+    "weight_kg": null,
+    "age": 27,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Swimming",
+        "event": "100m Breaststroke SB8",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height corroborated by Wikipedia. Weight data not found. Birth year corroborated by Wikipedia."
+  },
+  {
+    "id": "para-modern-ext-oz-sanchez",
+    "name": "Oz Sanchez",
+    "sex": "M",
+    "height_cm": 185,
+    "weight_kg": null,
+    "age": 33,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Cycling",
+        "event": "Men's Road Individual Time Trial HC C",
+        "medal": "Gold"
+      },
+      {
+        "year": 2008,
+        "sport": "Para Cycling",
+        "event": "Men's Road Individual Road Race HC C",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height from Team USA. Birth year from Wikipedia and Team USA. Weight not found across sources."
+  },
+  {
+    "id": "para-modern-ext-allison-jones",
+    "name": "Allison Jones",
+    "sex": "F",
+    "height_cm": 163,
+    "weight_kg": null,
+    "age": 24,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Cycling",
+        "event": "Women's Road Individual Time Trial LC3-4/CP3",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height from Team USA. Birth year from Wikipedia. Weight not found across sources."
+  },
+  {
+    "id": "para-modern-ext-karissa-whitsell",
+    "name": "Karissa Whitsell",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Cycling",
+        "event": "Women's Track Individual Time Trial B VI 1-3",
+        "medal": "Gold"
+      },
+      {
+        "year": 2008,
+        "sport": "Para Cycling",
+        "event": "Women's Road Individual Road Race B VI 1-3",
+        "medal": "Silver"
+      },
+      {
+        "year": 2008,
+        "sport": "Para Cycling",
+        "event": "Women's Track Individual Pursuit B VI 1-3",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year found across sources. Medals corroborated by multiple sources."
+  },
+  {
+    "id": "para-modern-ext-mackenzie-woodring",
+    "name": "Mackenzie Woodring",
+    "sex": "F",
+    "height_cm": 173,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Cycling",
+        "event": "Women's Track Individual Time Trial B VI 1-3",
+        "medal": "Gold"
+      },
+      {
+        "year": 2008,
+        "sport": "Para Cycling",
+        "event": "Women's Road Individual Road Race B VI 1-3",
+        "medal": "Silver"
+      },
+      {
+        "year": 2008,
+        "sport": "Para Cycling",
+        "event": "Women's Track Individual Pursuit B VI 1-3",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height from Team USA. No birth year or weight found across sources. Medals corroborated by multiple sources."
+  },
+  {
+    "id": "para-modern-ext-barbara-buchan",
+    "name": "Barbara Buchan",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Cycling",
+        "event": "Women's Track Individual Pursuit LC3-4/CP3",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year found across sources. Medal corroborated by multiple sources."
+  },
+  {
+    "id": "para-modern-ext-jeff-fabry",
+    "name": "Jeff Fabry",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Archery",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Archery",
+        "event": "Individual Compound W1 - Men",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data not found. Birth year not found, so age is null."
+  },
+  {
+    "id": "para-modern-ext-aaron-cross",
+    "name": "Aaron Cross",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 33,
+    "games": "paralympic",
+    "primarySport": "Para Archery",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Archery",
+        "event": "Men's Team Recurve Open",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data not found. Age calculated from birth year 1975."
+  },
+  {
+    "id": "para-modern-ext-laura-schwanger",
+    "name": "Laura Schwanger",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 50,
+    "games": "paralympic",
+    "primarySport": "Para Rowing",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Rowing",
+        "event": "Women's Single Sculls AW1x",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Birth year confirmed by multiple sources. Height and weight not found."
+  },
+  {
+    "id": "para-modern-ext-emma-preuschl",
+    "name": "Emma Preuschl",
+    "sex": "F",
+    "height_cm": 172,
+    "weight_kg": 68,
+    "age": 24,
+    "games": "paralympic",
+    "primarySport": "Para Rowing",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Rowing",
+        "event": "Mixed Coxed Four LTA",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "All fields corroborated by multiple sources."
+  },
+  {
+    "id": "para-modern-ext-tracy-tackett",
+    "name": "Tracy Tackett",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Rowing",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Rowing",
+        "event": "Mixed Coxed Four LTA",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Only medal and event corroborated. Other fields not found."
+  },
+  {
+    "id": "para-modern-ext-jesse-karmazin",
+    "name": "Jesse Karmazin",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Rowing",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Rowing",
+        "event": "Mixed Coxed Four LTA",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Only medal and event corroborated. Other fields not found."
+  },
+  {
+    "id": "para-modern-ext-jamie-dean",
+    "name": "Jamie Dean",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Rowing",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Rowing",
+        "event": "Mixed Coxed Four LTA",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Only medal and event corroborated. Other fields not found."
+  },
+  {
+    "id": "para-modern-ext-simona-chin",
+    "name": "Simona Chin",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Rowing",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Rowing",
+        "event": "Mixed Coxed Four LTA",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Only medal and event corroborated. Other fields not found."
+  },
+  {
+    "id": "para-modern-ext-marlon-lopez",
+    "name": "Marlon Lopez",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 33,
+    "games": "paralympic",
+    "primarySport": "Para Judo",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Judo",
+        "event": "Men's -60 kg",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Birth year confirmed by multiple sources. Height and weight data not found."
+  },
+  {
+    "id": "para-modern-ext-ron-hawthorne",
+    "name": "Ron Hawthorne",
+    "sex": "M",
+    "height_cm": 165,
+    "weight_kg": 60,
+    "age": 26,
+    "games": "paralympic",
+    "primarySport": "Para Judo",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Judo",
+        "event": "Men's -60 kg",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Birth year, height, and weight confirmed by multiple sources. Event and medal confirmed."
+  },
+  {
+    "id": "para-modern-ext-alana-nichols",
+    "name": "Alana Nichols",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 25,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age at year calculated from birth year 1983. Height and weight data not consistently available or specific to 2008 for corroboration."
+  },
+  {
+    "id": "para-modern-ext-sarah-castle",
+    "name": "Sarah Castle",
+    "sex": "F",
+    "height_cm": 157,
+    "weight_kg": null,
+    "age": 24,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age at year calculated from birth year 1984. Height is available. Weight data not consistently available or specific to 2008 for corroboration."
+  },
+  {
+    "id": "para-modern-ext-jeremy-lade",
+    "name": "Jeremy Lade",
+    "sex": "M",
+    "height_cm": 168,
+    "weight_kg": null,
+    "age": 27,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Men's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age at year calculated from birth year 1981. Height is available. Weight data not consistently available or specific to 2008 for corroboration."
+  },
+  {
+    "id": "para-modern-ext-jason-nelms",
+    "name": "Jason Nelms",
+    "sex": "M",
+    "height_cm": 165,
+    "weight_kg": null,
+    "age": 28,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Men's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age at year calculated from birth year 1980. Height is available. Weight data not consistently available or specific to 2008 for corroboration."
+  },
+  {
+    "id": "para-modern-ext-nick-taylor",
+    "name": "Nick Taylor",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 29,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Tennis",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Wheelchair Tennis",
+        "event": "Quad Doubles - Open",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Birth year from multiple sources. Height and weight not found."
+  },
+  {
+    "id": "para-modern-ext-david-wagner",
+    "name": "David Wagner",
+    "sex": "M",
+    "height_cm": 178,
+    "weight_kg": null,
+    "age": 34,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Tennis",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Wheelchair Tennis",
+        "event": "Quad Doubles - Open",
+        "medal": "Gold"
+      },
+      {
+        "year": 2008,
+        "sport": "Wheelchair Tennis",
+        "event": "Quad Singles - Open",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Birth year from multiple sources. Height found, weight not found."
+  },
+  {
+    "id": "para-modern-ext-allison-aldrich",
+    "name": "Allison Aldrich",
+    "sex": "F",
+    "height_cm": 178,
+    "weight_kg": null,
+    "age": 20,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Sitting Volleyball",
+        "event": "Women's Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and age corroborated across multiple sources."
+  },
+  {
+    "id": "para-modern-ext-alexandra-gouldie",
+    "name": "Alexandra Gouldie",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Sitting Volleyball",
+        "event": "Women's Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found."
+  },
+  {
+    "id": "para-modern-ext-katie-holloway",
+    "name": "Katie Holloway",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 22,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Sitting Volleyball",
+        "event": "Women's Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age corroborated. Height data varied by more than 3 cm across sources, so it is null."
+  },
+  {
+    "id": "para-modern-ext-sugui-kriss",
+    "name": "SuGui Kriss",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Sitting Volleyball",
+        "event": "Women's Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found."
+  },
+  {
+    "id": "para-modern-ext-kendra-lancaster",
+    "name": "Kendra Lancaster",
+    "sex": "F",
+    "height_cm": 170,
+    "weight_kg": null,
+    "age": 21,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Sitting Volleyball",
+        "event": "Women's Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and age corroborated across multiple sources."
+  },
+  {
+    "id": "para-modern-ext-hope-lewellen",
+    "name": "Hope Lewellen",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Sitting Volleyball",
+        "event": "Women's Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found."
+  },
+  {
+    "id": "para-modern-ext-brenda-maymon",
+    "name": "Brenda Maymon",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 23,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Sitting Volleyball",
+        "event": "Women's Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age corroborated. Height data varied by more than 3 cm across sources, so it is null."
+  },
+  {
+    "id": "para-modern-ext-gina-mcwilliams",
+    "name": "Gina McWilliams",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Sitting Volleyball",
+        "event": "Women's Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found."
+  },
+  {
+    "id": "para-modern-ext-nichole-millage",
+    "name": "Nichole Millage",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Sitting Volleyball",
+        "event": "Women's Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found."
+  },
+  {
+    "id": "para-modern-ext-kari-miller",
+    "name": "Kari Miller",
+    "sex": "F",
+    "height_cm": 168,
+    "weight_kg": null,
+    "age": 31,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Sitting Volleyball",
+        "event": "Women's Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and age corroborated across multiple sources."
+  },
+  {
+    "id": "para-modern-ext-jen-armbruster",
+    "name": "Jen Armbruster",
+    "sex": "F",
+    "height_cm": 173,
+    "weight_kg": null,
+    "age": 33,
+    "games": "paralympic",
+    "primarySport": "Goalball",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Goalball",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height from multiple sources. Weight not found. Birth year from multiple sources."
+  },
+  {
+    "id": "para-modern-ext-lisa-banta-czechowski",
+    "name": "Lisa Banta (Czechowski)",
+    "sex": "F",
+    "height_cm": 165,
+    "weight_kg": 91,
+    "age": 29,
+    "games": "paralympic",
+    "primarySport": "Goalball",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Goalball",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height from multiple sources. Weight from one source. Birth year from multiple sources."
+  },
+  {
+    "id": "para-modern-ext-asya-miller",
+    "name": "Asya Miller",
+    "sex": "F",
+    "height_cm": 168,
+    "weight_kg": null,
+    "age": 29,
+    "games": "paralympic",
+    "primarySport": "Goalball",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Goalball",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height from multiple sources. Weight not found. Birth year from multiple sources."
+  },
+  {
+    "id": "para-modern-ext-jessica-lorenz",
+    "name": "Jessica Lorenz",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Goalball",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Goalball",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year not found."
+  },
+  {
+    "id": "para-modern-ext-amanda-dennis",
+    "name": "Amanda Dennis",
+    "sex": "F",
+    "height_cm": 168,
+    "weight_kg": 61,
+    "age": 14,
+    "games": "paralympic",
+    "primarySport": "Goalball",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Goalball",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight from multiple sources. Birth year from multiple sources. Note: Another Amanda Dennis (soccer player) exists, but the information provided is for the goalball player. [7, 23, 24, 33, 38]"
+  },
+  {
+    "id": "para-modern-ext-dawn-wilson",
+    "name": "Dawn Wilson",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Goalball",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Goalball",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year not found."
+  },
+  {
+    "id": "para-modern-ext-shirley-reilly",
+    "name": "Shirley Reilly",
+    "sex": "F",
+    "height_cm": 152,
+    "weight_kg": 47,
+    "age": 27,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Athletics",
+        "event": "Marathon T54",
+        "medal": "Gold"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Athletics",
+        "event": "5000m T54",
+        "medal": "Silver"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Athletics",
+        "event": "1500m T54",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year 1985."
+  },
+  {
+    "id": "para-modern-ext-shaquille-vance",
+    "name": "Shaquille Vance",
+    "sex": "M",
+    "height_cm": 188,
+    "weight_kg": 84,
+    "age": 21,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Athletics",
+        "event": "200m T42",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year 1991."
+  },
+  {
+    "id": "para-modern-ext-megan-fisher",
+    "name": "Megan Fisher",
+    "sex": "F",
+    "height_cm": 163,
+    "weight_kg": 60,
+    "age": 29,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Cycling",
+        "event": "Road Time Trial C4",
+        "medal": "Gold"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Cycling",
+        "event": "Individual Pursuit C4",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight from Team USA and The Bowman Agency. Birth year from Wikipedia and Team USA. Age calculated as 2012 - 1983."
+  },
+  {
+    "id": "para-modern-ext-muffy-davis",
+    "name": "Muffy Davis",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 40,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Cycling",
+        "event": "Individual H1-2 Time Trial",
+        "medal": "Gold"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Cycling",
+        "event": "Individual H1-2 Road Race",
+        "medal": "Gold"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Cycling",
+        "event": "Mixed Team Relay H1-4",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 3,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not found. Birth year from Wikipedia. Age calculated as 2012 - 1972."
+  },
+  {
+    "id": "para-modern-ext-monica-bascio",
+    "name": "Monica Bascio",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 41,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Cycling",
+        "event": "Individual H3 Time Trial",
+        "medal": "Silver"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Cycling",
+        "event": "Individual H3 Road Race",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 2,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not found. Birth year from Wikipedia. Age calculated as 2012 - 1971."
+  },
+  {
+    "id": "para-modern-ext-joe-berenyi",
+    "name": "Joe Berenyi",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 44,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Cycling",
+        "event": "Individual Pursuit C3",
+        "medal": "Gold"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Cycling",
+        "event": "1km Time Trial C3",
+        "medal": "Bronze"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Cycling",
+        "event": "Individual C3 Time Trial",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data not found. Birth year from Wikipedia. Age calculated as 2012 - 1968."
+  },
+  {
+    "id": "para-modern-ext-matthew-bigos",
+    "name": "Matthew Bigos",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 30,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Cycling",
+        "event": "Mixed Team Relay H1-4",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not found. Birth year from Wikipedia. Age calculated as 2012 - 1982."
+  },
+  {
+    "id": "para-modern-ext-alfredo-de-los-santos",
+    "name": "Alfredo De Los Santos",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 34,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Cycling",
+        "event": "Individual H2 Time Trial",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data not found. Birth year from Wikipedia. Age calculated as 2012 - 1978."
+  },
+  {
+    "id": "para-modern-ext-jonathan-wentz",
+    "name": "Jonathan Wentz",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 21,
+    "games": "paralympic",
+    "primarySport": "Para Equestrian",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Equestrian",
+        "event": "Individual Championship Test - Grade Ib",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Age is derived from birth year and 2012. Height and weight data not found across sources."
+  },
+  {
+    "id": "para-modern-ext-rob-jones",
+    "name": "Rob Jones",
+    "sex": "M",
+    "height_cm": 180,
+    "weight_kg": null,
+    "age": 27,
+    "games": "paralympic",
+    "primarySport": "Para Rowing",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Rowing",
+        "event": "Trunk and Arms Mixed Double Sculls",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height is consistent across sources. Weight data is not available. Birth year is consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-myles-porter",
+    "name": "Myles Porter",
+    "sex": "M",
+    "height_cm": 188,
+    "weight_kg": 100,
+    "age": 26,
+    "games": "paralympic",
+    "primarySport": "Para Judo",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Judo",
+        "event": "Men's 100 kg",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent, leading to a consistent age at 2012. Medal and event are consistent."
+  },
+  {
+    "id": "para-modern-ext-trevon-jenifer",
+    "name": "Trevon Jenifer",
+    "sex": "M",
+    "height_cm": 91,
+    "weight_kg": null,
+    "age": 24,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Men's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height from multiple sources. Weight data not consistently available for wheelchair basketball athlete. Age calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-kelley-becherer",
+    "name": "Kelley Becherer",
+    "sex": "F",
+    "height_cm": 173,
+    "weight_kg": null,
+    "age": 18,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Swimming",
+        "event": "50m Freestyle S13",
+        "medal": "Gold"
+      },
+      {
+        "year": 2008,
+        "sport": "Para Swimming",
+        "event": "100m Freestyle S13",
+        "medal": "Bronze"
+      },
+      {
+        "year": 2008,
+        "sport": "Para Swimming",
+        "event": "400m Freestyle S13",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 2
+    },
+    "_enrichmentNotes": "Height and birth year are consistent across sources. Weight data is not available."
+  },
+  {
+    "id": "para-modern-ext-miranda-uhl",
+    "name": "Miranda Uhl",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Swimming",
+        "event": "200m Individual Medley SM6",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year data are not available."
+  },
+  {
+    "id": "para-modern-ext-roy-perkins",
+    "name": "Roy Perkins",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Swimming",
+        "event": "100m Freestyle S5",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year data are not available."
+  },
+  {
+    "id": "para-modern-ext-cheryl-angelelli",
+    "name": "Cheryl Angelelli",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Swimming",
+        "event": "100m Freestyle S2",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year data are not available."
+  },
+  {
+    "id": "para-modern-ext-aimee-bruder",
+    "name": "Aimee Bruder",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Swimming",
+        "event": "100m Freestyle S2",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year data are not available."
+  },
+  {
+    "id": "para-modern-ext-courtney-jordan",
+    "name": "Courtney Jordan",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Swimming",
+        "event": "200m Individual Medley SM7",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year data are not available."
+  },
+  {
+    "id": "para-modern-ext-jennifer-schuble",
+    "name": "Jennifer Schuble",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Cycling",
+        "event": "Individual Pursuit LC1-2/CP4",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year are not available."
+  },
+  {
+    "id": "para-modern-ext-sam-kavanagh",
+    "name": "Sam Kavanagh",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 29,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Cycling",
+        "event": "Mixed Team Sprint LC1-4 CP3/4",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight are not available. Birth year is consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-anthony-pedeferri",
+    "name": "Anthony Pedeferri",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Cycling",
+        "event": "Mixed Team Sprint LC1-4 CP3/4",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year are not available."
+  },
+  {
+    "id": "para-modern-ext-steven-wampler",
+    "name": "Steven Wampler",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Cycling",
+        "event": "Mixed Team Sprint LC1-4 CP3/4",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year are not available."
+  },
+  {
+    "id": "para-modern-ext-lindsey-carmichael",
+    "name": "Lindsey Carmichael",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Archery",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Archery",
+        "event": "Individual Recurve Standing Women",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No reliable height, weight, or birth year data found across sources."
+  },
+  {
+    "id": "para-modern-ext-ronald-hawthorne",
+    "name": "Ronald Hawthorne",
+    "sex": "M",
+    "height_cm": 165,
+    "weight_kg": 60,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Judo",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Judo",
+        "event": "Men's -60 kg",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Birth year not found. Height and weight found and consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-greg-dewall",
+    "name": "Greg DeWall",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Judo",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Para Judo",
+        "event": "Men's +100 kg",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year data not found."
+  },
+  {
+    "id": "para-modern-ext-scott-hogsett",
+    "name": "Scott Hogsett",
+    "sex": "M",
+    "height_cm": 185,
+    "weight_kg": null,
+    "age": 36,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height found in Wikipedia and Team USA. Weight not found. Birth year found in Wikipedia."
+  },
+  {
+    "id": "para-modern-ext-bryan-kirkland",
+    "name": "Bryan Kirkland",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year information found across sources."
+  },
+  {
+    "id": "para-modern-ext-norm-lyduch",
+    "name": "Norm Lyduch",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year information found across sources."
+  },
+  {
+    "id": "para-modern-ext-seth-mcbride",
+    "name": "Seth McBride",
+    "sex": "M",
+    "height_cm": 178,
+    "weight_kg": null,
+    "age": 25,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height found in Wikipedia. Weight not found. Birth year found in Wikipedia. Conflicting information for Seth McBride was found, but the one pertaining to the paralympic athlete was used."
+  },
+  {
+    "id": "para-modern-ext-joseph-palamara",
+    "name": "Joseph Palamara",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 45,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height or weight information found. Birth year found in Wikipedia. Conflicting information for Joseph Palamara was found, but the one pertaining to the paralympic athlete was used."
+  },
+  {
+    "id": "para-modern-ext-nick-springer",
+    "name": "Nick Springer",
+    "sex": "M",
+    "height_cm": 124,
+    "weight_kg": null,
+    "age": 23,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height found in Grokipedia. Weight not found. Birth year found in Wikipedia. Conflicting information for Nick Springer was found, but the one pertaining to the paralympic athlete was used."
+  },
+  {
+    "id": "para-modern-ext-chance-sumner",
+    "name": "Chance Sumner",
+    "sex": "M",
+    "height_cm": 196,
+    "weight_kg": null,
+    "age": 31,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height found in Wikipedia. Weight not found. Birth year found in Wikipedia. Conflicting information for Chance Sumner was found, but the one pertaining to the paralympic athlete was used."
+  },
+  {
+    "id": "para-modern-ext-joel-willette",
+    "name": "Joel Willette",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year information found across sources. Conflicting information for Joel Willette was found, but the one pertaining to the paralympic athlete was used."
+  },
+  {
+    "id": "para-modern-ext-mark-zupan",
+    "name": "Mark Zupan",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year information found across sources."
+  },
+  {
+    "id": "para-modern-ext-andy-cohn",
+    "name": "Andy Cohn",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year information found across sources. Conflicting information for Andy Cohn was found, but the one pertaining to the paralympic athlete was used."
+  },
+  {
+    "id": "para-modern-ext-jason-regier",
+    "name": "Jason Regier",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year information found across sources."
+  },
+  {
+    "id": "para-modern-ext-jennifer-armbruster",
+    "name": "Jennifer Armbruster",
+    "sex": "F",
+    "height_cm": 173,
+    "weight_kg": null,
+    "age": 33,
+    "games": "paralympic",
+    "primarySport": "Goalball",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Goalball",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height from Wikipedia and Team USA. Birth year from Wikipedia and Team USA. Weight not found."
+  },
+  {
+    "id": "para-modern-ext-robin-theryoung",
+    "name": "Robin Theryoung",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Goalball",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Goalball",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year found."
+  },
+  {
+    "id": "para-modern-ext-jessie-lorenz",
+    "name": "Jessie Lorenz",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Goalball",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Goalball",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year found."
+  },
+  {
+    "id": "para-modern-ext-jackie-barnes",
+    "name": "Jackie Barnes",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Goalball",
+    "events": [
+      {
+        "year": 2008,
+        "sport": "Goalball",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year found."
+  },
+  {
+    "id": "para-modern-ext-raymond-martin",
+    "name": "Raymond Martin",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 18,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Athletics",
+        "event": "100m T52",
+        "medal": "Gold"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Athletics",
+        "event": "200m T52",
+        "medal": "Gold"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Athletics",
+        "event": "400m T52",
+        "medal": "Gold"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Athletics",
+        "event": "800m T52",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 4,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not found. Age calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-jeremy-campbell",
+    "name": "Jeremy Campbell",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 25,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Athletics",
+        "event": "Discus Throw F44",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not found. Age calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-kerri-morgan",
+    "name": "Kerri Morgan",
+    "sex": "F",
+    "height_cm": 155,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Athletics",
+        "event": "100m T52",
+        "medal": "Bronze"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Athletics",
+        "event": "200m T52",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 2
+    },
+    "_enrichmentNotes": "Weight and birth year data not found. Height data is consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-angela-madsen",
+    "name": "Angela Madsen",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 52,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Athletics",
+        "event": "Shot Put F54-56",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data not found. Age calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-victoria-arlen",
+    "name": "Victoria Arlen",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 17,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Swimming",
+        "event": "100m Freestyle S8",
+        "medal": "Gold"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Swimming",
+        "event": "400m Freestyle S8",
+        "medal": "Silver"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Swimming",
+        "event": "4x100m Freestyle Relay 34pts",
+        "medal": "Silver"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Swimming",
+        "event": "4x100m Medley Relay 34pts",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 2,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data not found. Age at year calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-cortney-jordan",
+    "name": "Cortney Jordan",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 21,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Swimming",
+        "event": "50m Freestyle S7",
+        "medal": "Silver"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Swimming",
+        "event": "400m Freestyle S7",
+        "medal": "Silver"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Swimming",
+        "event": "100m Freestyle S7",
+        "medal": "Bronze"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Swimming",
+        "event": "100m Backstroke S7",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 2,
+      "bronze": 2
+    },
+    "_enrichmentNotes": "Height and weight data not found. Age at year calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-anna-eames",
+    "name": "Anna Eames",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 22,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Swimming",
+        "event": "4x100m Freestyle Relay 34pts",
+        "medal": "Silver"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Swimming",
+        "event": "4x100m Medley Relay 34pts",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data not found. Age at year calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-elizabeth-marks",
+    "name": "Elizabeth Marks",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 21,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Swimming",
+        "event": "100m Breaststroke SB7",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data not found. Age at year calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-rebecca-meyers",
+    "name": "Rebecca Meyers",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 17,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Swimming",
+        "event": "200m Individual Medley SM13",
+        "medal": "Silver"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Swimming",
+        "event": "100m Freestyle S13",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data not found. Age at year calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-bradley-snyder",
+    "name": "Bradley Snyder",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 28,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Swimming",
+        "event": "100m Freestyle S11",
+        "medal": "Gold"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Swimming",
+        "event": "400m Freestyle S11",
+        "medal": "Gold"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Swimming",
+        "event": "50m Freestyle S11",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not found. Age at year calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-ian-silverman",
+    "name": "Ian Silverman",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 17,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Swimming",
+        "event": "400m Freestyle S10",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not found. Age at year calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-evan-austin",
+    "name": "Evan Austin",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 20,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Swimming",
+        "event": "100m Butterfly S7",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data not found. Age at year calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-lantz-lamback",
+    "name": "Lantz Lamback",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 24,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Swimming",
+        "event": "4x100m Freestyle Relay 34pts",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data not found. Age at year calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-tucker-dupree",
+    "name": "Tucker Dupree",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 23,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Swimming",
+        "event": "100m Backstroke S12",
+        "medal": "Silver"
+      },
+      {
+        "year": 2012,
+        "sport": "Para Swimming",
+        "event": "4x100m Freestyle Relay 49pts",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data not found. Age at year calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-justin-zook",
+    "name": "Justin Zook",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 27,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Swimming",
+        "event": "100m Backstroke S10",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data not found. Age at year calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-dartanyon-crockett",
+    "name": "Dartanyon Crockett",
+    "sex": "M",
+    "height_cm": 173,
+    "weight_kg": 90,
+    "age": 21,
+    "games": "paralympic",
+    "primarySport": "Para Judo",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Para Judo",
+        "event": "-90 kg B3",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age is consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-paul-schulte",
+    "name": "Paul Schulte",
+    "sex": "M",
+    "height_cm": 183,
+    "weight_kg": null,
+    "age": 33,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Men's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height from Wikipedia and Team USA. Age calculated from birth year (1979) from Wikipedia. Weight not found."
+  },
+  {
+    "id": "para-modern-ext-brian-bell",
+    "name": "Brian Bell",
+    "sex": "M",
+    "height_cm": 185,
+    "weight_kg": null,
+    "age": 23,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Men's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height from Wikipedia and Team USA. Age calculated from birth year (1989) from Wikipedia. Weight not found."
+  },
+  {
+    "id": "para-modern-ext-joe-chambers",
+    "name": "Joe Chambers",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Men's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year found."
+  },
+  {
+    "id": "para-modern-ext-nate-hinze",
+    "name": "Nate Hinze",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Men's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year found."
+  },
+  {
+    "id": "para-modern-ext-ian-lynch",
+    "name": "Ian Lynch",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Men's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year found."
+  },
+  {
+    "id": "para-modern-ext-joshua-turek",
+    "name": "Joshua Turek",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Men's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year found."
+  },
+  {
+    "id": "para-modern-ext-william-waller",
+    "name": "William Waller",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Men's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year found."
+  },
+  {
+    "id": "para-modern-ext-eric-barber",
+    "name": "Eric Barber",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Men's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "No height, weight, or birth year found."
+  },
+  {
+    "id": "para-modern-ext-joe-delagrave",
+    "name": "Joe Delagrave",
+    "sex": "M",
+    "height_cm": 168,
+    "weight_kg": null,
+    "age": 27,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height is consistent across sources. Weight is not available. Birth year is consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-delvin-mcmillian",
+    "name": "Delvin McMillian",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year are not available from authoritative sources."
+  },
+  {
+    "id": "para-modern-ext-adam-scaturro",
+    "name": "Adam Scaturro",
+    "sex": "M",
+    "height_cm": 178,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height is consistent across sources. Weight and birth year are not available."
+  },
+  {
+    "id": "para-modern-ext-monique-burkland",
+    "name": "Monique Burkland",
+    "sex": "F",
+    "height_cm": 183,
+    "weight_kg": null,
+    "age": 23,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      {
+        "year": 2012,
+        "sport": "Sitting Volleyball",
+        "event": "Women's Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and birth year from Wikipedia and Team USA. Weight is not available from reliable sources."
+  },
+  {
+    "id": "para-modern-ext-roderick-townsend-roberts",
+    "name": "Roderick Townsend-Roberts",
+    "sex": "M",
+    "height_cm": 201,
+    "weight_kg": 95,
+    "age": 24,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Para Athletics",
+        "event": "Long jump T47",
+        "medal": "Gold"
+      },
+      {
+        "year": 2016,
+        "sport": "Para Athletics",
+        "event": "High jump T47",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-sam-grewe",
+    "name": "Sam Grewe",
+    "sex": "M",
+    "height_cm": 188,
+    "weight_kg": 77,
+    "age": 18,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Para Athletics",
+        "event": "High jump T42",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-chelsea-mcclammer",
+    "name": "Chelsea McClammer",
+    "sex": "F",
+    "height_cm": 165,
+    "weight_kg": 45,
+    "age": 22,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Para Athletics",
+        "event": "400m T53",
+        "medal": "Silver"
+      },
+      {
+        "year": 2016,
+        "sport": "Para Athletics",
+        "event": "5000m T54",
+        "medal": "Silver"
+      },
+      {
+        "year": 2016,
+        "sport": "Para Athletics",
+        "event": "1500m T54",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 2,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-scot-severn",
+    "name": "Scot Severn",
+    "sex": "M",
+    "height_cm": 188,
+    "weight_kg": null,
+    "age": 48,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Para Athletics",
+        "event": "Shot put F53",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is consistent across sources. Weight is not available. Age calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-cassie-mitchell",
+    "name": "Cassie Mitchell",
+    "sex": "F",
+    "height_cm": 168,
+    "weight_kg": 55,
+    "age": 35,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Para Athletics",
+        "event": "Discus F51/52",
+        "medal": "Silver"
+      },
+      {
+        "year": 2016,
+        "sport": "Para Athletics",
+        "event": "Club throw F51",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Age calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-michelle-konkoly",
+    "name": "Michelle Konkoly",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 24,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Para Swimming",
+        "event": "50m Freestyle S9",
+        "medal": "Gold"
+      },
+      {
+        "year": 2016,
+        "sport": "Para Swimming",
+        "event": "4x100m Freestyle Relay 34 Points",
+        "medal": "Gold"
+      },
+      {
+        "year": 2016,
+        "sport": "Para Swimming",
+        "event": "100m Freestyle S9",
+        "medal": "Silver"
+      },
+      {
+        "year": 2016,
+        "sport": "Para Swimming",
+        "event": "4x100m Medley Relay 34 Points",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 1,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data were not consistently available across sources. Age calculated from birth year (1992)."
+  },
+  {
+    "id": "para-modern-ext-sophia-herzog",
+    "name": "Sophia Herzog",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Para Swimming",
+        "event": "100m Breaststroke SB6",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year data were not consistently available across sources."
+  },
+  {
+    "id": "para-modern-ext-colleen-young",
+    "name": "Colleen Young",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Para Swimming",
+        "event": "100m Breaststroke SB13",
+        "medal": "Bronze"
+      },
+      {
+        "year": 2016,
+        "sport": "Para Swimming",
+        "event": "4x100m Medley Relay 34 Points",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 2
+    },
+    "_enrichmentNotes": "Height, weight, and birth year data were not consistently available across sources."
+  },
+  {
+    "id": "para-modern-ext-natalie-sims",
+    "name": "Natalie Sims",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Para Swimming",
+        "event": "4x100m Freestyle Relay 34 Points",
+        "medal": "Silver"
+      },
+      {
+        "year": 2016,
+        "sport": "Para Swimming",
+        "event": "4x100m Medley Relay 34 Points",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year data were not consistently available across sources."
+  },
+  {
+    "id": "para-modern-ext-dalton-herendeen",
+    "name": "Dalton Herendeen",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Para Swimming",
+        "event": "4x100m Freestyle Relay 34 Points",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year data were not consistently available across sources."
+  },
+  {
+    "id": "para-modern-ext-tharon-drake",
+    "name": "Tharon Drake",
+    "sex": "M",
+    "height_cm": 191,
+    "weight_kg": null,
+    "age": 24,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Para Swimming",
+        "event": "100m Breaststroke SB11",
+        "medal": "Silver"
+      },
+      {
+        "year": 2016,
+        "sport": "Para Swimming",
+        "event": "400m Freestyle S11",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 2,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Weight data was not consistently available across sources. Height is consistent. Age calculated from birth year (1992)."
+  },
+  {
+    "id": "para-modern-ext-jamie-whitmore",
+    "name": "Jamie Whitmore",
+    "sex": "F",
+    "height_cm": 165,
+    "weight_kg": 51,
+    "age": 40,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Para Cycling",
+        "event": "Road Race C1-3",
+        "medal": "Gold"
+      },
+      {
+        "year": 2016,
+        "sport": "Para Cycling",
+        "event": "Individual Pursuit C1-3",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "para-modern-ext-shawn-morelli",
+    "name": "Shawn Morelli",
+    "sex": "F",
+    "height_cm": 173,
+    "weight_kg": null,
+    "age": 40,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Para Cycling",
+        "event": "Individual Pursuit C4",
+        "medal": "Gold"
+      },
+      {
+        "year": 2016,
+        "sport": "Para Cycling",
+        "event": "Time Trial C4",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is consistent across sources. Weight is not available. Birth year is consistent."
+  },
+  {
+    "id": "para-modern-ext-jill-walsh",
+    "name": "Jill Walsh",
+    "sex": "F",
+    "height_cm": 168,
+    "weight_kg": null,
+    "age": 53,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Para Cycling",
+        "event": "Road Time Trial T1-2",
+        "medal": "Silver"
+      },
+      {
+        "year": 2016,
+        "sport": "Para Cycling",
+        "event": "Road Race T1-2",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 2,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is consistent across sources. Weight is not available. Birth year is consistent."
+  },
+  {
+    "id": "para-modern-ext-andre-shelby",
+    "name": "Andre Shelby",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 49,
+    "games": "paralympic",
+    "primarySport": "Para Archery",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Para Archery",
+        "event": "Men's individual compound open",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data for Andre Shelby are inconsistent across sources, leading to null values. Age is consistent."
+  },
+  {
+    "id": "para-modern-ext-danielle-hansen",
+    "name": "Danielle Hansen",
+    "sex": "F",
+    "height_cm": 185,
+    "weight_kg": 73,
+    "age": 23,
+    "games": "paralympic",
+    "primarySport": "Para Rowing",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Para Rowing",
+        "event": "Mixed Coxed Four (LTAMix4+)",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight corroborated between Wikipedia and Team USA. Birth year from Wikipedia and Grokipedia. Age calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-zachary-burns",
+    "name": "Zachary Burns",
+    "sex": "M",
+    "height_cm": 178,
+    "weight_kg": 68,
+    "age": 19,
+    "games": "paralympic",
+    "primarySport": "Para Rowing",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Para Rowing",
+        "event": "Mixed Coxed Four (LTAMix4+)",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight corroborated between Wikipedia and Team USA. Birth year from Wikipedia. Age calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-jaclyn-smith",
+    "name": "Jaclyn Smith",
+    "sex": "F",
+    "height_cm": 175,
+    "weight_kg": 68,
+    "age": 23,
+    "games": "paralympic",
+    "primarySport": "Para Rowing",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Para Rowing",
+        "event": "Mixed Coxed Four (LTAMix4+)",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight corroborated between Wikipedia and Team USA. Birth year from Wikipedia and World Rowing. Age calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-jenny-sichel",
+    "name": "Jenny Sichel",
+    "sex": "F",
+    "height_cm": 160,
+    "weight_kg": null,
+    "age": 28,
+    "games": "paralympic",
+    "primarySport": "Para Rowing",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Para Rowing",
+        "event": "Mixed Coxed Four (LTAMix4+)",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height corroborated between Team USA and Coxing Magazine. Weight data not consistently available across sources. Birth year from Wikipedia and World Rowing. Age calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-christella-garcia",
+    "name": "Christella Garcia",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Judo",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Para Judo",
+        "event": "Women's +70 kg",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Event and medal are corroborated across multiple sources. Height, weight, and age are not available from authoritative sources."
+  },
+  {
+    "id": "para-modern-ext-ryan-neiswender",
+    "name": "Ryan Neiswender",
+    "sex": "M",
+    "height_cm": 155,
+    "weight_kg": null,
+    "age": 22,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Men's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is consistently reported as 5'1\" (155 cm). Weight data not found. Age calculated from birth year 1994."
+  },
+  {
+    "id": "para-modern-ext-mackenzie-soldan",
+    "name": "Mackenzie Soldan",
+    "sex": "F",
+    "height_cm": 155,
+    "weight_kg": null,
+    "age": 24,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is consistently reported as 5'1\" (155 cm). Weight data not found. Age calculated from birth year 1992."
+  },
+  {
+    "id": "para-modern-ext-natalie-schneider",
+    "name": "Natalie Schneider",
+    "sex": "F",
+    "height_cm": 175,
+    "weight_kg": null,
+    "age": 33,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is consistently reported as 5'9\" (175 cm). Weight data not found. Age calculated from birth year 1983."
+  },
+  {
+    "id": "para-modern-ext-desiree-miller",
+    "name": "Desiree Miller",
+    "sex": "F",
+    "height_cm": 163,
+    "weight_kg": null,
+    "age": 29,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is consistently reported as 5'4\" (163 cm). Weight data not found. Age calculated from birth year 1987."
+  },
+  {
+    "id": "para-modern-ext-chad-cohn",
+    "name": "Chad Cohn",
+    "sex": "M",
+    "height_cm": 178,
+    "weight_kg": null,
+    "age": 33,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height from multiple sources, weight not found. Birth year from multiple sources."
+  },
+  {
+    "id": "para-modern-ext-lee-fredette",
+    "name": "Lee Fredette",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year found."
+  },
+  {
+    "id": "para-modern-ext-josh-wheeler",
+    "name": "Josh Wheeler",
+    "sex": "M",
+    "height_cm": 185,
+    "weight_kg": null,
+    "age": 36,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height from one source, weight not found. Birth year from multiple sources."
+  },
+  {
+    "id": "para-modern-ext-jeff-butler",
+    "name": "Jeff Butler",
+    "sex": "M",
+    "height_cm": 175,
+    "weight_kg": null,
+    "age": 25,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height from multiple sources, weight not found. Birth year from multiple sources."
+  },
+  {
+    "id": "para-modern-ext-jacob-heilveil",
+    "name": "Jacob Heilveil",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 46,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height or weight found. Birth year from multiple sources."
+  },
+  {
+    "id": "para-modern-ext-monique-matthews",
+    "name": "Monique Matthews",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Sitting Volleyball",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year not found across sources."
+  },
+  {
+    "id": "para-modern-ext-tia-edwards",
+    "name": "Tia Edwards",
+    "sex": "F",
+    "height_cm": 168,
+    "weight_kg": null,
+    "age": 21,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Sitting Volleyball",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is consistent across sources. Weight not found. Age calculated from birth year (1995)."
+  },
+  {
+    "id": "para-modern-ext-kaleo-kanahele-maclay",
+    "name": "Kaleo Kanahele Maclay",
+    "sex": "F",
+    "height_cm": 170,
+    "weight_kg": null,
+    "age": 20,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Sitting Volleyball",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is consistent across sources. Weight not found. Age calculated from birth year (1996)."
+  },
+  {
+    "id": "para-modern-ext-nicky-nieves",
+    "name": "Nicky Nieves",
+    "sex": "F",
+    "height_cm": 178,
+    "weight_kg": null,
+    "age": 27,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Sitting Volleyball",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is consistent across sources. Weight not found. Age calculated from birth year (1989)."
+  },
+  {
+    "id": "para-modern-ext-michelle-schiffler",
+    "name": "Michelle Schiffler",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Sitting Volleyball",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year not found across sources."
+  },
+  {
+    "id": "para-modern-ext-alexis-shifflett",
+    "name": "Alexis Shifflett",
+    "sex": "F",
+    "height_cm": 163,
+    "weight_kg": null,
+    "age": 20,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Sitting Volleyball",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is consistent across sources. Weight not found. Age calculated from birth year (1996)."
+  },
+  {
+    "id": "para-modern-ext-bethany-zummo",
+    "name": "Bethany Zummo",
+    "sex": "F",
+    "height_cm": 160,
+    "weight_kg": null,
+    "age": 23,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Sitting Volleyball",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is consistent across sources. Weight not found. Age calculated from birth year (1993)."
+  },
+  {
+    "id": "para-modern-ext-tyler-merren",
+    "name": "Tyler Merren",
+    "sex": "M",
+    "height_cm": 183,
+    "weight_kg": 88,
+    "age": 32,
+    "games": "paralympic",
+    "primarySport": "Goalball",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Goalball",
+        "event": "Men's Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight corroborated by multiple sources. Age calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-joseph-hamilton",
+    "name": "Joseph Hamilton",
+    "sex": "M",
+    "height_cm": 193,
+    "weight_kg": 106,
+    "age": 38,
+    "games": "paralympic",
+    "primarySport": "Goalball",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Goalball",
+        "event": "Men's Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight corroborated by multiple sources. Age calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-matt-simpson",
+    "name": "Matt Simpson",
+    "sex": "M",
+    "height_cm": 178,
+    "weight_kg": null,
+    "age": 26,
+    "games": "paralympic",
+    "primarySport": "Goalball",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Goalball",
+        "event": "Men's Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height corroborated by multiple sources. Weight data not consistently available across sources. Age calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-andy-jenks",
+    "name": "Andy Jenks",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Goalball",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Goalball",
+        "event": "Men's Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year data not consistently available across sources."
+  },
+  {
+    "id": "para-modern-ext-john-kusku",
+    "name": "John Kusku",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Goalball",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Goalball",
+        "event": "Men's Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year data not consistently available across sources."
+  },
+  {
+    "id": "para-modern-ext-daryl-walker",
+    "name": "Daryl Walker",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Goalball",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Goalball",
+        "event": "Men's Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year data not consistently available across sources."
+  },
+  {
+    "id": "para-modern-ext-marybai-huking",
+    "name": "Marybai Huking",
+    "sex": "F",
+    "height_cm": 155,
+    "weight_kg": 56,
+    "age": 19,
+    "games": "paralympic",
+    "primarySport": "Goalball",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Goalball",
+        "event": "Women's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight corroborated by multiple sources. Age calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-eliana-mason",
+    "name": "Eliana Mason",
+    "sex": "F",
+    "height_cm": 168,
+    "weight_kg": 68,
+    "age": 21,
+    "games": "paralympic",
+    "primarySport": "Goalball",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Goalball",
+        "event": "Women's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight corroborated by multiple sources. Age calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-jenna-gray",
+    "name": "Jenna Gray",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Goalball",
+    "events": [
+      {
+        "year": 2016,
+        "sport": "Goalball",
+        "event": "Women's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year data not consistently available across sources."
+  },
+  {
+    "id": "para-modern-ext-nick-mayhugh",
+    "name": "Nick Mayhugh",
+    "sex": "M",
+    "height_cm": 175,
+    "weight_kg": 68,
+    "age": 25,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "100m T37",
+        "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "200m T37",
+        "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "400m T37",
+        "medal": "Silver"
+      },
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "4x100m Universal Relay",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 3,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year are consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-brittney-reese",
+    "name": "Brittney Reese",
+    "sex": "F",
+    "height_cm": 173,
+    "weight_kg": 65,
+    "age": 34,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "Long Jump T64",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year are consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-jaleen-roberts",
+    "name": "Jaleen Roberts",
+    "sex": "F",
+    "height_cm": 160,
+    "weight_kg": 54,
+    "age": 23,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "100m T37",
+        "medal": "Silver"
+      },
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "Long Jump T37",
+        "medal": "Silver"
+      },
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "4x100m Universal Relay",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 2,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year are consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-noah-scherer",
+    "name": "Noah Scherer",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "4x100m Universal Relay",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year data not consistently available across sources."
+  },
+  {
+    "id": "para-modern-ext-jerome-avery",
+    "name": "Jerome Avery",
+    "sex": "M",
+    "height_cm": 178,
+    "weight_kg": 75,
+    "age": 41,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "100m T11",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year are consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-kym-crosby",
+    "name": "Kym Crosby",
+    "sex": "F",
+    "height_cm": 160,
+    "weight_kg": 54,
+    "age": 27,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "100m T13",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year are consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-liza-corso",
+    "name": "Liza Corso",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 17,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "1500m T13",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not consistently available across sources. Birth year is consistent."
+  },
+  {
+    "id": "para-modern-ext-breanna-clark",
+    "name": "Breanna Clark",
+    "sex": "F",
+    "height_cm": 170,
+    "weight_kg": 61,
+    "age": 26,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "400m T20",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year are consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-alexa-halko",
+    "name": "Alexa Halko",
+    "sex": "F",
+    "height_cm": 152,
+    "weight_kg": 45,
+    "age": 20,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "800m T34",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year are consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-yen-hoang",
+    "name": "Yen Hoang",
+    "sex": "F",
+    "height_cm": 147,
+    "weight_kg": 43,
+    "age": 24,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "Women's 5000m T54",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year are consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-gianfranco-iannotta",
+    "name": "Gianfranco Iannotta",
+    "sex": "M",
+    "height_cm": 165,
+    "weight_kg": 60,
+    "age": 36,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "100m T52",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year are consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-brian-siemann",
+    "name": "Brian Siemann",
+    "sex": "M",
+    "height_cm": 170,
+    "weight_kg": 68,
+    "age": 31,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "4x100m Universal Relay",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year are consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-eva-casanueva",
+    "name": "Eva Casanueva",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 35,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "4x100m Universal Relay",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not consistently available across sources. Birth year is consistent."
+  },
+  {
+    "id": "para-modern-ext-jessica-heims",
+    "name": "Jessica Heims",
+    "sex": "F",
+    "height_cm": 175,
+    "weight_kg": 68,
+    "age": 21,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "Discus Throw F64",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year are consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-sydney-barta",
+    "name": "Sydney Barta",
+    "sex": "F",
+    "height_cm": 165,
+    "weight_kg": 59,
+    "age": 17,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "4x100m Universal Relay",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and birth year are consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-tobi-fawehinmi",
+    "name": "Tobi Fawehinmi",
+    "sex": "M",
+    "height_cm": 180,
+    "weight_kg": 77,
+    "age": 26,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "Long Jump T47",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year are consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-justin-phongsavanh",
+    "name": "Justin Phongsavanh",
+    "sex": "M",
+    "height_cm": 178,
+    "weight_kg": 77,
+    "age": 23,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "Javelin Throw F54",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year are consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-trenten-merrill",
+    "name": "Trenten Merrill",
+    "sex": "M",
+    "height_cm": 180,
+    "weight_kg": 75,
+    "age": 30,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "Long Jump T64",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year are consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-isaac-jean-paul",
+    "name": "Isaac Jean-Paul",
+    "sex": "M",
+    "height_cm": 188,
+    "weight_kg": 86,
+    "age": 27,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "Long Jump T13",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year are consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-deja-young",
+    "name": "Deja Young",
+    "sex": "F",
+    "height_cm": 160,
+    "weight_kg": 59,
+    "age": 24,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Athletics",
+        "event": "100m T47",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and birth year are consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-alyssa-gialamas",
+    "name": "Alyssa Gialamas",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Swimming",
+        "event": "4x100m Freestyle Relay 34pts",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found across sources."
+  },
+  {
+    "id": "para-modern-ext-matthew-torres",
+    "name": "Matthew Torres",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Swimming",
+        "event": "400m Freestyle S8",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found across sources."
+  },
+  {
+    "id": "para-modern-ext-jamal-hill",
+    "name": "Jamal Hill",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Swimming",
+        "event": "50m Freestyle S10",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found across sources."
+  },
+  {
+    "id": "para-modern-ext-noah-jaffe",
+    "name": "Noah Jaffe",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 17,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Swimming",
+        "event": "4x100m Freestyle Relay 34pts",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not found across sources. Age is consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-parker-egbert",
+    "name": "Parker Egbert",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Swimming",
+        "event": "4x100m Freestyle Relay 34pts",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found across sources."
+  },
+  {
+    "id": "para-modern-ext-david-gelfand",
+    "name": "David Gelfand",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Swimming",
+        "event": "4x100m Freestyle Relay 34pts",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found across sources."
+  },
+  {
+    "id": "para-modern-ext-morgan-stickney",
+    "name": "Morgan Stickney",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 23,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Swimming",
+        "event": "400m Freestyle S8",
+        "medal": "Gold"
+      },
+      {
+        "year": 2020,
+        "sport": "Para Swimming",
+        "event": "4x100m Medley Relay 34pts",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not found across sources. Age is consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-christie-raleigh-crossley",
+    "name": "Christie Raleigh-Crossley",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 33,
+    "games": "paralympic",
+    "primarySport": "Para Swimming",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Swimming",
+        "event": "4x100m Medley Relay 34pts",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not found across sources. Age is consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-aaron-keith",
+    "name": "Aaron Keith",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 49,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Cycling",
+        "event": "Men's C1 Time Trial",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not found across sources. Birth year is consistent."
+  },
+  {
+    "id": "para-modern-ext-clara-brown",
+    "name": "Clara Brown",
+    "sex": "F",
+    "height_cm": 160,
+    "weight_kg": 54,
+    "age": 25,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Cycling",
+        "event": "Women's C1-3 500m Time Trial",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent."
+  },
+  {
+    "id": "para-modern-ext-samantha-bosco",
+    "name": "Samantha Bosco",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 34,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Cycling",
+        "event": "Women's C4-5 Road Race",
+        "medal": "Bronze"
+      },
+      {
+        "year": 2020,
+        "sport": "Para Cycling",
+        "event": "Women's C5 Individual Pursuit",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 2
+    },
+    "_enrichmentNotes": "Height and weight data not found across sources. Birth year is consistent."
+  },
+  {
+    "id": "para-modern-ext-alicia-dana",
+    "name": "Alicia Dana",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 51,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Cycling",
+        "event": "Women's H1-4 Road Race",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not found across sources. Birth year is consistent."
+  },
+  {
+    "id": "para-modern-ext-rebecca-hart",
+    "name": "Rebecca Hart",
+    "sex": "F",
+    "height_cm": 165,
+    "weight_kg": null,
+    "age": 36,
+    "games": "paralympic",
+    "primarySport": "Para Equestrian",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Equestrian",
+        "event": "Team - Open",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height from Team USA. Birth year from multiple sources. Weight not found. Note: Another Rebecca Hart (an actress) has height/weight data, but is clearly not the same person."
+  },
+  {
+    "id": "para-modern-ext-kate-shoemaker",
+    "name": "Kate Shoemaker",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 33,
+    "games": "paralympic",
+    "primarySport": "Para Equestrian",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Equestrian",
+        "event": "Team - Open",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight not found. Birth year from multiple sources. Note: Another Kate Shoemaker (a high school athlete) has stats, but is clearly not the same person."
+  },
+  {
+    "id": "para-modern-ext-kevin-mather",
+    "name": "Kevin Mather",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 38,
+    "games": "paralympic",
+    "primarySport": "Para Archery",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Archery",
+        "event": "Individual Recurve Open - Men",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not found. Birth year found from multiple sources."
+  },
+  {
+    "id": "para-modern-ext-ian-seidenfeld",
+    "name": "Ian Seidenfeld",
+    "sex": "M",
+    "height_cm": 122,
+    "weight_kg": null,
+    "age": 19,
+    "games": "paralympic",
+    "primarySport": "Para Table Tennis",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Table Tennis",
+        "event": "Men's Singles C6",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is consistently reported as 4 feet (122 cm). Birth year is consistently reported as 2001. Weight is not available from authoritative sources."
+  },
+  {
+    "id": "para-modern-ext-jenson-van-emburgh",
+    "name": "Jenson Van Emburgh",
+    "sex": "M",
+    "height_cm": 175,
+    "weight_kg": null,
+    "age": 20,
+    "games": "paralympic",
+    "primarySport": "Para Table Tennis",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Table Tennis",
+        "event": "Men's Singles C3",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height is consistently reported as 5'9\" (175 cm). Birth year is consistently reported as 2000. Weight is not available from authoritative sources."
+  },
+  {
+    "id": "para-modern-ext-charley-nordin",
+    "name": "Charley Nordin",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Rowing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Rowing",
+        "event": "PR3 Mixed Coxed Four",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No reliable height, weight, or birth year data found."
+  },
+  {
+    "id": "para-modern-ext-john-tanguay",
+    "name": "John Tanguay",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Rowing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Rowing",
+        "event": "PR3 Mixed Coxed Four",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No reliable height, weight, or birth year data found."
+  },
+  {
+    "id": "para-modern-ext-allie-reilly",
+    "name": "Allie Reilly",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Rowing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Rowing",
+        "event": "PR3 Mixed Coxed Four",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No reliable height, weight, or birth year data found."
+  },
+  {
+    "id": "para-modern-ext-karen-petrik",
+    "name": "Karen Petrik",
+    "sex": "F",
+    "height_cm": 155,
+    "weight_kg": 50,
+    "age": 23,
+    "games": "paralympic",
+    "primarySport": "Para Rowing",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Rowing",
+        "event": "PR3 Mixed Coxed Four",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight are consistent across sources. Birth year is consistent, allowing for age calculation."
+  },
+  {
+    "id": "para-modern-ext-blake-haxton",
+    "name": "Blake Haxton",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 30,
+    "games": "paralympic",
+    "primarySport": "Para Canoe",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Canoe",
+        "event": "Men's Va'a Single 200m - VL2",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not found. Birth year found on multiple sources."
+  },
+  {
+    "id": "para-modern-ext-evan-medell",
+    "name": "Evan Medell",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": 80,
+    "age": 23,
+    "games": "paralympic",
+    "primarySport": "Para Taekwondo",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Taekwondo",
+        "event": "Men's +75kg K44",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height data is inconsistent across sources. Weight and birth year are consistent."
+  },
+  {
+    "id": "para-modern-ext-benjamin-goodrich",
+    "name": "Benjamin Goodrich",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 28,
+    "games": "paralympic",
+    "primarySport": "Para Judo",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Para Judo",
+        "event": "Men's 100kg",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height and weight data not found across multiple authoritative sources. Age calculated from birth year mentioned in one source."
+  },
+  {
+    "id": "para-modern-ext-josie-aslakson",
+    "name": "Josie Aslakson",
+    "sex": "F",
+    "height_cm": 163,
+    "weight_kg": null,
+    "age": 25,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Women's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height is consistently reported. Weight data not found. Age calculated from birth year 1995."
+  },
+  {
+    "id": "para-modern-ext-ixhelt-gonzalez",
+    "name": "Ixhelt Gonzalez",
+    "sex": "F",
+    "height_cm": 157,
+    "weight_kg": null,
+    "age": 16,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Women's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height is consistently reported. Weight data not found. Age calculated from birth year 2004."
+  },
+  {
+    "id": "para-modern-ext-lindsey-zurbrugg",
+    "name": "Lindsey Zurbrugg",
+    "sex": "F",
+    "height_cm": 163,
+    "weight_kg": null,
+    "age": 22,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Women's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height is consistently reported. Weight data not found. Age calculated from birth year 1998."
+  },
+  {
+    "id": "para-modern-ext-darlene-hunter",
+    "name": "Darlene Hunter",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 39,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Women's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data not found. Age calculated from birth year 1981."
+  },
+  {
+    "id": "para-modern-ext-bailey-moody",
+    "name": "Bailey Moody",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 19,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Women's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data not found. Age calculated from birth year 2001."
+  },
+  {
+    "id": "para-modern-ext-courtney-ryan",
+    "name": "Courtney Ryan",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Women's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found."
+  },
+  {
+    "id": "para-modern-ext-abby-bauleke",
+    "name": "Abby Bauleke",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 19,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Women's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data not found. Age calculated from birth year 2001."
+  },
+  {
+    "id": "para-modern-ext-kaitlyn-eaton",
+    "name": "Kaitlyn Eaton",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Women's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found."
+  },
+  {
+    "id": "para-modern-ext-alejandra-ibanez",
+    "name": "Alejandra Ibanez",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 20,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Women's Team",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight data not found. Age calculated from birth year 2000."
+  },
+  {
+    "id": "para-modern-ext-jacob-williams",
+    "name": "Jacob Williams",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Men's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found."
+  },
+  {
+    "id": "para-modern-ext-jorge-salazar",
+    "name": "Jorge Salazar",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Men's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found."
+  },
+  {
+    "id": "para-modern-ext-fabian-romo",
+    "name": "Fabian Romo",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Men's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found."
+  },
+  {
+    "id": "para-modern-ext-paul-roman",
+    "name": "Paul Roman",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Men's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found."
+  },
+  {
+    "id": "para-modern-ext-josh-turek",
+    "name": "Josh Turek",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Men's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found."
+  },
+  {
+    "id": "para-modern-ext-john-boie",
+    "name": "John Boie",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Men's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found."
+  },
+  {
+    "id": "para-modern-ext-jeromie-meyer",
+    "name": "Jeromie Meyer",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Men's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found."
+  },
+  {
+    "id": "para-modern-ext-aj-fitzpatrick",
+    "name": "AJ Fitzpatrick",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Men's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age data not found."
+  },
+  {
+    "id": "para-modern-ext-ray-hennagir",
+    "name": "Ray Hennagir",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age are null due to no reliable data."
+  },
+  {
+    "id": "para-modern-ext-joe-jackson",
+    "name": "Joe Jackson",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age are null due to conflicting sources for different individuals named Joe Jackson and no specific data for the wheelchair rugby player."
+  },
+  {
+    "id": "para-modern-ext-derrick-helton",
+    "name": "Derrick Helton",
+    "sex": "M",
+    "height_cm": 173,
+    "weight_kg": null,
+    "age": 35,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height from Wikipedia and Team USA. Weight is null due to conflicting sources for different individuals named Derrick Helton. Birth year from Wikipedia. Age calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-kory-puderbaugh",
+    "name": "Kory Puderbaugh",
+    "sex": "M",
+    "height_cm": 124,
+    "weight_kg": null,
+    "age": 24,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height from Team USA. Weight is null due to no reliable data. Birth year from Amplitude Magazine and KIVI website. Age calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-mason-symons",
+    "name": "Mason Symons",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": 91,
+    "age": 31,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is null due to no reliable data. Weight from YouTube. Birth year from Wikipedia. Age calculated from birth year."
+  },
+  {
+    "id": "para-modern-ext-ernie-schiefler",
+    "name": "Ernie Schiefler",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age are null due to no reliable data."
+  },
+  {
+    "id": "para-modern-ext-dana-mathewson",
+    "name": "Dana Mathewson",
+    "sex": "F",
+    "height_cm": 168,
+    "weight_kg": null,
+    "age": 30,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Tennis",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Tennis",
+        "event": "Women's Doubles",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height from Team USA. Birth year from Wikipedia and ITF. Weight not found."
+  },
+  {
+    "id": "para-modern-ext-bryan-barten",
+    "name": "Bryan Barten",
+    "sex": "M",
+    "height_cm": 183,
+    "weight_kg": null,
+    "age": 47,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Tennis",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Wheelchair Tennis",
+        "event": "Quad Doubles",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height from Team USA. Birth year from Wikipedia and ITF. Weight not found."
+  },
+  {
+    "id": "para-modern-ext-jillian-williams",
+    "name": "Jillian Williams",
+    "sex": "F",
+    "height_cm": 178,
+    "weight_kg": null,
+    "age": 23,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Sitting Volleyball",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is consistent across sources. Weight data is not available. Age calculated from birth year 1997."
+  },
+  {
+    "id": "para-modern-ext-sydney-satchell",
+    "name": "Sydney Satchell",
+    "sex": "F",
+    "height_cm": 157,
+    "weight_kg": null,
+    "age": 28,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Sitting Volleyball",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height is consistent across sources. Weight data is not available. Age calculated from birth year 1992."
+  },
+  {
+    "id": "para-modern-ext-mindy-cook",
+    "name": "Mindy Cook",
+    "sex": "F",
+    "height_cm": 163,
+    "weight_kg": null,
+    "age": 32,
+    "games": "paralympic",
+    "primarySport": "Goalball",
+    "events": [
+      {
+        "year": 2020,
+        "sport": "Goalball",
+        "event": "Women's Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height from multiple sources. Weight data not found or inconsistent. Birth year consistent across sources."
+  },
+  {
+    "id": "para-modern-ext-jaydin-blackwell",
+    "name": "Jaydin Blackwell",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Athletics",
+        "event": "100m T38",
+        "medal": "Gold"
+      },
+      {
+        "year": 2024,
+        "sport": "Para Athletics",
+        "event": "400m T38",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or age data found across sources."
+  },
+  {
+    "id": "para-modern-ext-noelle-malkamaki",
+    "name": "Noelle Malkamaki",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Athletics",
+        "event": "Shot Put F46",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or age data found across sources."
+  },
+  {
+    "id": "para-modern-ext-taylor-swanson",
+    "name": "Taylor Swanson",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Athletics",
+        "event": "100m T37",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or age data found across sources."
+  },
+  {
+    "id": "para-modern-ext-korban-best",
+    "name": "Korban Best",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Athletics",
+        "event": "100m T47",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or age data found across sources."
+  },
+  {
+    "id": "para-modern-ext-derek-loccident",
+    "name": "Derek Loccident",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Athletics",
+        "event": "High Jump T64",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or age data found across sources."
+  },
+  {
+    "id": "para-modern-ext-arelle-middleton",
+    "name": "Arelle Middleton",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Athletics",
+        "event": "Shot Put F64",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or age data found across sources."
+  },
+  {
+    "id": "para-modern-ext-michael-brannigan",
+    "name": "Michael Brannigan",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Athletics",
+        "event": "1500m T20",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or age data found across sources."
+  },
+  {
+    "id": "para-modern-ext-eva-houston",
+    "name": "Eva Houston",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Athletics",
+        "event": "800m T34",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or age data found across sources."
+  },
+  {
+    "id": "para-modern-ext-david-blair",
+    "name": "David Blair",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Athletics",
+        "event": "Discus Throw F64",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or age data found across sources."
+  },
+  {
+    "id": "para-modern-ext-beatriz-hatz",
+    "name": "Beatriz Hatz",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Athletics",
+        "event": "Long Jump T64",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or age data found across sources."
+  },
+  {
+    "id": "para-modern-ext-brittni-mason",
+    "name": "Brittni Mason",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Athletics",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Athletics",
+        "event": "200m T64",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or age data found across sources."
+  },
+  {
+    "id": "para-modern-ext-kate-brim",
+    "name": "Kate Brim",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Cycling",
+        "event": "Women's Time Trial WH1-3",
+        "medal": "Gold"
+      },
+      {
+        "year": 2024,
+        "sport": "Para Cycling",
+        "event": "Mixed Relay H1-5",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and age are not available from authoritative sources."
+  },
+  {
+    "id": "para-modern-ext-elouan-gardon",
+    "name": "Elouan Gardon",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 18,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Cycling",
+        "event": "Men's 4000m Individual Pursuit MC5",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height and weight are not available from authoritative sources."
+  },
+  {
+    "id": "para-modern-ext-dennis-connors",
+    "name": "Dennis Connors",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Cycling",
+        "event": "Men's Road Race T1-2",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age are not available from authoritative sources."
+  },
+  {
+    "id": "para-modern-ext-travis-gaertner",
+    "name": "Travis Gaertner",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Cycling",
+        "event": "Mixed Relay H1-5",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and age are not available from authoritative sources."
+  },
+  {
+    "id": "para-modern-ext-matt-tingley",
+    "name": "Matt Tingley",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Cycling",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Cycling",
+        "event": "Mixed Relay H1-5",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Height, weight, and age are not available from authoritative sources."
+  },
+  {
+    "id": "para-modern-ext-fiona-howard",
+    "name": "Fiona Howard",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 25,
+    "games": "paralympic",
+    "primarySport": "Para Equestrian",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Equestrian",
+        "event": "Individual Championship Test - Grade II",
+        "medal": "Gold"
+      },
+      {
+        "year": 2024,
+        "sport": "Para Equestrian",
+        "event": "Team",
+        "medal": "Gold"
+      },
+      {
+        "year": 2024,
+        "sport": "Para Equestrian",
+        "event": "Individual Freestyle - Grade II",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 3,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age calculated from birth year mentioned in one source. Height and weight not found."
+  },
+  {
+    "id": "para-modern-ext-chris-hammer",
+    "name": "Chris Hammer",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 38,
+    "games": "paralympic",
+    "primarySport": "Para Triathlon",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Triathlon",
+        "event": "Men's PTS5",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age calculated from birth year (1986). Height and weight data not found across sources."
+  },
+  {
+    "id": "para-modern-ext-carson-clough",
+    "name": "Carson Clough",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Triathlon",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Triathlon",
+        "event": "Men's PTS4",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Birth year, height and weight data not found across sources."
+  },
+  {
+    "id": "para-modern-ext-mohamed-lahna",
+    "name": "Mohamed Lahna",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 42,
+    "games": "paralympic",
+    "primarySport": "Para Triathlon",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Triathlon",
+        "event": "Men's PTS2",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age calculated from birth year (1982). Height and weight data not found across sources."
+  },
+  {
+    "id": "para-modern-ext-mark-barr",
+    "name": "Mark Barr",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Triathlon",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Triathlon",
+        "event": "Men's PTS2",
+        "medal": "Bronze"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "_enrichmentNotes": "Birth year, height and weight data not found across sources."
+  },
+  {
+    "id": "para-modern-ext-jason-tabansky",
+    "name": "Jason Tabansky",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 42,
+    "games": "paralympic",
+    "primarySport": "Para Archery",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Archery",
+        "event": "Men's Individual W1",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age at 2024 is confirmed by multiple sources. Height and weight data not found."
+  },
+  {
+    "id": "para-modern-ext-emelie-eldracher",
+    "name": "Emelie Eldracher",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Rowing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Rowing",
+        "event": "Mixed Coxed Four PR3",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found."
+  },
+  {
+    "id": "para-modern-ext-ben-washburne",
+    "name": "Ben Washburne",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Rowing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Rowing",
+        "event": "Mixed Coxed Four PR3",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found."
+  },
+  {
+    "id": "para-modern-ext-alex-flynn",
+    "name": "Alex Flynn",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Rowing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Rowing",
+        "event": "Mixed Coxed Four PR3",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found."
+  },
+  {
+    "id": "para-modern-ext-gemma-wollenschlaeger",
+    "name": "Gemma Wollenschlaeger",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Rowing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Rowing",
+        "event": "Mixed Coxed Four PR3",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found."
+  },
+  {
+    "id": "para-modern-ext-skylar-dahl",
+    "name": "Skylar Dahl",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Para Rowing",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Rowing",
+        "event": "Mixed Coxed Four PR3",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found."
+  },
+  {
+    "id": "para-modern-ext-miles-krajewski",
+    "name": "Miles Krajewski",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 19,
+    "games": "paralympic",
+    "primarySport": "Para Badminton",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Badminton",
+        "event": "Mixed Doubles SH6",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age at 2024 is confirmed by multiple sources. Height and weight data not found."
+  },
+  {
+    "id": "para-modern-ext-jayci-simon",
+    "name": "Jayci Simon",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 19,
+    "games": "paralympic",
+    "primarySport": "Para Badminton",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Para Badminton",
+        "event": "Mixed Doubles SH6",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age at 2024 is confirmed by multiple sources. Height and weight data not found."
+  },
+  {
+    "id": "para-modern-ext-jake-williams",
+    "name": "Jake Williams",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Men's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found from authoritative sources."
+  },
+  {
+    "id": "para-modern-ext-talen-jourdan",
+    "name": "Talen Jourdan",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Basketball",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Wheelchair Basketball",
+        "event": "Wheelchair Basketball Men's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found from authoritative sources."
+  },
+  {
+    "id": "para-modern-ext-clayton-brackett",
+    "name": "Clayton Brackett",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found from authoritative sources."
+  },
+  {
+    "id": "para-modern-ext-brad-hudspeth",
+    "name": "Brad Hudspeth",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found from authoritative sources."
+  },
+  {
+    "id": "para-modern-ext-chuck-melton",
+    "name": "Chuck Melton",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found from authoritative sources."
+  },
+  {
+    "id": "para-modern-ext-eric-newby",
+    "name": "Eric Newby",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found from authoritative sources."
+  },
+  {
+    "id": "para-modern-ext-josh-o-neill",
+    "name": "Josh O'Neill",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "No height, weight, or birth year data found from authoritative sources."
+  },
+  {
+    "id": "para-modern-ext-zion-redington",
+    "name": "Zion Redington",
+    "sex": "M",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": 17,
+    "games": "paralympic",
+    "primarySport": "Wheelchair Rugby",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Wheelchair Rugby",
+        "event": "Mixed Team",
+        "medal": "Silver"
+      }
+    ],
+    "medals": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Age at year 2024 is 17 based on information stating he was 17 in 2024. No height or weight data found from authoritative sources."
+  },
+  {
+    "id": "para-modern-ext-lexi-shifflett-patterson",
+    "name": "Lexi Shifflett-Patterson",
+    "sex": "F",
+    "height_cm": 163,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Sitting Volleyball",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height from USOPC. Weight and age not found."
+  },
+  {
+    "id": "para-modern-ext-katie-holloway-bridge",
+    "name": "Katie Holloway Bridge",
+    "sex": "F",
+    "height_cm": 191,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Sitting Volleyball",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height from USOPC. Weight and age not found."
+  },
+  {
+    "id": "para-modern-ext-emma-schieck",
+    "name": "Emma Schieck",
+    "sex": "F",
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "games": "paralympic",
+    "primarySport": "Sitting Volleyball",
+    "events": [
+      {
+        "year": 2024,
+        "sport": "Sitting Volleyball",
+        "event": "Women's Team",
+        "medal": "Gold"
+      }
+    ],
+    "medals": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0
+    },
+    "_enrichmentNotes": "Height, weight, and age not found."
+  }
+]
